@@ -15,10 +15,82 @@
               "state": {
                 "file": "big picture.canvas",
                 "viewState": {
-                  "x": -274.73547047762577,
-                  "y": 797.5719578926504,
-                  "zoom": -2.902516611218451
+                  "x": -2862.3581604819456,
+                  "y": 2010.3835718425066,
+                  "zoom": -1.6666666666666665
                 }
+              }
+            }
+          },
+          {
+            "id": "3eaabc62ed22cb0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lila - Rudolph's Tiger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bd49dc01a9c4329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Kasimir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9561d47e72e97cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Arabelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a74c61edfc295318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Arrigal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "297dc0424dad8b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Luvash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa1640d0fe422849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Stanimir.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -133,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -149,12 +221,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a9320c8c5bd0652",
+  "active": "963be787d2a3e611",
   "lastOpenFiles": [
-    "PCs/Lamb.md",
-    "big picture.canvas",
-    "PCs/Lucian.md",
     "PCs/Flick.md",
+    "big picture.canvas",
+    "images/NPC Splash/flick2.webp",
+    "images/NPC Splash/flick2.webp.crdownload",
+    "Lila - Rudolph's Tiger.md",
+    "images/NPC Splash/lila the tiger.png",
+    "images/NPC Splash/lila the tiger.png.crdownload",
+    "Loot/The Wagon.md",
+    "images/the-wagon.png",
+    "images/the-wagon.png.crdownload",
+    "NPCs/Rudolph Van Richter.md",
+    "NPCs/Arabelle.md",
+    "NPCs/Kasimir.md",
+    "NPCs/Arrigal.md",
+    "NPCs/Luvash.md",
+    "NPCs/Stanimir.md",
+    "images/NPC Splash/kasimir.webp",
+    "images/NPC Splash/kasimir.webp.crdownload",
+    "images/NPC Splash/luvash.webp",
+    "images/NPC Splash/luvash.webp.crdownload",
+    "NPCs/Ireena.md",
+    "PCs/Lamb.md",
+    "PCs/Lucian.md",
     "images/NPC Splash/flick.webp",
     "PCs/Elik Moon.md",
     "PCs/Monk.md",
@@ -162,40 +253,23 @@
     "PCs/elik.jpeg",
     "PCs/tuush.jpeg",
     "PCs/lucian.jpeg",
-    "PCs/lamb.jpeg",
-    "PCs/WhatsApp Image 2023-11-28 at 21.40.45.jpeg",
-    "PCs/WhatsApp Image 2023-11-29 at 19.05.29.jpeg",
-    "PCs/WhatsApp Image 2023-11-30 at 21.00.55.jpeg",
-    "PCs/WhatsApp Image 2023-12-01 at 08.50.25.jpeg",
     "Acts/Arrival in Barovia.md",
     "Acts/Flee Vallaki.md",
     "Acts/The Festival.md",
     "Acts/Visit Vallaki.md",
     "NPCs/Sir Godfry.md",
-    "Arabelle.md",
     "Rictavio.md",
     "NPCs/Morgantha.md",
     "NPCs/Escher.md",
     "NPCs/Patrina Velkovna.md",
     "NPCs/Rahadin.md",
     "NPCs/Vasilli Van Holtz.md",
-    "NPCs/Strahd.md",
-    "PCs/Tuush.md",
-    "NPCs/Ludmilla.md",
-    "NPCs/Baronnet Victor.md",
-    "NPCs/Ezmerelda.md",
-    "NPCs/Arrigal.md",
-    "templates/Name.md",
-    "NPCs/Barron Vargas Valikovic.md",
     "Characters",
     "templates",
     "Loot",
     "PCs",
     "images/NPC Splash",
-    "NPCs",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "images",
-    "Acts"
+    "Untitled.canvas"
   ]
 }
