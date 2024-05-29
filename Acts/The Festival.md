@@ -1,0 +1,7 @@
+## Day 7, Full Moon
+- [ ] Ressurected [[Lady Fiona Wacther]]
+- [x] Found one moonflower
+- [x] [[Tuush]] Speach
+- [x] Killed [[Ana]]
+- [x] Murdered [[Barron Vargas Valikovic]]
+- [ ] Calmed crowd
