@@ -15,10 +15,22 @@
               "state": {
                 "file": "big picture.canvas",
                 "viewState": {
-                  "x": -2862.3581604819456,
-                  "y": 2010.3835718425066,
+                  "x": -2321.755120751617,
+                  "y": 1305.2447675971925,
                   "zoom": -1.6666666666666665
                 }
+              }
+            }
+          },
+          {
+            "id": "add9120b75ad8892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -28,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lila - Rudolph's Tiger.md",
+                "file": "NPCs/Lila - Rudolph's Tiger.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#the-party",
+                "query": "tag:#vampire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "big picture.canvas",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "big picture.canvas",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "big picture.canvas"
+                "file": "index.md"
               }
             }
           }
@@ -209,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,16 +232,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "963be787d2a3e611",
+  "active": "add9120b75ad8892",
   "lastOpenFiles": [
-    "PCs/Flick.md",
     "big picture.canvas",
+    "index.md",
+    "NPCs/Ireena.md",
+    "PCs/Flick.md",
     "images/NPC Splash/flick2.webp",
     "images/NPC Splash/flick2.webp.crdownload",
-    "Lila - Rudolph's Tiger.md",
+    "NPCs/Lila - Rudolph's Tiger.md",
     "images/NPC Splash/lila the tiger.png",
     "images/NPC Splash/lila the tiger.png.crdownload",
     "Loot/The Wagon.md",
@@ -243,7 +260,6 @@
     "images/NPC Splash/kasimir.webp.crdownload",
     "images/NPC Splash/luvash.webp",
     "images/NPC Splash/luvash.webp.crdownload",
-    "NPCs/Ireena.md",
     "PCs/Lamb.md",
     "PCs/Lucian.md",
     "images/NPC Splash/flick.webp",
@@ -263,7 +279,6 @@
     "NPCs/Escher.md",
     "NPCs/Patrina Velkovna.md",
     "NPCs/Rahadin.md",
-    "NPCs/Vasilli Van Holtz.md",
     "Characters",
     "templates",
     "Loot",

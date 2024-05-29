@@ -40,18 +40,18 @@
 		{"id":"d625df1fe596bd59","type":"file","file":"NPCs/Morgantha.md","x":-2240,"y":-600,"width":400,"height":613},
 		{"id":"4ac8558efd03069d","type":"file","file":"NPCs/Rudolph Van Richter.md","x":-3162,"y":-1133,"width":400,"height":1146},
 		{"id":"0fb74c798d4626d6","type":"file","file":"NPCs/Ireena.md","x":-3920,"y":414,"width":400,"height":843},
-		{"id":"bdb36b252d6ee27e","type":"text","text":"# Vistani Camp","x":-3567,"y":1403,"width":165,"height":123,"color":"3"},
 		{"id":"58a59bd471e35503","type":"file","file":"NPCs/Stanimir.md","x":-5000,"y":1526,"width":400,"height":617},
 		{"id":"7856d26c4d5c6bd0","type":"file","file":"NPCs/Arrigal.md","x":-4560,"y":1526,"width":400,"height":737},
 		{"id":"ea6f7ce812194e4b","type":"file","file":"NPCs/Arabelle.md","x":-4120,"y":1526,"width":400,"height":747},
 		{"id":"ae0e2f6ce1881339","type":"file","file":"NPCs/Luvash.md","x":-4120,"y":2324,"width":400,"height":740},
-		{"id":"ddf0203dc3e6374e","type":"file","file":"NPCs/Kasimir.md","x":-3220,"y":1588,"width":400,"height":740},
-		{"id":"c503ab8d1c4becc4","type":"file","file":"Lila - Rudolph's Tiger.md","x":-3620,"y":-1133,"width":400,"height":713},
 		{"id":"ed07d25b2bbd260c","type":"file","file":"Loot/The Wagon.md","x":3320,"y":1405,"width":400,"height":791,"color":"4"},
 		{"id":"bdbd5e35dd8a2b46","type":"text","text":"# LOOT","x":2106,"y":770,"width":147,"height":60,"color":"3"},
 		{"id":"f1fddc9047fbec00","type":"file","file":"NPCs/Ismark.md","x":-4360,"y":436,"width":400,"height":799},
-		{"id":"b42a5ebd7db9525b","type":"file","file":"NPCs/Sir Godfry.md","x":-4360,"y":-734,"width":400,"height":747},
-		{"id":"a0480f5ab7f90f24","type":"text","text":"# Allies","x":-3327,"y":225,"width":165,"height":123,"color":"4"}
+		{"id":"a0480f5ab7f90f24","type":"text","text":"# Allies","x":-3327,"y":225,"width":165,"height":123,"color":"4"},
+		{"id":"bdb36b252d6ee27e","type":"text","text":"# Vistani Camp","x":-3620,"y":1320,"width":165,"height":123,"color":"3"},
+		{"id":"ddf0203dc3e6374e","type":"file","file":"NPCs/Kasimir.md","x":-3327,"y":1584,"width":400,"height":740},
+		{"id":"c503ab8d1c4becc4","type":"file","file":"NPCs/Lila - Rudolph's Tiger.md","x":-3600,"y":-840,"width":400,"height":713},
+		{"id":"b42a5ebd7db9525b","type":"file","file":"NPCs/Sir Godfry.md","x":-4160,"y":-676,"width":400,"height":747}
 	],
 	"edges":[
 		{"id":"ad658417f069cda4","fromNode":"46bb34f69d784639","fromSide":"top","toNode":"da8cd3abee684946","toSide":"bottom","color":"4"},
@@ -104,6 +104,6 @@
 		{"id":"19ccca1a7ec2306e","fromNode":"bdb36b252d6ee27e","fromSide":"bottom","toNode":"ae0e2f6ce1881339","toSide":"right","color":"3"},
 		{"id":"389691a0e2c9e233","fromNode":"bdb36b252d6ee27e","fromSide":"left","toNode":"58a59bd471e35503","toSide":"top","color":"3"},
 		{"id":"a0c36e6d2b39c995","fromNode":"bdb36b252d6ee27e","fromSide":"bottom","toNode":"ddf0203dc3e6374e","toSide":"left","color":"2"},
-		{"id":"74702f072ea9f750","fromNode":"4ac8558efd03069d","fromSide":"top","toNode":"c503ab8d1c4becc4","toSide":"top","color":"4"}
+		{"id":"74702f072ea9f750","fromNode":"4ac8558efd03069d","fromSide":"bottom","toNode":"c503ab8d1c4becc4","toSide":"bottom","color":"4"}
 	]
 }
