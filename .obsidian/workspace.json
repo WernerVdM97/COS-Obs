@@ -15,22 +15,10 @@
               "state": {
                 "file": "big picture.canvas",
                 "viewState": {
-                  "x": -2321.755120751617,
-                  "y": 1305.2447675971925,
-                  "zoom": -1.6666666666666665
+                  "x": 1609.2836192254572,
+                  "y": 212.85196669116223,
+                  "zoom": -1.3333333333333333
                 }
-              }
-            }
-          },
-          {
-            "id": "add9120b75ad8892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -106,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "big picture.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "big picture.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "big picture.canvas"
               }
             }
           }
@@ -236,10 +223,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "add9120b75ad8892",
+  "active": "963be787d2a3e611",
   "lastOpenFiles": [
-    "big picture.canvas",
+    "images/locations/vallaki-gate.png",
     "index.md",
+    "images/locations/krezk.png",
+    "images/locations/gates of borovia.png",
+    "images/locations",
+    "images/New folder",
+    "big picture.canvas",
     "NPCs/Ireena.md",
     "PCs/Flick.md",
     "images/NPC Splash/flick2.webp",
@@ -267,8 +259,6 @@
     "PCs/Monk.md",
     "PCs/monk.jpeg",
     "PCs/elik.jpeg",
-    "PCs/tuush.jpeg",
-    "PCs/lucian.jpeg",
     "Acts/Arrival in Barovia.md",
     "Acts/Flee Vallaki.md",
     "Acts/The Festival.md",
@@ -282,8 +272,6 @@
     "Characters",
     "templates",
     "Loot",
-    "PCs",
-    "images/NPC Splash",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
