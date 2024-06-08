@@ -15,30 +15,14 @@
               "state": {
                 "file": "big picture.canvas",
                 "viewState": {
-                  "x": -285.6112065600297,
-                  "y": -5.370274410402599,
-                  "zoom": -1.2545503846804305
-                }
-              }
-            }
-          },
-          {
-            "id": "8cd1c2f5ec588e8c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "big picture.canvas",
-                "viewState": {
-                  "x": 2218.919472430595,
-                  "y": 783.9873881429903,
-                  "zoom": -0.959999999999998
+                  "x": 2094.8778246142424,
+                  "y": 1640.7909379068417,
+                  "zoom": -0.7469756665861093
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Burgomaster",
+                "query": "tag:#undead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,54 +142,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8cd1c2f5ec588e8c",
+  "active": "963be787d2a3e611",
   "lastOpenFiles": [
-    "images/NPC Splash/Frankk.png",
     "index.md",
-    "NPCs/Lazlo Groza.md",
-    "images/NPC Splash/lazlo.png",
-    "NPCs/Lich Luvash.md",
     "big picture.canvas",
-    "images/NPC Splash/lich.png",
+    "NPCs/Madam Eva.md",
+    "202406081920.md",
+    "202406081921.md",
+    "eva.md",
+    "images/NPC Splash/baba lysaga.jpg",
+    "images/NPC Splash/arrigal.jpeg",
+    "images/NPC Splash/escher.jpg",
+    "images/NPC Splash/godfree.webp",
+    "images/NPC Splash/ireena.webp",
+    "images/NPC Splash/ismark.png",
+    "images/NPC Splash/izek.jpeg",
+    "images/NPC Splash/jan.jpg",
+    "images/NPC Splash/kasimir.webp",
+    "images/NPC Splash/lady fiona watcher.jpeg",
+    "NPCs/Strahd's Armour.md",
+    "NPCs/Beucephalus.md",
+    "NPCs/Strahd - Transcended.md",
+    "NPCs/Patrina Velkovna.md",
+    "NPCs/Lich Luvash.md",
+    "NPCs/Ana.md",
+    "COS.md",
+    "NPCs/Lazlo Groza.md",
     "Acts/Flee Vallaki.md",
     "NPCs/Father Odu.md",
-    "images/NPC Splash/arrigal.jpeg",
-    "images/NPC Splash/father odu.png",
-    "images/NPC Splash/jan.jpg",
     "NPCs/Arrigal.md",
     "NPCs/Ismark.md",
-    "images/locations/vallaki-gate.png",
-    "images/locations/krezk.png",
     "images/locations",
     "Acts/Arrival in Barovia.md",
     "PCs/Flikk.md",
     "PCs/Elik Moon.md",
-    "PCs/elik.jpeg",
     "templates/Name.md",
-    "images/the-wagon.png",
-    "images/NPC Splash/luvash.webp",
     "NPCs/Stanimir.md",
     "NPCs/Luvash.md",
     "NPCs/Lila - Rudolph's Tiger.md",
     "NPCs/Kasimir.md",
-    "NPCs/Arabelle.md",
-    "PCs/Lamb.md",
-    "PCs/Lucian.md",
-    "PCs/Monk.md",
-    "Acts/The Festival.md",
-    "Acts/Visit Vallaki.md",
-    "NPCs/Sir Godfry.md",
-    "Arabelle.md",
-    "Rictavio.md",
-    "NPCs/Morgantha.md",
     "Characters",
     "templates",
     "Loot",

@@ -44,7 +44,7 @@
 		{"id":"46bb34f69d784639","type":"file","file":"images/Curse of Strahd.png","x":-280,"y":560,"width":984,"height":331},
 		{"id":"000d52d18e12e0dc","type":"file","file":"Acts/Flee Vallaki.md","x":1800,"y":-20,"width":400,"height":377,"color":"2"},
 		{"id":"e22d124d2f2bb398","type":"file","file":"Acts/Fortune Reading.md","x":702,"y":40,"width":400,"height":192,"color":"3"},
-		{"id":"37b82394230d4390","type":"file","file":"NPCs/Strahd.md","x":-1960,"y":1603,"width":400,"height":557},
+		{"id":"37b82394230d4390","type":"file","file":"NPCs/Strahd.md","x":-1960,"y":1603,"width":400,"height":566,"color":"3"},
 		{"id":"d1622779794cbb57","type":"file","file":"Loot/Volenta's Black Rose.md","x":-1022,"y":2313,"width":400,"height":119},
 		{"id":"8cd8f6b05c031e08","type":"file","file":"NPCs/Ana.md","x":-1022,"y":2510,"width":400,"height":755,"color":"1"},
 		{"id":"57f34e0dd87cc948","type":"file","file":"NPCs/Escher.md","x":-572,"y":2511,"width":400,"height":771,"color":"1"},
@@ -53,7 +53,8 @@
 		{"id":"b9f71a0aa8f8962d","type":"file","file":"Loot/Ana's Armour.md","x":-1022,"y":3764,"width":400,"height":179},
 		{"id":"1737eb180e06538c","type":"file","file":"NPCs/Patrina Velkovna.md","x":-120,"y":1603,"width":400,"height":617},
 		{"id":"d9d01e0627e92184","type":"file","file":"NPCs/Ludmilla.md","x":-594,"y":1595,"width":400,"height":640},
-		{"id":"6cf6b709dfd3632f","type":"file","file":"NPCs/Volenta.md","x":-1040,"y":1603,"width":400,"height":616}
+		{"id":"6cf6b709dfd3632f","type":"file","file":"NPCs/Volenta.md","x":-1040,"y":1603,"width":400,"height":616},
+		{"id":"342f9bf81df78a9d","type":"file","file":"NPCs/Beucephalus.md","x":-1960,"y":2232,"width":400,"height":613}
 	],
 	"edges":[
 		{"id":"ad658417f069cda4","fromNode":"46bb34f69d784639","fromSide":"top","toNode":"da8cd3abee684946","toSide":"bottom","color":"4"},
@@ -106,6 +107,7 @@
 		{"id":"ba5c60aaa54113d9","fromNode":"4e8c2fa82b023a15","fromSide":"top","toNode":"2bc81f3241555f2d","toSide":"bottom"},
 		{"id":"d4d3f68335ac77c5","fromNode":"bdb36b252d6ee27e","fromSide":"left","toNode":"ea6f7ce812194e4b","toSide":"top","color":"3"},
 		{"id":"e626c828db721bf9","fromNode":"4e8c2fa82b023a15","fromSide":"top","toNode":"36b57ee7341f4f20","toSide":"bottom"},
-		{"id":"e98c92295ee1325e","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"6cf6b709dfd3632f","toSide":"top","color":"1"}
+		{"id":"e98c92295ee1325e","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"6cf6b709dfd3632f","toSide":"top","color":"1"},
+		{"id":"d088fb8a1b24b03a","fromNode":"37b82394230d4390","fromSide":"bottom","toNode":"342f9bf81df78a9d","toSide":"top"}
 	]
 }
