@@ -155,7 +155,262 @@
       },
       "active": "963be787d2a3e611",
       "mtime": "2024-06-08T19:21:37+02:00"
+    },
+    "big picture": {
+      "main": {
+        "id": "7d9d0d3c5357fb0d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ef4133dd3ccac11f",
+            "type": "tabs",
+            "dimension": 74.65940054495913,
+            "children": [
+              {
+                "id": "963be787d2a3e611",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "big picture.canvas",
+                    "viewState": {
+                      "x": -847.2750789966688,
+                      "y": -169.01265045278603,
+                      "zoom": -0.8756051012854131
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0dc6510e41c9e8f2",
+            "type": "split",
+            "dimension": 25.340599455040874,
+            "children": [
+              {
+                "id": "6d410ec4e8ab0095",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b51e408189210621",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "big picture.canvas",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [
+                            {
+                              "query": "tag:#dead ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14048348
+                              }
+                            },
+                            {
+                              "query": "tag:#missing",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14069084
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": true,
+                          "textFadeMultiplier": -2.7,
+                          "nodeSizeMultiplier": 3.35011800130208,
+                          "lineSizeMultiplier": 4.30356038411458,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1.2288901315383014,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "91bc90a5170f2d64",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "25db6d803691451b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "big picture.canvas"
+                      }
+                    }
+                  },
+                  {
+                    "id": "c64648ea60d73161",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "big picture.canvas",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "80c5fc0b65ac4146",
+        "type": "split",
+        "children": [
+          {
+            "id": "6841bfeb0fad7fc8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a9320c8c5bd0652",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "54431f9419aa4bdc",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "491519e7ec58c2bd",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "911f895b57747a81",
+        "type": "split",
+        "children": [
+          {
+            "id": "115ed5b2bd0a67d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8a7ee1b7e919347",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "big picture.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "49e44c890fae9982",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "big picture.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "613ae078c2d5a137",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "cb0cc293263f3161",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "big picture.canvas"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "publish:Publish changes...": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "963be787d2a3e611",
+      "mtime": "2024-06-08T20:01:43+02:00"
     }
   },
-  "active": "strahd"
+  "active": "big picture"
 }

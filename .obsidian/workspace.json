@@ -6,7 +6,7 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
-        "dimension": 71.1472602739726,
+        "dimension": 74.65940054495913,
         "children": [
           {
             "id": "963be787d2a3e611",
@@ -16,73 +16,112 @@
               "state": {
                 "file": "big picture.canvas",
                 "viewState": {
-                  "x": -3382.46419781992,
-                  "y": 2316.247263877003,
-                  "zoom": -1.258938434618747
+                  "x": -2110.29510929529,
+                  "y": 795.3250051302209,
+                  "zoom": -1.6733333333333333
                 }
               }
-            },
-            "group": "5a8bec5a18a4bcce"
+            }
           }
         ]
       },
       {
-        "id": "6d410ec4e8ab0095",
-        "type": "tabs",
-        "dimension": 28.852739726027398,
+        "id": "0dc6510e41c9e8f2",
+        "type": "split",
+        "dimension": 25.340599455040874,
         "children": [
           {
-            "id": "b51e408189210621",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "big picture.canvas",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#dead ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "tag:#missing",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14069084
-                      }
+            "id": "6d410ec4e8ab0095",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b51e408189210621",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "big picture.canvas",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#dead ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        },
+                        {
+                          "query": "tag:#missing",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.7,
+                      "nodeSizeMultiplier": 3.35011800130208,
+                      "lineSizeMultiplier": 4.30356038411458,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.2288901315383014,
+                      "close": true
                     }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -2.7,
-                  "nodeSizeMultiplier": 3.35011800130208,
-                  "lineSizeMultiplier": 4.30356038411458,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.6826112273613527,
-                  "close": true
+                  }
                 }
               }
-            },
-            "group": "5a8bec5a18a4bcce"
+            ]
+          },
+          {
+            "id": "91bc90a5170f2d64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "25db6d803691451b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "big picture.canvas"
+                  }
+                }
+              },
+              {
+                "id": "c64648ea60d73161",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "big picture.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -111,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#duskelf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "911f895b57747a81",
@@ -212,10 +252,17 @@
   },
   "active": "963be787d2a3e611",
   "lastOpenFiles": [
-    "NPCs/Izek.md",
+    "NPCs/Ana.md",
     "big picture.canvas",
-    "NPCs/Lazlo Groza.md",
+    "NPCs/Lila - Rudolph's Tiger.md",
+    "NPCs/Lady Fiona Wacther.md",
+    "NPCs/Izek.md",
+    "images/elik.jpeg",
+    "NPCs/Strahd.md",
+    "NPCs/Volenta.md",
+    "NPCs/Rudolph Van Richter.md",
     "NPCs/Vasilli Van Holtz.md",
+    "NPCs/Lazlo Groza.md",
     "NPCs/Father Odu.md",
     "NPCs/Ireena.md",
     "NPCs/Ismark.md",
@@ -223,7 +270,6 @@
     "NPCs/Barron Vargas Valikovic.md",
     "NPCs/Escher.md",
     "Acts/Arrival in Barovia.md",
-    "NPCs/Rudolph Van Richter.md",
     "Acts/Visit Vallaki.md",
     "NPCs/Patrina Velkovna.md",
     "index.md",
@@ -240,15 +286,8 @@
     "images/NPC Splash/izek.jpeg",
     "images/NPC Splash/jan.jpg",
     "images/NPC Splash/kasimir.webp",
-    "images/NPC Splash/lady fiona watcher.jpeg",
     "NPCs/Strahd's Armour.md",
     "NPCs/Beucephalus.md",
-    "NPCs/Strahd - Transcended.md",
-    "NPCs/Lich Luvash.md",
-    "NPCs/Ana.md",
-    "COS.md",
-    "Acts/Flee Vallaki.md",
-    "NPCs/Arrigal.md",
     "images/locations",
     "Characters",
     "templates",
