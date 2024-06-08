@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"6aa908a94707ee16","type":"text","text":"# ACT I\n![[gates of borovia.png]]","x":-1000,"y":-960,"width":407,"height":312,"color":"4"},
 		{"id":"912e82ec7e420096","type":"file","file":"Hidden/Acts/Arrival in Barovia.md","x":-1000,"y":-549,"width":407,"height":403,"color":"4"},
 		{"id":"cc88467b42e50fdb","type":"file","file":"Hidden/Acts/Visit Vallaki.md","x":-1000,"y":-47,"width":407,"height":403},
 		{"id":"f0652fb11868fbc8","type":"file","file":"Hidden/Acts/The Festival.md","x":-1000,"y":455,"width":407,"height":399},
 		{"id":"c736b39608a15312","type":"file","file":"Hidden/Acts/Flee Vallaki.md","x":-1000,"y":1421,"width":407,"height":432,"color":"2"},
 		{"id":"29cbca9f182a819f","type":"text","text":"# ACT II \n![[vallaki.png]]","x":-1000,"y":953,"width":407,"height":368,"color":"2"},
-		{"id":"b7c02c8f8b9bb2da","type":"file","file":"Hidden/Acts/Fortune Reading.md","x":-520,"y":-486,"width":400,"height":277,"color":"3"}
+		{"id":"b7c02c8f8b9bb2da","type":"file","file":"Hidden/Acts/Fortune Reading.md","x":-520,"y":-486,"width":400,"height":277,"color":"3"},
+		{"id":"6aa908a94707ee16","type":"text","text":"# ACT I\n![[gates of borovia.png]]","x":-1000,"y":-1000,"width":407,"height":352,"color":"4"}
 	],
 	"edges":[
 		{"id":"71c64bdfebde9bae","fromNode":"6aa908a94707ee16","fromSide":"bottom","toNode":"912e82ec7e420096","toSide":"top","color":"4"},

@@ -6,7 +6,7 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
-        "dimension": 24.7275204359673,
+        "dimension": 24.743150684931507,
         "children": [
           {
             "id": "b9136f9d2401c56e",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Story.canvas",
                 "viewState": {
-                  "x": -795.8200020287364,
-                  "y": 1480.1221162338366,
-                  "zoom": -0.3008673088622432
+                  "x": -797.6469999999995,
+                  "y": 1432.8220000000006,
+                  "zoom": -0.30256277002043136
                 }
               }
             }
@@ -28,7 +28,7 @@
       {
         "id": "35cb2dd2c5b67190",
         "type": "tabs",
-        "dimension": 56.19891008174387,
+        "dimension": 53.8527397260274,
         "children": [
           {
             "id": "1578639d01e7b273",
@@ -38,19 +38,35 @@
               "state": {
                 "file": "Characters and Items.canvas",
                 "viewState": {
-                  "x": -247.82156410196865,
-                  "y": 1327.2497174778237,
-                  "zoom": -3.316400152144361
+                  "x": 1500.2564494129276,
+                  "y": 1112.8796706137678,
+                  "zoom": -1.6923685142959326
+                }
+              }
+            }
+          },
+          {
+            "id": "de408c09eb507abf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters and Items.canvas",
+                "viewState": {
+                  "x": -804.2626228643852,
+                  "y": 692.8450101796366,
+                  "zoom": -2.863333333333331
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0dc6510e41c9e8f2",
         "type": "split",
-        "dimension": 19.07356948228883,
+        "dimension": 21.404109589041095,
         "children": [
           {
             "id": "6d410ec4e8ab0095",
@@ -74,7 +90,7 @@
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
-                      "collapse-color-groups": true,
+                      "collapse-color-groups": false,
                       "colorGroups": [
                         {
                           "query": "tag:#dead ",
@@ -89,6 +105,20 @@
                             "a": 1,
                             "rgb": 14069084
                           }
+                        },
+                        {
+                          "query": "path:Characters/PCs  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "tag:#mount  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5348321
+                          }
                         }
                       ],
                       "collapse-display": true,
@@ -101,7 +131,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1.0033845907368488,
+                      "scale": 0.6989606412938353,
                       "close": true
                     }
                   }
@@ -163,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dead",
+                "query": "tag:#the-party",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +210,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,7 +276,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -263,20 +295,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1578639d01e7b273",
+  "active": "de408c09eb507abf",
   "lastOpenFiles": [
-    "Characters/NPCs/Izek.md",
-    "Characters/NPCs/Barron Vargas Valikovic.md",
-    "Characters/NPCs/Baronnet Victor.md",
-    "Characters and Items.canvas",
     "Story.canvas",
+    "Images/locations/vallaki.png",
+    "Images/the-wagon.png",
+    "Images/Addemire Institute By Nini Gombart.png",
+    "Images/Curse of Strahd.png",
+    "Images/elik.jpeg",
+    "Images/NPC Splash/madam eva.png",
+    "Pasted image 20240608223716.png",
+    "Characters and Items.canvas",
+    "Characters/NPCs/Strahd.md",
+    "Characters/PCs/The party.md",
+    "Characters/PCs/Monk.md",
+    "Characters/NPCs/Ana.md",
+    "The Party.md",
+    "Characters/NPCs/Volenta.md",
+    "Characters/PCs/Elik Moon.md",
+    "Characters/NPCs/Barron Vargas Valikovic.md",
+    "Characters/NPCs/Izek.md",
+    "Characters/NPCs/Baronnet Victor.md",
     "Characters/NPCs/Arabelle.md",
     "Characters/NPCs/Kasimir.md",
     "Characters/NPCs/Rudolph Van Richter.md",
-    "Characters/NPCs/Ana.md",
     "Characters/NPCs/Luvash.md",
     "Hidden/templates/Character.md",
-    "Untitled.md",
     "Characters",
     "index.md",
     "Hidden/Lich Luvash.md",
@@ -288,23 +332,10 @@
     "Hidden",
     "Characters/NPCs/Lila - Rudolph's Tiger.md",
     "Characters/NPCs/Lady Fiona Wacther.md",
-    "Images/elik.jpeg",
-    "Characters/NPCs/Strahd.md",
-    "Characters/NPCs/Volenta.md",
     "Characters/NPCs/Vasilli Van Holtz.md",
-    "Characters/NPCs/Lazlo Groza.md",
-    "Characters/NPCs/Father Odu.md",
-    "Characters/NPCs/Ireena.md",
-    "Characters/NPCs/Ismark.md",
     "Images/NPC Splash/baba lysaga.jpg",
     "Images/NPC Splash/arrigal.jpeg",
     "Images/NPC Splash/escher.jpg",
-    "Images/NPC Splash/godfree.webp",
-    "Images/NPC Splash/ireena.webp",
-    "Images/NPC Splash/ismark.png",
-    "Images/NPC Splash/izek.jpeg",
-    "Images/NPC Splash/jan.jpg",
-    "Images/NPC Splash/kasimir.webp",
     "Images/locations",
     "Characters",
     "Hidden/templates",
