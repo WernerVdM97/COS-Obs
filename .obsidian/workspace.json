@@ -6,6 +6,7 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
+        "dimension": 71.1472602739726,
         "children": [
           {
             "id": "963be787d2a3e611",
@@ -15,12 +16,71 @@
               "state": {
                 "file": "big picture.canvas",
                 "viewState": {
-                  "x": 2094.8778246142424,
-                  "y": 1640.7909379068417,
-                  "zoom": -0.7469756665861093
+                  "x": -3382.46419781992,
+                  "y": 2316.247263877003,
+                  "zoom": -1.258938434618747
                 }
               }
-            }
+            },
+            "group": "5a8bec5a18a4bcce"
+          }
+        ]
+      },
+      {
+        "id": "6d410ec4e8ab0095",
+        "type": "tabs",
+        "dimension": 28.852739726027398,
+        "children": [
+          {
+            "id": "b51e408189210621",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "big picture.canvas",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#dead ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#missing",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -2.7,
+                  "nodeSizeMultiplier": 3.35011800130208,
+                  "lineSizeMultiplier": 4.30356038411458,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.6826112273613527,
+                  "close": true
+                }
+              }
+            },
+            "group": "5a8bec5a18a4bcce"
           }
         ]
       }
@@ -51,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#undead",
+                "query": "tag:#duskelf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +192,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,8 +212,21 @@
   },
   "active": "963be787d2a3e611",
   "lastOpenFiles": [
-    "index.md",
+    "NPCs/Izek.md",
     "big picture.canvas",
+    "NPCs/Lazlo Groza.md",
+    "NPCs/Vasilli Van Holtz.md",
+    "NPCs/Father Odu.md",
+    "NPCs/Ireena.md",
+    "NPCs/Ismark.md",
+    "NPCs/Kasimir.md",
+    "NPCs/Barron Vargas Valikovic.md",
+    "NPCs/Escher.md",
+    "Acts/Arrival in Barovia.md",
+    "NPCs/Rudolph Van Richter.md",
+    "Acts/Visit Vallaki.md",
+    "NPCs/Patrina Velkovna.md",
+    "index.md",
     "NPCs/Madam Eva.md",
     "202406081920.md",
     "202406081921.md",
@@ -172,24 +244,12 @@
     "NPCs/Strahd's Armour.md",
     "NPCs/Beucephalus.md",
     "NPCs/Strahd - Transcended.md",
-    "NPCs/Patrina Velkovna.md",
     "NPCs/Lich Luvash.md",
     "NPCs/Ana.md",
     "COS.md",
-    "NPCs/Lazlo Groza.md",
     "Acts/Flee Vallaki.md",
-    "NPCs/Father Odu.md",
     "NPCs/Arrigal.md",
-    "NPCs/Ismark.md",
     "images/locations",
-    "Acts/Arrival in Barovia.md",
-    "PCs/Flikk.md",
-    "PCs/Elik Moon.md",
-    "templates/Name.md",
-    "NPCs/Stanimir.md",
-    "NPCs/Luvash.md",
-    "NPCs/Lila - Rudolph's Tiger.md",
-    "NPCs/Kasimir.md",
     "Characters",
     "templates",
     "Loot",
