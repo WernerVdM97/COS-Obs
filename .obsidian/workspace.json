@@ -6,19 +6,41 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
-        "dimension": 74.65940054495913,
+        "dimension": 20.231607629427792,
         "children": [
           {
-            "id": "963be787d2a3e611",
+            "id": "b9136f9d2401c56e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "big picture.canvas",
+                "file": "Story.canvas",
                 "viewState": {
-                  "x": -2110.29510929529,
-                  "y": 795.3250051302209,
-                  "zoom": -1.6733333333333333
+                  "x": -798.31,
+                  "y": 937.5999999999999,
+                  "zoom": -0.7078192485066896
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "35cb2dd2c5b67190",
+        "type": "tabs",
+        "dimension": 60.694822888283376,
+        "children": [
+          {
+            "id": "1578639d01e7b273",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters and Items.canvas",
+                "viewState": {
+                  "x": -1690.4296365828495,
+                  "y": 926.7339743103738,
+                  "zoom": -2.6880038685738574
                 }
               }
             }
@@ -28,11 +50,12 @@
       {
         "id": "0dc6510e41c9e8f2",
         "type": "split",
-        "dimension": 25.340599455040874,
+        "dimension": 19.07356948228883,
         "children": [
           {
             "id": "6d410ec4e8ab0095",
             "type": "tabs",
+            "dimension": 42.38900634249471,
             "children": [
               {
                 "id": "b51e408189210621",
@@ -40,7 +63,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "big picture.canvas",
+                    "file": "Characters and Items.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -78,7 +101,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1.2288901315383014,
+                      "scale": 1.0413797439924202,
                       "close": true
                     }
                   }
@@ -89,36 +112,26 @@
           {
             "id": "91bc90a5170f2d64",
             "type": "tabs",
+            "dimension": 57.61099365750529,
             "children": [
-              {
-                "id": "25db6d803691451b",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "big picture.canvas"
-                  }
-                }
-              },
               {
                 "id": "c64648ea60d73161",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "big picture.canvas",
+                    "file": "Characters and Items.canvas",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
                     "searchQuery": "",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -167,7 +180,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -188,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "big picture.canvas",
+                "file": "Characters and Items.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "big picture.canvas",
+                "file": "Characters and Items.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "big picture.canvas"
+                "file": "Characters and Items.canvas"
               }
             }
           }
@@ -250,54 +264,55 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "963be787d2a3e611",
+  "active": "1578639d01e7b273",
   "lastOpenFiles": [
-    "NPCs/Ana.md",
-    "big picture.canvas",
-    "NPCs/Lila - Rudolph's Tiger.md",
-    "NPCs/Lady Fiona Wacther.md",
-    "NPCs/Izek.md",
-    "images/elik.jpeg",
-    "NPCs/Strahd.md",
-    "NPCs/Volenta.md",
-    "NPCs/Rudolph Van Richter.md",
-    "NPCs/Vasilli Van Holtz.md",
-    "NPCs/Lazlo Groza.md",
-    "NPCs/Father Odu.md",
-    "NPCs/Ireena.md",
-    "NPCs/Ismark.md",
-    "NPCs/Kasimir.md",
-    "NPCs/Barron Vargas Valikovic.md",
-    "NPCs/Escher.md",
-    "Acts/Arrival in Barovia.md",
-    "Acts/Visit Vallaki.md",
-    "NPCs/Patrina Velkovna.md",
-    "index.md",
-    "NPCs/Madam Eva.md",
-    "202406081920.md",
-    "202406081921.md",
-    "eva.md",
-    "images/NPC Splash/baba lysaga.jpg",
-    "images/NPC Splash/arrigal.jpeg",
-    "images/NPC Splash/escher.jpg",
-    "images/NPC Splash/godfree.webp",
-    "images/NPC Splash/ireena.webp",
-    "images/NPC Splash/ismark.png",
-    "images/NPC Splash/izek.jpeg",
-    "images/NPC Splash/jan.jpg",
-    "images/NPC Splash/kasimir.webp",
-    "NPCs/Strahd's Armour.md",
-    "NPCs/Beucephalus.md",
-    "images/locations",
+    "Story.canvas",
+    "Characters/NPCs/Rudolph Van Richter.md",
+    "Characters and Items.canvas",
+    "Characters/NPCs/Barron Vargas Valikovic.md",
+    "Characters/NPCs/Izek.md",
+    "Characters/NPCs/Ana.md",
+    "Characters/NPCs/Luvash.md",
+    "Hidden/templates/Character.md",
+    "Untitled.md",
     "Characters",
-    "templates",
-    "Loot",
-    "PCs",
-    "images/NPC Splash",
-    "NPCs",
+    "index.md",
+    "Hidden/Lich Luvash.md",
+    "Hidden/Strahd - Transcended.md",
+    "Characters/NPCs/Ludmilla.md",
+    "Hidden/Strahd's Armour.md",
+    "Characters/NPCs/Rahadin.md",
+    "Characters/NPCs/Arabelle.md",
+    "Hidden/Acts/Visit Vallaki.md",
+    "Hidden",
+    "Characters/NPCs/Lila - Rudolph's Tiger.md",
+    "Characters/NPCs/Lady Fiona Wacther.md",
+    "Images/elik.jpeg",
+    "Characters/NPCs/Strahd.md",
+    "Characters/NPCs/Volenta.md",
+    "Characters/NPCs/Vasilli Van Holtz.md",
+    "Characters/NPCs/Lazlo Groza.md",
+    "Characters/NPCs/Father Odu.md",
+    "Characters/NPCs/Ireena.md",
+    "Characters/NPCs/Ismark.md",
+    "Characters/NPCs/Kasimir.md",
+    "Images/NPC Splash/baba lysaga.jpg",
+    "Images/NPC Splash/arrigal.jpeg",
+    "Images/NPC Splash/escher.jpg",
+    "Images/NPC Splash/godfree.webp",
+    "Images/NPC Splash/ireena.webp",
+    "Images/NPC Splash/ismark.png",
+    "Images/NPC Splash/izek.jpeg",
+    "Images/NPC Splash/jan.jpg",
+    "Images/NPC Splash/kasimir.webp",
+    "Images/locations",
+    "Characters",
+    "Hidden/templates",
+    "Items",
+    "Characters/PCs",
+    "Images/NPC Splash",
+    "Characters/NPCs",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "images",
-    "Acts"
+    "Images"
   ]
 }

@@ -3,4 +3,4 @@
 ## Splash
 ![[lich.png]]
 ## Family
-see [[Luvash]]
+Lich resurrection of Luvash
