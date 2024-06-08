@@ -1,6 +1,7 @@
 ## Day 8
-- [ ] Douse Fires of Vallaki
-- [ ] Investigate the Vistani Camp
+- [x] Douse Fires of Vallaki
+- [x] Investigate the Vistani Camp
+- [ ] Secure [[Arabelle]]
 - [ ] Track Elik down
 - [ ] Reply to [[Strahd]]'s dinner invitation
 - [ ] Escort [[Ireena]] to Krezk

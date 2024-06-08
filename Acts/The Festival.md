@@ -4,4 +4,4 @@
 - [x] [[Tuush]] Speach
 - [x] Killed [[Ana]]
 - [x] Murdered [[Barron Vargas Valikovic]]
-- [ ] Calmed crowd
+- [x] Calmed crowd

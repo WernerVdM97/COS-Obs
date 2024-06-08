@@ -3,7 +3,7 @@
 ## Splash
 ![[arrigal.jpeg]]
 ## Family
-Brother,
+Brother, [[Luvash]]
 Niece, [[Arabelle]]
 
 ## Statblock

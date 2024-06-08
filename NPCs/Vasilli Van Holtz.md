@@ -1,5 +1,6 @@
 ## Tags
-#human #lord #fighter #missing
+#human #lord #fighter 
+#Burgomaster of Vallaki
 ## Splash
 ![[vasalli.jpg]]
 

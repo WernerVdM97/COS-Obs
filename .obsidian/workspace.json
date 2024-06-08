@@ -15,86 +15,30 @@
               "state": {
                 "file": "big picture.canvas",
                 "viewState": {
-                  "x": 1609.2836192254572,
-                  "y": 212.85196669116223,
-                  "zoom": -1.3333333333333333
+                  "x": -285.6112065600297,
+                  "y": -5.370274410402599,
+                  "zoom": -1.2545503846804305
                 }
               }
             }
           },
           {
-            "id": "3eaabc62ed22cb0d",
+            "id": "8cd1c2f5ec588e8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "NPCs/Lila - Rudolph's Tiger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bd49dc01a9c4329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Kasimir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9561d47e72e97cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Arabelle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a74c61edfc295318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Arrigal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "297dc0424dad8b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Luvash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa1640d0fe422849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Stanimir.md",
-                "mode": "source",
-                "source": false
+                "file": "big picture.canvas",
+                "viewState": {
+                  "x": 2218.919472430595,
+                  "y": 783.9873881429903,
+                  "zoom": -0.959999999999998
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vampire",
+                "query": "tag:#Burgomaster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -219,60 +163,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "963be787d2a3e611",
+  "active": "8cd1c2f5ec588e8c",
   "lastOpenFiles": [
-    "images/locations/vallaki-gate.png",
+    "images/NPC Splash/Frankk.png",
     "index.md",
-    "images/locations/krezk.png",
-    "images/locations/gates of borovia.png",
-    "images/locations",
-    "images/New folder",
+    "NPCs/Lazlo Groza.md",
+    "images/NPC Splash/lazlo.png",
+    "NPCs/Lich Luvash.md",
     "big picture.canvas",
-    "NPCs/Ireena.md",
-    "PCs/Flick.md",
-    "images/NPC Splash/flick2.webp",
-    "images/NPC Splash/flick2.webp.crdownload",
-    "NPCs/Lila - Rudolph's Tiger.md",
-    "images/NPC Splash/lila the tiger.png",
-    "images/NPC Splash/lila the tiger.png.crdownload",
-    "Loot/The Wagon.md",
-    "images/the-wagon.png",
-    "images/the-wagon.png.crdownload",
-    "NPCs/Rudolph Van Richter.md",
-    "NPCs/Arabelle.md",
-    "NPCs/Kasimir.md",
+    "images/NPC Splash/lich.png",
+    "Acts/Flee Vallaki.md",
+    "NPCs/Father Odu.md",
+    "images/NPC Splash/arrigal.jpeg",
+    "images/NPC Splash/father odu.png",
+    "images/NPC Splash/jan.jpg",
     "NPCs/Arrigal.md",
-    "NPCs/Luvash.md",
-    "NPCs/Stanimir.md",
-    "images/NPC Splash/kasimir.webp",
-    "images/NPC Splash/kasimir.webp.crdownload",
+    "NPCs/Ismark.md",
+    "images/locations/vallaki-gate.png",
+    "images/locations/krezk.png",
+    "images/locations",
+    "Acts/Arrival in Barovia.md",
+    "PCs/Flikk.md",
+    "PCs/Elik Moon.md",
+    "PCs/elik.jpeg",
+    "templates/Name.md",
+    "images/the-wagon.png",
     "images/NPC Splash/luvash.webp",
-    "images/NPC Splash/luvash.webp.crdownload",
+    "NPCs/Stanimir.md",
+    "NPCs/Luvash.md",
+    "NPCs/Lila - Rudolph's Tiger.md",
+    "NPCs/Kasimir.md",
+    "NPCs/Arabelle.md",
     "PCs/Lamb.md",
     "PCs/Lucian.md",
-    "images/NPC Splash/flick.webp",
-    "PCs/Elik Moon.md",
     "PCs/Monk.md",
-    "PCs/monk.jpeg",
-    "PCs/elik.jpeg",
-    "Acts/Arrival in Barovia.md",
-    "Acts/Flee Vallaki.md",
     "Acts/The Festival.md",
     "Acts/Visit Vallaki.md",
     "NPCs/Sir Godfry.md",
+    "Arabelle.md",
     "Rictavio.md",
     "NPCs/Morgantha.md",
-    "NPCs/Escher.md",
-    "NPCs/Patrina Velkovna.md",
-    "NPCs/Rahadin.md",
     "Characters",
     "templates",
     "Loot",
+    "PCs",
+    "images/NPC Splash",
+    "NPCs",
     "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "images",
+    "Acts"
   ]
 }

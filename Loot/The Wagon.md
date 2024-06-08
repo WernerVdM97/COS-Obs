@@ -3,7 +3,7 @@
 ## Splash
 ![[the-wagon.png]]
 ## Statblock
-4 dours
+4 doors
 
 requires a large animal to move
 

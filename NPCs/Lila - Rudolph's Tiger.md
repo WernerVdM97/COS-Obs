@@ -1,5 +1,5 @@
 ## Tags
-#tiger #beast
+#tiger #beast #dead
 ## Splash
 ![[lila the tiger.png]]
 ## Family
