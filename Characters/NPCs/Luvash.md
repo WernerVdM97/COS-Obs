@@ -1,3 +1,4 @@
+# Luvash
 ## Tags
 #vistani #barbarian #dead 
 ## Splash
@@ -9,7 +10,7 @@ Daughter, [[Arabelle]]
 ## Death
 killed by [[Rudolph Van Richter]] during the vistani camp trifecta
 
-## Statblock
+# Statblock
 Here's an NPC statblock for Luvash the Barbarian, the Vistani leader, along with lair actions for the Vistani camp:
 
 ### Luvash the Barbarian - Vistani Leader

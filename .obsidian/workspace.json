@@ -6,7 +6,7 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
-        "dimension": 20.231607629427792,
+        "dimension": 24.7275204359673,
         "children": [
           {
             "id": "b9136f9d2401c56e",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Story.canvas",
                 "viewState": {
-                  "x": -798.31,
-                  "y": 937.5999999999999,
-                  "zoom": -0.7078192485066896
+                  "x": -795.8200020287364,
+                  "y": 1480.1221162338366,
+                  "zoom": -0.3008673088622432
                 }
               }
             }
@@ -28,7 +28,7 @@
       {
         "id": "35cb2dd2c5b67190",
         "type": "tabs",
-        "dimension": 60.694822888283376,
+        "dimension": 56.19891008174387,
         "children": [
           {
             "id": "1578639d01e7b273",
@@ -38,9 +38,9 @@
               "state": {
                 "file": "Characters and Items.canvas",
                 "viewState": {
-                  "x": -1690.4296365828495,
-                  "y": 926.7339743103738,
-                  "zoom": -2.6880038685738574
+                  "x": -247.82156410196865,
+                  "y": 1327.2497174778237,
+                  "zoom": -3.316400152144361
                 }
               }
             }
@@ -65,7 +65,7 @@
                   "state": {
                     "file": "Characters and Items.canvas",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
                       "localJumps": 1,
                       "localBacklinks": true,
@@ -101,7 +101,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1.0413797439924202,
+                      "scale": 1.0033845907368488,
                       "close": true
                     }
                   }
@@ -163,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,22 +254,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
+      "publish:Publish changes...": true,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false
     }
   },
   "active": "1578639d01e7b273",
   "lastOpenFiles": [
-    "Story.canvas",
-    "Characters/NPCs/Rudolph Van Richter.md",
-    "Characters and Items.canvas",
-    "Characters/NPCs/Barron Vargas Valikovic.md",
     "Characters/NPCs/Izek.md",
+    "Characters/NPCs/Barron Vargas Valikovic.md",
+    "Characters/NPCs/Baronnet Victor.md",
+    "Characters and Items.canvas",
+    "Story.canvas",
+    "Characters/NPCs/Arabelle.md",
+    "Characters/NPCs/Kasimir.md",
+    "Characters/NPCs/Rudolph Van Richter.md",
     "Characters/NPCs/Ana.md",
     "Characters/NPCs/Luvash.md",
     "Hidden/templates/Character.md",
@@ -282,7 +284,6 @@
     "Characters/NPCs/Ludmilla.md",
     "Hidden/Strahd's Armour.md",
     "Characters/NPCs/Rahadin.md",
-    "Characters/NPCs/Arabelle.md",
     "Hidden/Acts/Visit Vallaki.md",
     "Hidden",
     "Characters/NPCs/Lila - Rudolph's Tiger.md",
@@ -295,7 +296,6 @@
     "Characters/NPCs/Father Odu.md",
     "Characters/NPCs/Ireena.md",
     "Characters/NPCs/Ismark.md",
-    "Characters/NPCs/Kasimir.md",
     "Images/NPC Splash/baba lysaga.jpg",
     "Images/NPC Splash/arrigal.jpeg",
     "Images/NPC Splash/escher.jpg",

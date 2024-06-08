@@ -1,8 +1,9 @@
+# Stanimir
 ## Tags
 #vistani #bard 
 ## Splash
 ![[stanimir.jpg]]
-## Statblock
+# Statblock
 Certainly! Here’s a statblock for Stanimir, the bard:
 
 ### Stanimir - Vistani Bard

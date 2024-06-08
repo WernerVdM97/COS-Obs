@@ -1,3 +1,4 @@
+# Arabelle
 ## Tags
 #vistani #wizard 
 ## Splash
@@ -6,7 +7,7 @@
 Father, [[luvash.webp]]
 Uncle, [[Arrigal]]
 
-## Statblock
+# Statblock
 ### Arabelle - Young Wizard
 
 **Small humanoid (human), chaotic neutral**

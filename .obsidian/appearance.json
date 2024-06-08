@@ -1,4 +1,9 @@
 {
   "accentColor": "",
-  "translucency": true
+  "translucency": true,
+  "baseFontSize": 20,
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "cssTheme": "",
+  "textFontFamily": ""
 }

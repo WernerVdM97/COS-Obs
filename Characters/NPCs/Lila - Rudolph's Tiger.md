@@ -1,10 +1,11 @@
+# Lila
 ## Tags
 #tiger #beast #dead
 ## Splash
 ![[lila the tiger.png]]
 ## Family
 Owner, [[Rudolph Van Richter]]
-## Statblock
+# Statblock
 
 ### Rudolph van Richten's Steampunk Tiger
 

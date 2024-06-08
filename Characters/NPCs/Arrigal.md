@@ -1,3 +1,4 @@
+# Arrigal
 ## Tags
 #vistani #rogue 
 ## Splash
@@ -6,7 +7,7 @@
 Brother, [[Luvash]]
 Niece, [[Arabelle]]
 
-## Statblock
+# Statblock
 ### Arrigal - Vistani Rogue
 
 **Medium humanoid (human), chaotic neutral**
