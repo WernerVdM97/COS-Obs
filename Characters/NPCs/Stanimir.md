@@ -1,7 +1,6 @@
 # Stanimir
-## Tags
 #vistani #bard 
-## Splash
+
 ![[stanimir.jpg]]
 # Statblock
 Certainly! Here’s a statblock for Stanimir, the bard:

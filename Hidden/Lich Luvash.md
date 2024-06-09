@@ -1,6 +1,5 @@
-## Tags
-#undead #wizard #necromancer
-## Splash
+#undead #sorcerer #barbarian  #necromancer
+
 ![[lich.png]]
-## Family
-Lich resurrection of Luvash
+## Notes
+Lich resurrection of Luvash by Ludmilla

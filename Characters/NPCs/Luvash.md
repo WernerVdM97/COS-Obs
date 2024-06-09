@@ -1,7 +1,6 @@
 # Luvash
-## Tags
 #vistani #barbarian #dead 
-## Splash
+
 ![[luvash.webp]]
 ## Family
 Brother, [[Arrigal]]

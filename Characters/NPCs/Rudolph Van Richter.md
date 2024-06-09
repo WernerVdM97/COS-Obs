@@ -1,11 +1,12 @@
 ## AKA Rictavio
-## Tags
 #wizard #elf #dead 
-
-## Splash(es)
+### Rudolph
+![[rudolph van richten.jpeg]]
 ### Rictavio
 ![[rictavio.jpeg]]
-## Rudolph
-![[rudolph van richten.jpeg]]
+### Yan
+![[jan.jpg]]
 ## Death 
 Killed by [[Kasimir]] during the trifecta at the vistani camp
+## Notes
+Disguised himself as Yan and Rictavio to infiltrate the Vistani Camp

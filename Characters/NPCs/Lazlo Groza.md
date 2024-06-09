@@ -1,4 +1,3 @@
-# Tags
-#blacksmith
-## Splash
+#blacksmith #human 
+
 ![[lazlo.png]]

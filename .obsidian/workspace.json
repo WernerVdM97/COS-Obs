@@ -22,8 +22,24 @@
                 }
               }
             }
+          },
+          {
+            "id": "5b96771242ef5a4e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Story.canvas",
+                "viewState": {
+                  "x": -792.414613430031,
+                  "y": 1387.1065911466908,
+                  "zoom": -0.33414214813646503
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "35cb2dd2c5b67190",
@@ -53,15 +69,40 @@
               "state": {
                 "file": "Characters and Items.canvas",
                 "viewState": {
-                  "x": -804.2626228643852,
-                  "y": 692.8450101796366,
-                  "zoom": -2.863333333333331
+                  "x": -2305.710973820896,
+                  "y": 449.835681969931,
+                  "zoom": -2.2592312682607103
+                }
+              }
+            }
+          },
+          {
+            "id": "b15db88395937809",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/PC Splash/elik.jpeg"
+              }
+            }
+          },
+          {
+            "id": "f41c290298f743aa",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters and Items.canvas",
+                "viewState": {
+                  "x": -513.5,
+                  "y": 994.5,
+                  "zoom": -3.3719469240005404
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "0dc6510e41c9e8f2",
@@ -193,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#the-party",
+                "query": "tag:#undead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +251,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -295,47 +335,49 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "de408c09eb507abf",
+  "active": "f41c290298f743aa",
   "lastOpenFiles": [
-    "Story.canvas",
-    "Images/locations/vallaki.png",
-    "Images/the-wagon.png",
-    "Images/Addemire Institute By Nini Gombart.png",
-    "Images/Curse of Strahd.png",
-    "Images/elik.jpeg",
-    "Images/NPC Splash/madam eva.png",
-    "Pasted image 20240608223716.png",
+    "Images/NPC Splash/zombie.jpeg",
+    "Images/NPC Splash/werewolf.jpg",
+    "Images/NPC Splash/wereraven.jpg",
+    "Images/NPC Splash/volenta.jpeg",
+    "Images/NPC Splash/victor vallikovic.jpeg",
+    "Images/NPC Splash/vasalli.jpg",
+    "Images/NPC Splash/undeadknight.jpg",
+    "Images/NPC Splash/the abbot.jpg",
+    "Images/NPC Splash/the hut.jpg",
+    "Images/NPC Splash/strahds armour.jpg",
+    "Images/NPC Splash/strahd casual.jpg",
     "Characters and Items.canvas",
-    "Characters/NPCs/Strahd.md",
+    "Hidden/Strahd's Armour.md",
+    "Images/PC Splash",
+    "Hidden/Strahd - Transcended.md",
+    "Hidden/Sergei.md",
+    "Hidden/Lich Luvash.md",
+    "Characters/NPCs/Rudolph Van Richter.md",
+    "Story.canvas",
+    "Characters/NPCs/Arabelle.md",
+    "Hidden/templates/Character.md",
+    "Items/The Wagon.md",
+    "Items/Ana's Sword.md",
+    "Items/Volenta's Black Rose.md",
+    "Items/Ana's Haversack.md",
+    "Items/Ana's Armour.md",
+    "Characters/PCs/Tuush.md",
     "Characters/PCs/The party.md",
     "Characters/PCs/Monk.md",
-    "Characters/NPCs/Ana.md",
-    "The Party.md",
-    "Characters/NPCs/Volenta.md",
+    "Characters/PCs/Lucian.md",
+    "Characters/PCs/Lamb.md",
+    "Characters/PCs/Flikk.md",
     "Characters/PCs/Elik Moon.md",
-    "Characters/NPCs/Barron Vargas Valikovic.md",
-    "Characters/NPCs/Izek.md",
-    "Characters/NPCs/Baronnet Victor.md",
-    "Characters/NPCs/Arabelle.md",
-    "Characters/NPCs/Kasimir.md",
-    "Characters/NPCs/Rudolph Van Richter.md",
-    "Characters/NPCs/Luvash.md",
-    "Hidden/templates/Character.md",
-    "Characters",
-    "index.md",
-    "Hidden/Lich Luvash.md",
-    "Hidden/Strahd - Transcended.md",
-    "Characters/NPCs/Ludmilla.md",
-    "Hidden/Strahd's Armour.md",
-    "Characters/NPCs/Rahadin.md",
-    "Hidden/Acts/Visit Vallaki.md",
-    "Hidden",
-    "Characters/NPCs/Lila - Rudolph's Tiger.md",
-    "Characters/NPCs/Lady Fiona Wacther.md",
+    "Characters/NPCs/Volenta.md",
     "Characters/NPCs/Vasilli Van Holtz.md",
-    "Images/NPC Splash/baba lysaga.jpg",
-    "Images/NPC Splash/arrigal.jpeg",
-    "Images/NPC Splash/escher.jpg",
+    "Characters/NPCs/Strahd.md",
+    "Characters/NPCs/Stanimir.md",
+    "Characters/NPCs/Sir Godfry.md",
+    "Characters/NPCs/Rahadin.md",
+    "Characters",
+    "Hidden",
     "Images/locations",
     "Characters",
     "Hidden/templates",
@@ -343,7 +385,6 @@
     "Characters/PCs",
     "Images/NPC Splash",
     "Characters/NPCs",
-    "Untitled 1.canvas",
-    "Images"
+    "Untitled 1.canvas"
   ]
 }

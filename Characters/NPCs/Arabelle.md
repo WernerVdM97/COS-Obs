@@ -1,7 +1,6 @@
 # Arabelle
-## Tags
 #vistani #wizard 
-## Splash
+
 ![[arrabell.jpg]]
 ## Family
 Father, [[luvash.webp]]

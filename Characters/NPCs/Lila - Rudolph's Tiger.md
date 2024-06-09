@@ -1,7 +1,6 @@
 # Lila
-## Tags
 #tiger #beast #dead
-## Splash
+
 ![[lila the tiger.png]]
 ## Family
 Owner, [[Rudolph Van Richter]]

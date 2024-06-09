@@ -1,8 +1,4 @@
-## Tags
 #banished #returned #dead #killed #cleric 
-## Splash
-
-^4fabfb
 
 ![[lady fiona watcher.jpeg]]
 # Death

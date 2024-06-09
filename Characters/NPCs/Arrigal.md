@@ -1,7 +1,6 @@
 # Arrigal
-## Tags
 #vistani #rogue 
-## Splash
+
 ![[arrigal.jpeg]]
 ## Family
 Brother, [[Luvash]]

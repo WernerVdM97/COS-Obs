@@ -1,6 +1,5 @@
-## Tags
 #wood #wagon #mount
-## Splash
+
 ![[the-wagon.png]]
 ## Statblock
 4 doors

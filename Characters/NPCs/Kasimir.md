@@ -1,6 +1,6 @@
 # Kasimir
-## Tags
-#duskelf #fighter 
+
+#duskelf #fighter #wizard 
 ## Splash
 ![[kasimir.webp]]
 ## Family
