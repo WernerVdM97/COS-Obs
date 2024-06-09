@@ -1,4 +1,4 @@
-# Strahd
+# Strahd Von Zarovich
 #vampire #undead #wizard #elf 
 
 ![[strahd casual.jpg]]

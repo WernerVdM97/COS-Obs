@@ -1,3 +1,4 @@
+# Rudolph Van Richten
 ## AKA Rictavio
 #wizard #elf #dead 
 ### Rudolph
@@ -8,5 +9,5 @@
 ![[jan.jpg]]
 ## Death 
 Killed by [[Kasimir]] during the trifecta at the vistani camp
-## Notes
+# Notes
 Disguised himself as Yan and Rictavio to infiltrate the Vistani Camp

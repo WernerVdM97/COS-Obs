@@ -1,13 +1,12 @@
-# Name
+# Fullname
+## AKA Nickname
 #tags
 
 ![[Curse of Strahd.png]]
 ## Family
 
-## Notes
+# Hidden Notes
 
-## Items
+## Unique Items
 
-# Statblock
-
-
+## Statblock

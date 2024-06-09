@@ -94,9 +94,9 @@
               "state": {
                 "file": "Characters and Items.canvas",
                 "viewState": {
-                  "x": -513.5,
-                  "y": 994.5,
-                  "zoom": -3.3719469240005404
+                  "x": -294.99067605570826,
+                  "y": 1466.8208238839677,
+                  "zoom": -3.4725646015940423
                 }
               }
             }
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#undead",
+                "query": "tag:#vampire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -337,6 +337,15 @@
   },
   "active": "f41c290298f743aa",
   "lastOpenFiles": [
+    "Hidden/templates/Character.md",
+    "Characters and Items.canvas",
+    "Items/Bloody Full-Plate.md",
+    "Characters/NPCs/Rudolph.md",
+    "Characters/NPCs/Strahd.md",
+    "Hidden/Strahd's Armour.md",
+    "Hidden/Strahd - Transcended.md",
+    "Hidden/Sergei.md",
+    "Hidden/Lich Luvash.md",
     "Images/NPC Splash/zombie.jpeg",
     "Images/NPC Splash/werewolf.jpg",
     "Images/NPC Splash/wereraven.jpg",
@@ -347,22 +356,13 @@
     "Images/NPC Splash/the abbot.jpg",
     "Images/NPC Splash/the hut.jpg",
     "Images/NPC Splash/strahds armour.jpg",
-    "Images/NPC Splash/strahd casual.jpg",
-    "Characters and Items.canvas",
-    "Hidden/Strahd's Armour.md",
     "Images/PC Splash",
-    "Hidden/Strahd - Transcended.md",
-    "Hidden/Sergei.md",
-    "Hidden/Lich Luvash.md",
-    "Characters/NPCs/Rudolph Van Richter.md",
     "Story.canvas",
     "Characters/NPCs/Arabelle.md",
-    "Hidden/templates/Character.md",
     "Items/The Wagon.md",
-    "Items/Ana's Sword.md",
+    "Items/Reaping Greatsword.md",
     "Items/Volenta's Black Rose.md",
-    "Items/Ana's Haversack.md",
-    "Items/Ana's Armour.md",
+    "Items/Misty Haversack.md",
     "Characters/PCs/Tuush.md",
     "Characters/PCs/The party.md",
     "Characters/PCs/Monk.md",
@@ -372,7 +372,6 @@
     "Characters/PCs/Elik Moon.md",
     "Characters/NPCs/Volenta.md",
     "Characters/NPCs/Vasilli Van Holtz.md",
-    "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Stanimir.md",
     "Characters/NPCs/Sir Godfry.md",
     "Characters/NPCs/Rahadin.md",

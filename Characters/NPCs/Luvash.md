@@ -7,7 +7,7 @@ Brother, [[Arrigal]]
 Daughter, [[Arabelle]]
 
 ## Death
-killed by [[Rudolph Van Richter]] during the vistani camp trifecta
+killed by [[Rudolph]] during the vistani camp trifecta
 
 # Statblock
 Here's an NPC statblock for Luvash the Barbarian, the Vistani leader, along with lair actions for the Vistani camp:

@@ -3,7 +3,7 @@
 
 ![[lila the tiger.png]]
 ## Family
-Owner, [[Rudolph Van Richter]]
+Owner, [[Rudolph]]
 # Statblock
 
 ### Rudolph van Richten's Steampunk Tiger
