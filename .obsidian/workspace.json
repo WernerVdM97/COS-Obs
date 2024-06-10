@@ -6,206 +6,40 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
-        "dimension": 24.743150684931507,
         "children": [
           {
             "id": "b9136f9d2401c56e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Story.canvas",
-                "viewState": {
-                  "x": -797.6469999999995,
-                  "y": 1432.8220000000006,
-                  "zoom": -0.30256277002043136
-                }
+                "file": "Characters/NPCs/Arabelle.md",
+                "mode": "source",
+                "source": true
               }
-            }
-          },
-          {
-            "id": "5b96771242ef5a4e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Story.canvas",
-                "viewState": {
-                  "x": -792.414613430031,
-                  "y": 1387.1065911466908,
-                  "zoom": -0.33414214813646503
-                }
-              }
-            }
+            },
+            "group": "c918f3a16491e16b"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "35cb2dd2c5b67190",
+        "id": "d64313f1da3d1091",
         "type": "tabs",
-        "dimension": 53.8527397260274,
         "children": [
           {
-            "id": "1578639d01e7b273",
+            "id": "33b28b9eed38afc9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Characters and Items.canvas",
-                "viewState": {
-                  "x": 1500.2564494129276,
-                  "y": 1112.8796706137678,
-                  "zoom": -1.6923685142959326
-                }
+                "file": "Characters/NPCs/Arabelle.md",
+                "mode": "preview",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "de408c09eb507abf",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters and Items.canvas",
-                "viewState": {
-                  "x": -2305.710973820896,
-                  "y": 449.835681969931,
-                  "zoom": -2.2592312682607103
-                }
-              }
-            }
-          },
-          {
-            "id": "b15db88395937809",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/PC Splash/elik.jpeg"
-              }
-            }
-          },
-          {
-            "id": "f41c290298f743aa",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters and Items.canvas",
-                "viewState": {
-                  "x": -294.99067605570826,
-                  "y": 1466.8208238839677,
-                  "zoom": -3.4725646015940423
-                }
-              }
-            }
+            },
+            "group": "c918f3a16491e16b"
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "0dc6510e41c9e8f2",
-        "type": "split",
-        "dimension": 21.404109589041095,
-        "children": [
-          {
-            "id": "6d410ec4e8ab0095",
-            "type": "tabs",
-            "dimension": 42.38900634249471,
-            "children": [
-              {
-                "id": "b51e408189210621",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Characters and Items.canvas",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#dead ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        },
-                        {
-                          "query": "tag:#missing",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14069084
-                          }
-                        },
-                        {
-                          "query": "path:Characters/PCs  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11392604
-                          }
-                        },
-                        {
-                          "query": "tag:#mount  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5348321
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -2.7,
-                      "nodeSizeMultiplier": 3.35011800130208,
-                      "lineSizeMultiplier": 4.30356038411458,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.6989606412938353,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "91bc90a5170f2d64",
-            "type": "tabs",
-            "dimension": 57.61099365750529,
-            "children": [
-              {
-                "id": "c64648ea60d73161",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Characters and Items.canvas",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "911f895b57747a81",
@@ -272,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "Characters/NPCs/Arabelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "Characters/NPCs/Arabelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters and Items.canvas"
+                "file": "Characters/NPCs/Arabelle.md"
               }
             }
           }
@@ -335,11 +168,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f41c290298f743aa",
+  "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
-    "Hidden/templates/Character.md",
     "Characters and Items.canvas",
+    "Characters/NPCs/Arabelle.md",
+    "Items/Misty Haversack.md",
     "Items/Bloody Full-Plate.md",
+    "Characters/PCs/Lucian.md",
+    "Characters/PCs/Elik Moon.md",
+    "Characters/PCs/Flikk.md",
+    "Story.canvas",
+    "Hidden/templates/Character.md",
     "Characters/NPCs/Rudolph.md",
     "Characters/NPCs/Strahd.md",
     "Hidden/Strahd's Armour.md",
@@ -357,19 +196,13 @@
     "Images/NPC Splash/the hut.jpg",
     "Images/NPC Splash/strahds armour.jpg",
     "Images/PC Splash",
-    "Story.canvas",
-    "Characters/NPCs/Arabelle.md",
     "Items/The Wagon.md",
     "Items/Reaping Greatsword.md",
     "Items/Volenta's Black Rose.md",
-    "Items/Misty Haversack.md",
     "Characters/PCs/Tuush.md",
     "Characters/PCs/The party.md",
     "Characters/PCs/Monk.md",
-    "Characters/PCs/Lucian.md",
     "Characters/PCs/Lamb.md",
-    "Characters/PCs/Flikk.md",
-    "Characters/PCs/Elik Moon.md",
     "Characters/NPCs/Volenta.md",
     "Characters/NPCs/Vasilli Van Holtz.md",
     "Characters/NPCs/Stanimir.md",
