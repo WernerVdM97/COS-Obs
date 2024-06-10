@@ -6,40 +6,135 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
+        "dimension": 20.231607629427792,
         "children": [
           {
             "id": "b9136f9d2401c56e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Characters/NPCs/Arabelle.md",
-                "mode": "source",
-                "source": true
+                "file": "Story.canvas",
+                "viewState": {
+                  "x": -798.31,
+                  "y": 937.5999999999999,
+                  "zoom": -0.7078192485066896
+                }
               }
-            },
-            "group": "c918f3a16491e16b"
+            }
           }
         ]
       },
       {
-        "id": "d64313f1da3d1091",
+        "id": "35cb2dd2c5b67190",
         "type": "tabs",
+        "dimension": 60.694822888283376,
         "children": [
           {
-            "id": "33b28b9eed38afc9",
+            "id": "1578639d01e7b273",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Characters/NPCs/Arabelle.md",
-                "mode": "preview",
-                "source": false
+                "file": "Characters and Items.canvas",
+                "viewState": {
+                  "x": 25.3218615917432,
+                  "y": 1154.6758218797418,
+                  "zoom": -2.014670535240524
+                }
               }
-            },
-            "group": "c918f3a16491e16b"
+            }
           }
         ]
+      },
+      {
+        "id": "0dc6510e41c9e8f2",
+        "type": "split",
+        "dimension": 19.07356948228883,
+        "children": [
+          {
+            "id": "6d410ec4e8ab0095",
+            "type": "tabs",
+            "dimension": 42.38900634249471,
+            "children": [
+              {
+                "id": "b51e408189210621",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Characters and Items.canvas",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#dead ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        },
+                        {
+                          "query": "tag:#missing",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.7,
+                      "nodeSizeMultiplier": 3.35011800130208,
+                      "lineSizeMultiplier": 4.30356038411458,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.0413797439924202,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "91bc90a5170f2d64",
+            "type": "tabs",
+            "dimension": 57.61099365750529,
+            "children": [
+              {
+                "id": "c64648ea60d73161",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Characters and Items.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -68,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vampire",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,11 +180,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "911f895b57747a81",
@@ -105,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Arabelle.md",
+                "file": "Characters and Items.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPCs/Arabelle.md",
+                "file": "Characters and Items.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,12 +242,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Arabelle.md"
+                "file": "Characters and Items.canvas"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,17 +257,18 @@
     "hiddenItems": {
       "publish:Publish changes...": true,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false,
+      "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9136f9d2401c56e",
+  "active": "1578639d01e7b273",
   "lastOpenFiles": [
-    "Characters and Items.canvas",
     "Characters/NPCs/Arabelle.md",
+    "Characters and Items.canvas",
+    "Characters/NPCs/Ana.md",
     "Items/Misty Haversack.md",
     "Items/Bloody Full-Plate.md",
     "Characters/PCs/Lucian.md",
@@ -207,7 +304,6 @@
     "Characters/NPCs/Vasilli Van Holtz.md",
     "Characters/NPCs/Stanimir.md",
     "Characters/NPCs/Sir Godfry.md",
-    "Characters/NPCs/Rahadin.md",
     "Characters",
     "Hidden",
     "Images/locations",
