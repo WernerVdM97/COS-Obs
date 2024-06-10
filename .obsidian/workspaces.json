@@ -40,9 +40,9 @@
                   "state": {
                     "file": "Characters and Items.canvas",
                     "viewState": {
-                      "x": -373.0283721242647,
-                      "y": 568.4245345241106,
-                      "zoom": -2.014670535240524
+                      "x": -621.7555247809976,
+                      "y": 1569.4372778897523,
+                      "zoom": -3.134670535240524
                     }
                   }
                 }
@@ -65,7 +65,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Images/Curse of Strahd.png",
+                        "file": "Characters and Items.canvas",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -122,7 +122,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Images/Curse of Strahd.png",
+                        "file": "Characters and Items.canvas",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "tag:#dead",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -183,7 +183,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -204,7 +204,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Images/Curse of Strahd.png",
+                    "file": "Characters and Items.canvas",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Images/Curse of Strahd.png",
+                    "file": "Characters and Items.canvas",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -244,7 +244,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Images/Curse of Strahd.png"
+                    "file": "Characters and Items.canvas"
                   }
                 }
               }
@@ -267,7 +267,7 @@
         }
       },
       "active": "1578639d01e7b273",
-      "mtime": "2024-06-10T21:22:17+02:00"
+      "mtime": "2024-06-10T21:48:36+02:00"
     },
     "devmode": {
       "main": {

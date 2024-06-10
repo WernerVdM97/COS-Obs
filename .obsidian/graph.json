@@ -1,22 +1,72 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#dead  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Characters/PCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 2086461
+      }
+    },
+    {
+      "query": "tag:#missing  ",
+      "color": {
+        "a": 1,
+        "rgb": 15770624
+      }
+    },
+    {
+      "query": "tag:#vampire",
+      "color": {
+        "a": 1,
+        "rgb": 11404326
+      }
+    },
+    {
+      "query": "tag:#Burgomaster  ",
+      "color": {
+        "a": 1,
+        "rgb": 15683020
+      }
+    },
+    {
+      "query": "path:Items  ",
+      "color": {
+        "a": 1,
+        "rgb": 7358536
+      }
+    },
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 10395294
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 3.67291666666667,
-  "lineSizeMultiplier": 2.44791666666667,
-  "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.28408746206718244,
-  "close": false
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 4.13129475911458,
+  "lineSizeMultiplier": 1.86233317057292,
+  "collapse-forces": true,
+  "centerStrength": 0.4464111328125,
+  "repelStrength": 14.1813151041667,
+  "linkStrength": 0.803385416666667,
+  "linkDistance": 344,
+  "scale": 0.4861530169408846,
+  "close": true
 }
