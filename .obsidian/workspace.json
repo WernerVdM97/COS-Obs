@@ -6,135 +6,53 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
-        "dimension": 20.231607629427792,
         "children": [
           {
             "id": "b9136f9d2401c56e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Story.canvas",
-                "viewState": {
-                  "x": -798.31,
-                  "y": 937.5999999999999,
-                  "zoom": -0.7078192485066896
-                }
+                "file": "Characters/NPCs/Arabelle.md",
+                "mode": "source",
+                "source": true
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "35cb2dd2c5b67190",
-        "type": "tabs",
-        "dimension": 60.694822888283376,
-        "children": [
-          {
-            "id": "1578639d01e7b273",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters and Items.canvas",
-                "viewState": {
-                  "x": -613.5875797531752,
-                  "y": 1487.7578276115282,
-                  "zoom": -3.134670535240524
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0dc6510e41c9e8f2",
-        "type": "split",
-        "dimension": 19.07356948228883,
-        "children": [
-          {
-            "id": "6d410ec4e8ab0095",
-            "type": "tabs",
-            "dimension": 42.38900634249471,
-            "children": [
-              {
-                "id": "b51e408189210621",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Characters and Items.canvas",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#dead ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        },
-                        {
-                          "query": "tag:#missing",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14069084
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -2.7,
-                      "nodeSizeMultiplier": 3.35011800130208,
-                      "lineSizeMultiplier": 4.30356038411458,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1.0413797439924202,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
+            },
+            "group": "c918f3a16491e16b"
           },
           {
-            "id": "91bc90a5170f2d64",
-            "type": "tabs",
-            "dimension": 57.61099365750529,
-            "children": [
-              {
-                "id": "c64648ea60d73161",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Characters and Items.canvas",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                }
+            "id": "a67ff26d450c5474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/Emil.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "d64313f1da3d1091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b28b9eed38afc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Arabelle.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "c918f3a16491e16b"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dead",
+                "query": "tag:#vampire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,13 +98,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "911f895b57747a81",
@@ -202,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "Hidden/Emil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "Hidden/Emil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,11 +158,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters and Items.canvas"
+                "file": "Hidden/Emil.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -257,33 +174,37 @@
     "hiddenItems": {
       "publish:Publish changes...": true,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "graph:Open graph view": true,
       "canvas:Create new canvas": true,
-      "templates:Insert template": true,
+      "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1578639d01e7b273",
+  "active": "a67ff26d450c5474",
   "lastOpenFiles": [
-    "Characters and Items.canvas",
-    "Items/Misty Haversack.md",
+    "Hidden/Lich Luvash.md",
+    "Hidden/Emil.md",
     "Characters/NPCs/Arabelle.md",
+    "Characters and Items.canvas",
+    "Characters/NPCs/Luvash.md",
+    "Hidden/Sergei.md",
+    "Hidden/Strahd - Transcended.md",
+    "Hidden/Strahd's Armour.md",
+    "Story.canvas",
+    "Characters/NPCs/Ismark.md",
+    "Characters/NPCs/Rudolph.md",
+    "Characters/NPCs/Lila - Rudolph's Tiger.md",
+    "Characters/NPCs/Strahd.md",
+    "Items/Bloody Full-Plate.md",
+    "Items/Misty Haversack.md",
     "cos-story.pdf",
     "canvas-export.html",
     "Characters/NPCs/Ana.md",
-    "Items/Bloody Full-Plate.md",
     "Characters/PCs/Lucian.md",
     "Characters/PCs/Elik Moon.md",
     "Characters/PCs/Flikk.md",
-    "Story.canvas",
     "Hidden/templates/Character.md",
-    "Characters/NPCs/Rudolph.md",
-    "Characters/NPCs/Strahd.md",
-    "Hidden/Strahd's Armour.md",
-    "Hidden/Strahd - Transcended.md",
-    "Hidden/Sergei.md",
-    "Hidden/Lich Luvash.md",
     "Images/NPC Splash/zombie.jpeg",
     "Images/NPC Splash/werewolf.jpg",
     "Images/NPC Splash/wereraven.jpg",
@@ -302,10 +223,6 @@
     "Characters/PCs/The party.md",
     "Characters/PCs/Monk.md",
     "Characters/PCs/Lamb.md",
-    "Characters/NPCs/Volenta.md",
-    "Characters/NPCs/Vasilli Van Holtz.md",
-    "Characters/NPCs/Stanimir.md",
-    "Characters/NPCs/Sir Godfry.md",
     "Characters",
     "Hidden",
     "Images/locations",

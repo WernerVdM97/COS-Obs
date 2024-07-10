@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"2a1df4951f4fceb1","type":"text","text":"","x":615,"y":169,"width":250,"height":60},
 		{"id":"038b02466011eca9","type":"file","file":"Characters/PCs/The party.md","subpath":"#^a64b56","x":1295,"y":1040,"width":225,"height":120,"color":"#2a40a7"},
 		{"id":"0b53b1718a16e327","type":"text","text":"# Ravenloft","x":-925,"y":1079,"width":220,"height":81,"color":"1"},
 		{"id":"f82c2f361c6197cb","type":"file","file":"Characters/NPCs/Rahadin.md","x":-1497,"y":1603,"width":400,"height":545},
@@ -38,14 +39,14 @@
 		{"id":"c503ab8d1c4becc4","type":"file","file":"Characters/NPCs/Lila - Rudolph's Tiger.md","subpath":"#Lila","x":-3367,"y":-623,"width":400,"height":639,"color":"1"},
 		{"id":"b42a5ebd7db9525b","type":"file","file":"Characters/NPCs/Sir Godfry.md","x":-3880,"y":-520,"width":400,"height":669},
 		{"id":"ae0e2f6ce1881339","type":"file","file":"Characters/NPCs/Luvash.md","subpath":"#Luvash","x":-3200,"y":2440,"width":400,"height":824,"color":"1"},
-		{"id":"342f9bf81df78a9d","type":"file","file":"Characters/NPCs/Beucephalus.md","x":-1960,"y":2232,"width":400,"height":515},
 		{"id":"d1622779794cbb57","type":"file","file":"Items/Volenta's Black Rose.md","x":-1040,"y":2236,"width":400,"height":149},
 		{"id":"8cd8f6b05c031e08","type":"file","file":"Characters/NPCs/Ana.md","x":-594,"y":2236,"width":400,"height":699,"color":"1"},
 		{"id":"57f34e0dd87cc948","type":"file","file":"Characters/NPCs/Escher.md","x":-144,"y":2237,"width":400,"height":729,"color":"1"},
 		{"id":"bb7c50ec8ba130a0","type":"file","file":"Items/Reaping Greatsword.md","x":-594,"y":3040,"width":400,"height":279},
 		{"id":"b253908d23b626c1","type":"file","file":"Items/Misty Haversack.md","x":-594,"y":3400,"width":400,"height":111},
 		{"id":"b9f71a0aa8f8962d","type":"file","file":"Items/Bloody Full-Plate.md","x":-594,"y":3600,"width":400,"height":264},
-		{"id":"4ac8558efd03069d","type":"file","file":"Characters/NPCs/Rudolph.md","subpath":"#Rudolph Van Richten","x":-2920,"y":-1682,"width":400,"height":1698,"color":"1"}
+		{"id":"4ac8558efd03069d","type":"file","file":"Characters/NPCs/Rudolph.md","subpath":"#Rudolph Van Richten","x":-2920,"y":-1682,"width":400,"height":1698,"color":"1"},
+		{"id":"342f9bf81df78a9d","type":"file","file":"Characters/NPCs/Beucephalus.md","x":-1960,"y":2236,"width":400,"height":515}
 	],
 	"edges":[
 		{"id":"611ae39435f1862e","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"8cd8f6b05c031e08","toSide":"top","color":"1"},
