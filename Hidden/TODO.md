@@ -2,3 +2,4 @@
 - [ ] Volenta panther statblock
 - [ ] Ez artificer tricks
 - [ ] sunsword + ravenkind symbol splashes
+- [ ] Werewolves + splashes
