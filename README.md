@@ -1,4 +1,12 @@
-# DnD5E COS notes
-Load the custom workspace for the preferred view of the characters+items canvas, and the story canvas.
+# Curse of Strahd
 
-Remember to hide `hidden/`...
+## DnD5e
+
+Preparation:
+
+1. hide `hidden/` by going to
+	1. settings,
+	2. files and links,
+	3.  excluded files -> `manage`
+2.  load `storymode` workspace layout
+3. see [[Characters and Items.canvas|Characters and Items]]

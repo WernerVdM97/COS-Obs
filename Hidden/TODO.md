@@ -1,0 +1,4 @@
+- [ ] Lucian wild magic
+- [ ] Volenta panther statblock
+- [ ] Ez artificer tricks
+- [ ] sunsword + ravenkind symbol splashes

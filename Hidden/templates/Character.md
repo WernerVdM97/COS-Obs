@@ -5,8 +5,10 @@
 ![[Curse of Strahd.png]]
 ## Family
 
-# Hidden Notes
+# Hidden
 
 ## Unique Items
 
 ## Statblock
+
+## Motives

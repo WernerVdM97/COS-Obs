@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"2a1df4951f4fceb1","type":"text","text":"","x":615,"y":169,"width":250,"height":60},
 		{"id":"038b02466011eca9","type":"file","file":"Characters/PCs/The party.md","subpath":"#^a64b56","x":1295,"y":1040,"width":225,"height":120,"color":"#2a40a7"},
 		{"id":"0b53b1718a16e327","type":"text","text":"# Ravenloft","x":-925,"y":1079,"width":220,"height":81,"color":"1"},
 		{"id":"f82c2f361c6197cb","type":"file","file":"Characters/NPCs/Rahadin.md","x":-1497,"y":1603,"width":400,"height":545},
@@ -16,7 +15,7 @@
 		{"id":"8d2bd015a8e5aa59","type":"file","file":"Characters/PCs/Monk.md","x":1349,"y":1563,"width":400,"height":745},
 		{"id":"02e7ea52a9407a5d","type":"file","file":"Characters/PCs/Lamb.md","x":1790,"y":1563,"width":400,"height":688},
 		{"id":"2ede98802caef941","type":"file","file":"Characters/PCs/Elik Moon.md","x":894,"y":1563,"width":401,"height":1400},
-		{"id":"ed07d25b2bbd260c","type":"file","file":"Items/The Wagon.md","x":461,"y":1579,"width":400,"height":731,"color":"4"},
+		{"id":"ed07d25b2bbd260c","type":"file","file":"Items/The Wagon.md","x":461,"y":1579,"width":400,"height":801,"color":"4"},
 		{"id":"0fb74c798d4626d6","type":"file","file":"Characters/NPCs/Ireena.md","subpath":"#Ireena","x":-3524,"y":480,"width":400,"height":755},
 		{"id":"f1fddc9047fbec00","type":"file","file":"Characters/NPCs/Ismark.md","x":-3964,"y":502,"width":400,"height":733},
 		{"id":"46bb34f69d784639","type":"file","file":"Images/Curse of Strahd.png","x":-1160,"y":280,"width":1728,"height":581},
@@ -46,7 +45,9 @@
 		{"id":"b253908d23b626c1","type":"file","file":"Items/Misty Haversack.md","x":-594,"y":3400,"width":400,"height":111},
 		{"id":"b9f71a0aa8f8962d","type":"file","file":"Items/Bloody Full-Plate.md","x":-594,"y":3600,"width":400,"height":264},
 		{"id":"4ac8558efd03069d","type":"file","file":"Characters/NPCs/Rudolph.md","subpath":"#Rudolph Van Richten","x":-2920,"y":-1682,"width":400,"height":1698,"color":"1"},
-		{"id":"342f9bf81df78a9d","type":"file","file":"Characters/NPCs/Beucephalus.md","x":-1960,"y":2236,"width":400,"height":515}
+		{"id":"342f9bf81df78a9d","type":"file","file":"Characters/NPCs/Beucephalus.md","x":-1960,"y":2236,"width":400,"height":515},
+		{"id":"34b2a19dc344ecf7","type":"file","file":"Characters/NPCs/Sergei.md","subpath":"#Sergei Von Zarovich","x":-1960,"y":2852,"width":400,"height":888,"color":"3"},
+		{"id":"0918256897402f1f","type":"file","file":"Items/Sunsword.md","x":-1960,"y":3840,"width":400,"height":264}
 	],
 	"edges":[
 		{"id":"611ae39435f1862e","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"8cd8f6b05c031e08","toSide":"top","color":"1"},
@@ -93,6 +94,8 @@
 		{"id":"c6b5a4a73f94ce68","fromNode":"46bb34f69d784639","fromSide":"left","toNode":"8f4b90acd64b9f0d","toSide":"bottom"},
 		{"id":"996f196b94ad6626","fromNode":"46bb34f69d784639","fromSide":"left","toNode":"bdb36b252d6ee27e","toSide":"top"},
 		{"id":"992592f85c270e36","fromNode":"46bb34f69d784639","fromSide":"left","toNode":"a0480f5ab7f90f24","toSide":"bottom"},
-		{"id":"fd23f77e53b9a5ba","fromNode":"6cf6b709dfd3632f","fromSide":"bottom","toNode":"d1622779794cbb57","toSide":"top"}
+		{"id":"fd23f77e53b9a5ba","fromNode":"6cf6b709dfd3632f","fromSide":"bottom","toNode":"d1622779794cbb57","toSide":"top"},
+		{"id":"ab896afc257a4cb4","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"34b2a19dc344ecf7","toSide":"top"},
+		{"id":"9dcea236e1c0af09","fromNode":"34b2a19dc344ecf7","fromSide":"bottom","toNode":"0918256897402f1f","toSide":"top"}
 	]
 }
