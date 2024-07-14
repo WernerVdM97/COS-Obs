@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Hidden/notes/Castle Ravenloft hooks.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               }
             },
             "group": "c918f3a16491e16b"
@@ -197,8 +197,10 @@
   },
   "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
-    "Hidden/characters/Baba.md",
+    "Characters and Items.canvas",
+    "Characters/NPCs/Strahd.md",
     "Hidden/notes/Castle Ravenloft hooks.md",
+    "Hidden/characters/Baba.md",
     "Untitled",
     "Hidden/TODO.md",
     "Images/NPC Splash/piddlewick.jpg",
@@ -214,7 +216,6 @@
     "Images/NPC Splash/baba lysaga.jpg",
     "Hidden/Strahd's Armour.md",
     "Hidden/characters/maid.jpeg.opdownload",
-    "Characters and Items.canvas",
     "Items/Volenta's Black Rose.md",
     "Items/The Wagon.md",
     "Items/Sunsword.md",
@@ -239,9 +240,7 @@
     "Characters/NPCs/Luvash.md",
     "Characters/NPCs/Ismark.md",
     "Characters/NPCs/Lila - Rudolph's Tiger.md",
-    "Characters/NPCs/Strahd.md",
     "canvas-export.html",
-    "Characters/NPCs/Ana.md",
     "Images/PC Splash",
     "Characters",
     "Hidden",

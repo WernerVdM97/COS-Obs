@@ -3,7 +3,6 @@
 		{"id":"038b02466011eca9","type":"file","file":"Characters/PCs/The party.md","subpath":"#^a64b56","x":1295,"y":1040,"width":225,"height":120,"color":"#2a40a7"},
 		{"id":"0b53b1718a16e327","type":"text","text":"# Ravenloft","x":-925,"y":1079,"width":220,"height":81,"color":"1"},
 		{"id":"f82c2f361c6197cb","type":"file","file":"Characters/NPCs/Rahadin.md","x":-1497,"y":1603,"width":400,"height":545},
-		{"id":"37b82394230d4390","type":"file","file":"Characters/NPCs/Strahd.md","subpath":"#Strahd Von Zarovich","x":-1960,"y":1603,"width":400,"height":515,"color":"3"},
 		{"id":"1737eb180e06538c","type":"file","file":"Characters/NPCs/Patrina Velkovna.md","x":-120,"y":1603,"width":400,"height":545},
 		{"id":"d9d01e0627e92184","type":"file","file":"Characters/NPCs/Ludmilla.md","x":-594,"y":1595,"width":400,"height":545},
 		{"id":"6cf6b709dfd3632f","type":"file","file":"Characters/NPCs/Volenta.md","x":-1040,"y":1603,"width":400,"height":545},
@@ -47,7 +46,8 @@
 		{"id":"4ac8558efd03069d","type":"file","file":"Characters/NPCs/Rudolph.md","subpath":"#Rudolph Van Richten","x":-2920,"y":-1682,"width":400,"height":1698,"color":"1"},
 		{"id":"342f9bf81df78a9d","type":"file","file":"Characters/NPCs/Beucephalus.md","x":-1960,"y":2236,"width":400,"height":515},
 		{"id":"34b2a19dc344ecf7","type":"file","file":"Characters/NPCs/Sergei.md","subpath":"#Sergei Von Zarovich","x":-1960,"y":2852,"width":400,"height":888,"color":"3"},
-		{"id":"0918256897402f1f","type":"file","file":"Items/Sunsword.md","x":-1960,"y":3840,"width":400,"height":264}
+		{"id":"0918256897402f1f","type":"file","file":"Items/Sunsword.md","x":-1960,"y":3840,"width":400,"height":264},
+		{"id":"37b82394230d4390","type":"file","file":"Characters/NPCs/Strahd.md","subpath":"#Strahd Von Zarovich","x":-1960,"y":1692,"width":400,"height":508,"color":"3"}
 	],
 	"edges":[
 		{"id":"611ae39435f1862e","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"8cd8f6b05c031e08","toSide":"top","color":"1"},
@@ -95,7 +95,7 @@
 		{"id":"996f196b94ad6626","fromNode":"46bb34f69d784639","fromSide":"left","toNode":"bdb36b252d6ee27e","toSide":"top"},
 		{"id":"992592f85c270e36","fromNode":"46bb34f69d784639","fromSide":"left","toNode":"a0480f5ab7f90f24","toSide":"bottom"},
 		{"id":"fd23f77e53b9a5ba","fromNode":"6cf6b709dfd3632f","fromSide":"bottom","toNode":"d1622779794cbb57","toSide":"top"},
-		{"id":"ab896afc257a4cb4","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"34b2a19dc344ecf7","toSide":"top"},
-		{"id":"9dcea236e1c0af09","fromNode":"34b2a19dc344ecf7","fromSide":"bottom","toNode":"0918256897402f1f","toSide":"top"}
+		{"id":"9dcea236e1c0af09","fromNode":"34b2a19dc344ecf7","fromSide":"bottom","toNode":"0918256897402f1f","toSide":"top"},
+		{"id":"ab896afc257a4cb4","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"34b2a19dc344ecf7","toSide":"top","color":"3"}
 	]
 }
