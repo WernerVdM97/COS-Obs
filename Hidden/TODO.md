@@ -2,4 +2,8 @@
 - [ ] Volenta panther statblock
 - [ ] Ez artificer tricks
 - [ ] sunsword + ravenkind symbol splashes
-- [ ] Werewolves + splashes
+- [ ] Werewolves hooks + characters
+- [ ] [[Castle Ravenloft hooks]]
+- [ ] NPC Sheet
+	- [ ] Gertruda
+	- [ ] Mongrefolk chef

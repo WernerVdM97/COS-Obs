@@ -218,9 +218,9 @@
                   "state": {
                     "file": "Story.canvas",
                     "viewState": {
-                      "x": -763.7284744292506,
-                      "y": 1615.3793343825746,
-                      "zoom": -0.7078192485066896
+                      "x": -796.4999999999993,
+                      "y": 1274.8740270036853,
+                      "zoom": -0.18800300575757564
                     }
                   }
                 }
@@ -240,9 +240,9 @@
                   "state": {
                     "file": "Characters and Items.canvas",
                     "viewState": {
-                      "x": -451.0569025959255,
-                      "y": 1498.4890060081161,
-                      "zoom": -3.248003868573859
+                      "x": -415.36974464512696,
+                      "y": 1778.034949521355,
+                      "zoom": -2.850448639935864
                     }
                   }
                 }
@@ -265,7 +265,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Characters/NPCs/Strahd.md",
+                        "file": "Characters/PCs/The party.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -303,7 +303,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 1.0413797439924202,
+                          "scale": 0.8048743911955513,
                           "close": true
                         }
                       }
@@ -322,7 +322,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Characters/NPCs/Strahd.md",
+                        "file": "Characters/PCs/The party.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -404,7 +404,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Characters/NPCs/Strahd.md",
+                    "file": "Characters/PCs/The party.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -421,7 +421,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Characters/NPCs/Strahd.md",
+                    "file": "Characters/PCs/The party.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -444,7 +444,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Characters/NPCs/Strahd.md"
+                    "file": "Characters/PCs/The party.md"
                   }
                 }
               }
@@ -466,8 +466,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "1578639d01e7b273",
-      "mtime": "2024-07-13T16:52:11+02:00"
+      "active": "b51e408189210621",
+      "mtime": "2024-07-14T19:26:32+02:00"
     }
   },
   "active": "dev"

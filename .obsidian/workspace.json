@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Hidden/notes/Castle Ravenloft hooks.md",
                 "mode": "source",
                 "source": true
               }
@@ -29,7 +29,7 @@
           {
             "id": "d64313f1da3d1091",
             "type": "tabs",
-            "dimension": 62.53968253968254,
+            "dimension": 58.46560846560847,
             "children": [
               {
                 "id": "33b28b9eed38afc9",
@@ -37,7 +37,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "Hidden/notes/Castle Ravenloft hooks.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -49,7 +49,7 @@
           {
             "id": "81d8d01145744ae2",
             "type": "tabs",
-            "dimension": 37.46031746031746,
+            "dimension": 41.53439153439153,
             "children": [
               {
                 "id": "24a58a7982da4b42",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Hidden/notes/Castle Ravenloft hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Hidden/notes/Castle Ravenloft hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Hidden/notes/Castle Ravenloft hooks.md"
               }
             }
           }
@@ -197,53 +197,54 @@
   },
   "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
+    "Hidden/characters/Baba.md",
+    "Hidden/notes/Castle Ravenloft hooks.md",
+    "Untitled",
     "Hidden/TODO.md",
-    "README.md",
-    "Characters and Items.canvas",
-    "Story.canvas",
+    "Images/NPC Splash/piddlewick.jpg",
+    "Hidden/characters/sunsword.jpeg",
+    "Hidden/characters/phantom.jpeg",
+    "Hidden/characters/phantom.jpeg.opdownload",
+    "Images/NPC Splash/rahidin.jpg",
+    "Hidden/characters/druid.jpeg",
+    "Hidden/characters/berzerker.jpeg",
+    "Images/NPC Splash/izek.jpeg",
+    "Images/NPC Splash/jan.jpg",
+    "Images/NPC Splash/banshee.jpg",
+    "Images/NPC Splash/baba lysaga.jpg",
     "Hidden/Strahd's Armour.md",
-    "Characters/NPCs/Vasilli Van Holtz.md",
-    "Hidden/Strahd - Transcended.md",
-    "Hidden/Lich Luvash.md",
-    "Hidden/Emil.md",
-    "Hidden/templates/Character.md",
+    "Hidden/characters/maid.jpeg.opdownload",
+    "Characters and Items.canvas",
+    "Items/Volenta's Black Rose.md",
+    "Items/The Wagon.md",
     "Items/Sunsword.md",
+    "Items/Reaping Greatsword.md",
+    "Items/Misty Haversack.md",
+    "Items/Bloody Full-Plate.md",
+    "Hidden/notes",
+    "Hidden/characters",
+    "README.md",
+    "Story.canvas",
+    "Characters/NPCs/Arrigal.md",
+    "Characters/NPCs/Madam Eva.md",
+    "Characters/NPCs/Vasilli Van Holtz.md",
+    "Hidden/characters/Strahd - Transcended.md",
+    "Hidden/characters/Lich Luvash.md",
+    "Hidden/characters/Emil.md",
+    "Hidden/templates/Character.md",
     "cos-story.pdf",
     "Characters/NPCs/Sergei.md",
-    "Items/Bloody Full-Plate.md",
     "Characters/NPCs/Arabelle.md",
     "Characters/NPCs/Rudolph.md",
-    "Images/NPC Splash/zuleika.webp",
     "Characters/NPCs/Luvash.md",
     "Characters/NPCs/Ismark.md",
     "Characters/NPCs/Lila - Rudolph's Tiger.md",
     "Characters/NPCs/Strahd.md",
-    "Items/Misty Haversack.md",
     "canvas-export.html",
     "Characters/NPCs/Ana.md",
-    "Characters/PCs/Lucian.md",
-    "Characters/PCs/Elik Moon.md",
-    "Characters/PCs/Flikk.md",
-    "Images/NPC Splash/zombie.jpeg",
-    "Images/NPC Splash/werewolf.jpg",
-    "Images/NPC Splash/wereraven.jpg",
-    "Images/NPC Splash/volenta.jpeg",
-    "Images/NPC Splash/victor vallikovic.jpeg",
-    "Images/NPC Splash/vasalli.jpg",
-    "Images/NPC Splash/undeadknight.jpg",
-    "Images/NPC Splash/the abbot.jpg",
-    "Images/NPC Splash/the hut.jpg",
     "Images/PC Splash",
-    "Items/The Wagon.md",
-    "Items/Reaping Greatsword.md",
-    "Items/Volenta's Black Rose.md",
     "Characters",
     "Hidden",
-    "Images/locations",
-    "Characters",
-    "Hidden/templates",
-    "Items",
-    "Characters/PCs",
     "Untitled 1.canvas"
   ]
 }
