@@ -1,4 +1,4 @@
-- [ ] Find the Tomb of Strahd
+- [x] Find the Tomb of Strahd
 - [ ] Find the holy symbol of Ravenkind
-- [ ] Find Ezemerelda
+- [x] Find Ezemerelda
 - [ ] Find the Sunsword

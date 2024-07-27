@@ -3,7 +3,10 @@
 - [x] Investigate the Vistani Camp
 - [x] Secure [[Arabelle]]
 - [ ] Track Elik down
-- [ ] Reply to [[Strahd]]'s dinner invitation
+- [x] Reply to [[Strahd]]'s dinner invitation
 - [ ] Escort [[Ireena]] to Krezk
+- [ ] Attend the Wedding
+- [ ] Regroup with Ez
+- [ ] Ressurect Patrina
 - [ ] Find the Martikovs
-- [ ] Light the Beacon
+- [ ] Light the Beacons

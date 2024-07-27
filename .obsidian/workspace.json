@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/notes/Castle Ravenloft hooks.md",
-                "mode": "preview",
-                "source": false
+                "file": "Hidden/Acts/Flee Vallaki.md",
+                "mode": "source",
+                "source": true
               }
             },
             "group": "c918f3a16491e16b"
@@ -29,7 +29,7 @@
           {
             "id": "d64313f1da3d1091",
             "type": "tabs",
-            "dimension": 58.46560846560847,
+            "dimension": 62.53968253968254,
             "children": [
               {
                 "id": "33b28b9eed38afc9",
@@ -37,7 +37,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hidden/notes/Castle Ravenloft hooks.md",
+                    "file": "Hidden/Acts/Flee Vallaki.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -49,7 +49,7 @@
           {
             "id": "81d8d01145744ae2",
             "type": "tabs",
-            "dimension": 41.53439153439153,
+            "dimension": 37.46031746031746,
             "children": [
               {
                 "id": "24a58a7982da4b42",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hidden/notes/Castle Ravenloft hooks.md",
+                "file": "Hidden/Acts/Flee Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hidden/notes/Castle Ravenloft hooks.md",
+                "file": "Hidden/Acts/Flee Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/notes/Castle Ravenloft hooks.md"
+                "file": "Hidden/Acts/Flee Vallaki.md"
               }
             }
           }
@@ -197,12 +197,18 @@
   },
   "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
-    "Characters and Items.canvas",
-    "Characters/NPCs/Strahd.md",
+    "Hidden/Acts/Fortune Reading.md",
+    "Hidden/Acts/Flee Vallaki.md",
+    "Hidden/Acts/The Festival.md",
+    "Hidden/Acts/Visit Vallaki.md",
     "Hidden/notes/Castle Ravenloft hooks.md",
+    "Hidden/TODO.md",
+    "README.md",
+    "Characters and Items.canvas",
+    "Story.canvas",
+    "Characters/NPCs/Strahd.md",
     "Hidden/characters/Baba.md",
     "Untitled",
-    "Hidden/TODO.md",
     "Images/NPC Splash/piddlewick.jpg",
     "Hidden/characters/sunsword.jpeg",
     "Hidden/characters/phantom.jpeg",
@@ -224,8 +230,6 @@
     "Items/Bloody Full-Plate.md",
     "Hidden/notes",
     "Hidden/characters",
-    "README.md",
-    "Story.canvas",
     "Characters/NPCs/Arrigal.md",
     "Characters/NPCs/Madam Eva.md",
     "Characters/NPCs/Vasilli Van Holtz.md",
@@ -237,9 +241,6 @@
     "Characters/NPCs/Sergei.md",
     "Characters/NPCs/Arabelle.md",
     "Characters/NPCs/Rudolph.md",
-    "Characters/NPCs/Luvash.md",
-    "Characters/NPCs/Ismark.md",
-    "Characters/NPCs/Lila - Rudolph's Tiger.md",
     "canvas-export.html",
     "Images/PC Splash",
     "Characters",

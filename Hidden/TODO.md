@@ -1,9 +1,12 @@
 - [ ] Lucian wild magic
-- [ ] Volenta panther statblock
+- [ ] Volenta wildshape statblocks
 - [ ] Ez artificer tricks
 - [ ] sunsword + ravenkind symbol splashes
 - [ ] Werewolves hooks + characters
-- [ ] [[Castle Ravenloft hooks]]
+- [x] [[Castle Ravenloft hooks]]
 - [ ] NPC Sheet
 	- [ ] Gertruda
 	- [ ] Mongrefolk chef
+- [ ] thighbone tradeoff
+- [ ] patrina quest
+- [ ] character dreams at ravenloft

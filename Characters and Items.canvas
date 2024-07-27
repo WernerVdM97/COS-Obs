@@ -47,7 +47,8 @@
 		{"id":"342f9bf81df78a9d","type":"file","file":"Characters/NPCs/Beucephalus.md","x":-1960,"y":2236,"width":400,"height":515},
 		{"id":"34b2a19dc344ecf7","type":"file","file":"Characters/NPCs/Sergei.md","subpath":"#Sergei Von Zarovich","x":-1960,"y":2852,"width":400,"height":888,"color":"3"},
 		{"id":"0918256897402f1f","type":"file","file":"Items/Sunsword.md","x":-1960,"y":3840,"width":400,"height":264},
-		{"id":"37b82394230d4390","type":"file","file":"Characters/NPCs/Strahd.md","subpath":"#Strahd Von Zarovich","x":-1960,"y":1692,"width":400,"height":508,"color":"3"}
+		{"id":"37b82394230d4390","type":"file","file":"Characters/NPCs/Strahd.md","subpath":"#Strahd Von Zarovich","x":-1960,"y":1692,"width":400,"height":508,"color":"3"},
+		{"id":"d2b0ef2fb4c3c87b","x":445,"y":2494,"width":250,"height":60,"type":"text","text":"spellbook"}
 	],
 	"edges":[
 		{"id":"611ae39435f1862e","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"8cd8f6b05c031e08","toSide":"top","color":"1"},
@@ -96,6 +97,7 @@
 		{"id":"992592f85c270e36","fromNode":"46bb34f69d784639","fromSide":"left","toNode":"a0480f5ab7f90f24","toSide":"bottom"},
 		{"id":"fd23f77e53b9a5ba","fromNode":"6cf6b709dfd3632f","fromSide":"bottom","toNode":"d1622779794cbb57","toSide":"top"},
 		{"id":"9dcea236e1c0af09","fromNode":"34b2a19dc344ecf7","fromSide":"bottom","toNode":"0918256897402f1f","toSide":"top"},
-		{"id":"ab896afc257a4cb4","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"34b2a19dc344ecf7","toSide":"top","color":"3"}
+		{"id":"ab896afc257a4cb4","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"34b2a19dc344ecf7","toSide":"top","color":"3"},
+		{"id":"32afba5ece5f5860","fromNode":"1737eb180e06538c","fromSide":"bottom","toNode":"d2b0ef2fb4c3c87b","toSide":"top"}
 	]
 }
