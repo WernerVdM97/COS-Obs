@@ -32,7 +32,7 @@
 		{"id":"36b57ee7341f4f20","type":"file","file":"Characters/NPCs/Lazlo Groza.md","x":260,"y":-668,"width":400,"height":515},
 		{"id":"2bc81f3241555f2d","type":"file","file":"Characters/NPCs/Father Odu.md","x":-196,"y":-663,"width":400,"height":515},
 		{"id":"3ca7b25b61efc518","type":"file","file":"Characters/NPCs/Baronnet Victor.md","x":-1560,"y":-787,"width":400,"height":639},
-		{"id":"5b75f745a85cd4e5","type":"file","file":"Characters/NPCs/Ezmerelda.md","x":-2461,"y":-966,"width":400,"height":515},
+		{"id":"5b75f745a85cd4e5","type":"file","file":"Characters/NPCs/Ez.md","x":-2461,"y":-1160,"width":400,"height":709},
 		{"id":"d625df1fe596bd59","type":"file","file":"Characters/NPCs/Morgantha.md","x":-1999,"y":-966,"width":400,"height":515},
 		{"id":"c503ab8d1c4becc4","type":"file","file":"Characters/NPCs/Lila - Rudolph's Tiger.md","subpath":"#Lila","x":-3367,"y":-623,"width":400,"height":639,"color":"1"},
 		{"id":"b42a5ebd7db9525b","type":"file","file":"Characters/NPCs/Sir Godfry.md","x":-3880,"y":-520,"width":400,"height":669},
@@ -48,7 +48,10 @@
 		{"id":"34b2a19dc344ecf7","type":"file","file":"Characters/NPCs/Sergei.md","subpath":"#Sergei Von Zarovich","x":-1960,"y":2852,"width":400,"height":888,"color":"3"},
 		{"id":"0918256897402f1f","type":"file","file":"Items/Sunsword.md","x":-1960,"y":3840,"width":400,"height":264},
 		{"id":"37b82394230d4390","type":"file","file":"Characters/NPCs/Strahd.md","subpath":"#Strahd Von Zarovich","x":-1960,"y":1692,"width":400,"height":508,"color":"3"},
-		{"id":"d2b0ef2fb4c3c87b","x":445,"y":2494,"width":250,"height":60,"type":"text","text":"spellbook"}
+		{"id":"bfb4ee5bf82b5c20","type":"file","file":"Characters/NPCs/Cyrus.md","subpath":"#Cyrus Belview","x":-1497,"y":2236,"width":400,"height":738},
+		{"id":"d2b0ef2fb4c3c87b","type":"text","text":"spellbook","x":461,"y":2586,"width":250,"height":92},
+		{"id":"b48331913bf292cf","x":-1497,"y":3096,"width":400,"height":640,"type":"file","file":"Characters/NPCs/Gertruda.md","subpath":"#Gertruda"},
+		{"id":"b46f87958c6b6275","x":-2440,"y":2766,"width":400,"height":694,"type":"file","file":"Characters/NPCs/Piddlewick.md","subpath":"#Piddlewick II"}
 	],
 	"edges":[
 		{"id":"611ae39435f1862e","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"8cd8f6b05c031e08","toSide":"top","color":"1"},
@@ -98,6 +101,9 @@
 		{"id":"fd23f77e53b9a5ba","fromNode":"6cf6b709dfd3632f","fromSide":"bottom","toNode":"d1622779794cbb57","toSide":"top"},
 		{"id":"9dcea236e1c0af09","fromNode":"34b2a19dc344ecf7","fromSide":"bottom","toNode":"0918256897402f1f","toSide":"top"},
 		{"id":"ab896afc257a4cb4","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"34b2a19dc344ecf7","toSide":"top","color":"3"},
-		{"id":"32afba5ece5f5860","fromNode":"1737eb180e06538c","fromSide":"bottom","toNode":"d2b0ef2fb4c3c87b","toSide":"top"}
+		{"id":"32afba5ece5f5860","fromNode":"1737eb180e06538c","fromSide":"bottom","toNode":"d2b0ef2fb4c3c87b","toSide":"top"},
+		{"id":"913ec931717ec82e","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"bfb4ee5bf82b5c20","toSide":"top"},
+		{"id":"41275bc46b7e2733","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"b48331913bf292cf","toSide":"top"},
+		{"id":"bb3b921d852a5c6f","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"b46f87958c6b6275","toSide":"right"}
 	]
 }

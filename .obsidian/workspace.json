@@ -11,14 +11,29 @@
             "id": "b9136f9d2401c56e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Hidden/Acts/Flee Vallaki.md",
-                "mode": "source",
-                "source": true
+                "file": "Characters and Items.canvas",
+                "viewState": {
+                  "x": -2656.3789812678847,
+                  "y": -225.12778083274844,
+                  "zoom": -1.8872136614564128
+                }
               }
             },
             "group": "c918f3a16491e16b"
+          },
+          {
+            "id": "1c59c57207d4fb5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Piddlewick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -35,11 +50,14 @@
                 "id": "33b28b9eed38afc9",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "Hidden/Acts/Flee Vallaki.md",
-                    "mode": "preview",
-                    "source": false
+                    "file": "Characters and Items.canvas",
+                    "viewState": {
+                      "x": -513.5,
+                      "y": 1211,
+                      "zoom": -3.59121370208294
+                    }
                   }
                 },
                 "group": "c918f3a16491e16b"
@@ -95,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vampire",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hidden/Acts/Flee Vallaki.md",
+                "file": "Characters and Items.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hidden/Acts/Flee Vallaki.md",
+                "file": "Characters and Items.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/Acts/Flee Vallaki.md"
+                "file": "Characters and Items.canvas"
               }
             }
           }
@@ -197,29 +215,38 @@
   },
   "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
-    "Hidden/Acts/Fortune Reading.md",
+    "Characters/NPCs/Piddlewick.md",
+    "Characters and Items.canvas",
+    "Story.canvas",
+    "Characters/NPCs/Gertruda.md",
+    "Hidden/characters/Strahd - Transcended.md",
+    "Hidden/characters/sunsword.jpeg",
+    "Images/NPC Splash/gertruda.jpeg",
+    "Hidden/characters/mongrefolk.jpeg",
+    "Hidden/characters/phantom.jpeg",
+    "Hidden/characters/neferon.jpeg",
+    "Hidden/characters/mad mage.jpeg",
+    "Hidden/characters/Lich Luvash.md",
+    "Hidden/characters/kiril.jpeg",
+    "Hidden/characters/khazan.jpeg",
+    "Hidden/characters/hill giant.jpeg",
+    "Hidden/characters/emil.jpeg",
+    "Hidden/characters/Emil.md",
+    "Hidden/characters/Baba.md",
+    "Characters/NPCs/Ez.md",
+    "Characters/NPCs/Patrina Velkovna.md",
+    "Hidden/TODO.md",
+    "Hidden/templates/Character.md",
+    "Characters/NPCs/Cyrus.md",
+    "README.md",
     "Hidden/Acts/Flee Vallaki.md",
+    "Hidden/Acts/Fortune Reading.md",
     "Hidden/Acts/The Festival.md",
     "Hidden/Acts/Visit Vallaki.md",
     "Hidden/notes/Castle Ravenloft hooks.md",
-    "Hidden/TODO.md",
-    "README.md",
-    "Characters and Items.canvas",
-    "Story.canvas",
     "Characters/NPCs/Strahd.md",
-    "Hidden/characters/Baba.md",
     "Untitled",
-    "Images/NPC Splash/piddlewick.jpg",
-    "Hidden/characters/sunsword.jpeg",
-    "Hidden/characters/phantom.jpeg",
     "Hidden/characters/phantom.jpeg.opdownload",
-    "Images/NPC Splash/rahidin.jpg",
-    "Hidden/characters/druid.jpeg",
-    "Hidden/characters/berzerker.jpeg",
-    "Images/NPC Splash/izek.jpeg",
-    "Images/NPC Splash/jan.jpg",
-    "Images/NPC Splash/banshee.jpg",
-    "Images/NPC Splash/baba lysaga.jpg",
     "Hidden/Strahd's Armour.md",
     "Hidden/characters/maid.jpeg.opdownload",
     "Items/Volenta's Black Rose.md",
@@ -230,17 +257,7 @@
     "Items/Bloody Full-Plate.md",
     "Hidden/notes",
     "Hidden/characters",
-    "Characters/NPCs/Arrigal.md",
-    "Characters/NPCs/Madam Eva.md",
-    "Characters/NPCs/Vasilli Van Holtz.md",
-    "Hidden/characters/Strahd - Transcended.md",
-    "Hidden/characters/Lich Luvash.md",
-    "Hidden/characters/Emil.md",
-    "Hidden/templates/Character.md",
     "cos-story.pdf",
-    "Characters/NPCs/Sergei.md",
-    "Characters/NPCs/Arabelle.md",
-    "Characters/NPCs/Rudolph.md",
     "canvas-export.html",
     "Images/PC Splash",
     "Characters",
