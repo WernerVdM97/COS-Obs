@@ -1,14 +1,14 @@
-- [ ] Lucian wild magic
 - [ ] Volenta wildshape statblocks
-- [x] Ez artificer tricks
 - [ ] sunsword + ravenkind symbol splashes
 - [ ] Werewolves hooks + characters
-- [x] [[Castle Ravenloft hooks]]
+	- [ ] the initiation
 - [ ] NPC Sheet
 	- [ ] Gertruda
-	- [x] Cyrus
-	- [ ] Piddlewick
-- [ ] thighbone tradeoff
-- [ ] patrina quest
-- [ ] character dreams at ravenloft
-- [ ] Monk's deal with death
+
+- [ ] [[Castle Ravenloft hooks#nightmare]]
+- [ ] Patrina quest
+	- [ ] spellbook
+	- [ ] ressurection
+	- [ ] baba lysaga
+	- [ ] amber temple
+

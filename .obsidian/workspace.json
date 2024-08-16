@@ -15,25 +15,13 @@
               "state": {
                 "file": "Characters and Items.canvas",
                 "viewState": {
-                  "x": -2656.3789812678847,
-                  "y": -225.12778083274844,
-                  "zoom": -1.8872136614564128
+                  "x": 1711.816627199452,
+                  "y": 3177.589439170926,
+                  "zoom": -1.7553927971983154
                 }
               }
             },
             "group": "c918f3a16491e16b"
-          },
-          {
-            "id": "1c59c57207d4fb5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Piddlewick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       },
@@ -44,7 +32,7 @@
           {
             "id": "d64313f1da3d1091",
             "type": "tabs",
-            "dimension": 62.53968253968254,
+            "dimension": 55.29100529100529,
             "children": [
               {
                 "id": "33b28b9eed38afc9",
@@ -54,9 +42,9 @@
                   "state": {
                     "file": "Characters and Items.canvas",
                     "viewState": {
-                      "x": -513.5,
-                      "y": 1211,
-                      "zoom": -3.59121370208294
+                      "x": -1702.779612447815,
+                      "y": 4077.15716798943,
+                      "zoom": -1.099392781558054
                     }
                   }
                 },
@@ -67,16 +55,40 @@
           {
             "id": "81d8d01145744ae2",
             "type": "tabs",
-            "dimension": 37.46031746031746,
+            "dimension": 44.70899470899471,
             "children": [
               {
-                "id": "24a58a7982da4b42",
+                "id": "6b8474bb2746a057",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Hidden/TODO.md",
                     "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3f92884d251ec41a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hidden/NOTES.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f579062844d7a531",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hidden/notes/Castle Ravenloft hooks.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -215,53 +227,53 @@
   },
   "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
-    "Characters/NPCs/Piddlewick.md",
+    "Hidden/TODO.md",
     "Characters and Items.canvas",
+    "Items/Sunsword.md",
+    "Characters/PCs/Traits",
+    "Characters/PCs/Traits/Werewolf Lycanthropy.md",
+    "Characters/PCs/Traits/death's contract.md",
+    "Hidden/Images/NPC/Baba.md",
+    "Items/Markovia's thighbone.md",
+    "Hidden/Images/NPC/phantom.jpeg",
+    "Untitled 1.md",
+    "Hidden/Images/NPC/Lich Luvash.md",
+    "Hidden/Images/NPC/mad mage.jpeg",
+    "Hidden/Images/NPC/mongrefolk.jpeg",
+    "Hidden/Images/NPC/neferon.jpeg",
+    "Hidden/Images/NPC/Strahd - Transcended.md",
+    "Hidden/characters/sunsword.jpeg",
+    "Hidden/Images/Items/blood spear.jpeg",
+    "Images/Items Splash/blood spear.jpeg.opdownload",
+    "Hidden/Images/Items/Sunsword.jpg",
+    "Images/Items Splash/Sunsword.jpg.opdownload",
+    "Hidden/Images/Items/Saint Markovia's Thighbone.webp",
+    "Images/Items Splash/Saint Markovia's Thighbone.webp.opdownload",
+    "Hidden/Images/Items",
+    "Hidden/notes/Castle Ravenloft hooks.md",
+    "Hidden/NOTES.md",
+    "dAIm.md",
+    "Hidden/templates/traits.md",
+    "Characters/PCs/Traits/Wildmagic.md",
+    "Items/icon of ravenloft.md",
+    "Items/Icon of Ravenloft.webp",
+    "Hidden/templates/Items.md",
+    "Hidden/templates/Character.md",
+    "Hidden/stuff/Strahd's Armour.md",
+    "Hidden/Images/NPC/banshee.jpg",
+    "Hidden/stuff",
+    "Hidden/notes/Krezk.md",
+    "Hidden/notes/The den.md",
+    "Characters/NPCs/Piddlewick.md",
+    "Items/Ana's haversack.md",
     "Story.canvas",
     "Characters/NPCs/Gertruda.md",
-    "Hidden/characters/Strahd - Transcended.md",
-    "Hidden/characters/sunsword.jpeg",
-    "Images/NPC Splash/gertruda.jpeg",
-    "Hidden/characters/mongrefolk.jpeg",
-    "Hidden/characters/phantom.jpeg",
-    "Hidden/characters/neferon.jpeg",
-    "Hidden/characters/mad mage.jpeg",
-    "Hidden/characters/Lich Luvash.md",
-    "Hidden/characters/kiril.jpeg",
-    "Hidden/characters/khazan.jpeg",
-    "Hidden/characters/hill giant.jpeg",
-    "Hidden/characters/emil.jpeg",
-    "Hidden/characters/Emil.md",
-    "Hidden/characters/Baba.md",
+    "Hidden/Images/NPC/Emil.md",
     "Characters/NPCs/Ez.md",
-    "Characters/NPCs/Patrina Velkovna.md",
-    "Hidden/TODO.md",
-    "Hidden/templates/Character.md",
-    "Characters/NPCs/Cyrus.md",
-    "README.md",
-    "Hidden/Acts/Flee Vallaki.md",
-    "Hidden/Acts/Fortune Reading.md",
-    "Hidden/Acts/The Festival.md",
-    "Hidden/Acts/Visit Vallaki.md",
-    "Hidden/notes/Castle Ravenloft hooks.md",
-    "Characters/NPCs/Strahd.md",
-    "Untitled",
     "Hidden/characters/phantom.jpeg.opdownload",
-    "Hidden/Strahd's Armour.md",
     "Hidden/characters/maid.jpeg.opdownload",
-    "Items/Volenta's Black Rose.md",
-    "Items/The Wagon.md",
-    "Items/Sunsword.md",
-    "Items/Reaping Greatsword.md",
-    "Items/Misty Haversack.md",
-    "Items/Bloody Full-Plate.md",
     "Hidden/notes",
     "Hidden/characters",
-    "cos-story.pdf",
-    "canvas-export.html",
-    "Images/PC Splash",
-    "Characters",
-    "Hidden",
     "Untitled 1.canvas"
   ]
 }
