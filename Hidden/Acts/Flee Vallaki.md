@@ -1,12 +1,17 @@
 ## Day 8
+### General
 - [x] Douse Fires of Vallaki
 - [x] Investigate the Vistani Camp
 - [x] Secure [[Arabelle]]
-- [ ] Track Elik down
 - [x] Reply to [[Strahd]]'s dinner invitation
-- [ ] Escort [[Ireena]] to Krezk
-- [ ] Attend the Wedding
+- [ ] Track Elik down
 - [ ] Regroup with Ez
-- [ ] Ressurect Patrina
 - [ ] Find the Martikovs
-- [ ] Light the Beacons
+- [ ] Resurrect Patrina
+### Krezk
+- [ ] Escort [[Ireena]] to safety
+- [ ] Attend the Wedding
+
+### Arganvost
+- [ ] Steal the skull
+- [ ] Light the Beacon

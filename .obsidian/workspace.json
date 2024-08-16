@@ -6,6 +6,7 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
+        "dimension": 20.231607629427792,
         "children": [
           {
             "id": "b9136f9d2401c56e",
@@ -13,83 +14,120 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "Story.canvas",
                 "viewState": {
-                  "x": 1711.816627199452,
-                  "y": 3177.589439170926,
-                  "zoom": -1.7553927971983154
+                  "x": -787.6006807038542,
+                  "y": 1732.5533050911758,
+                  "zoom": -0.6880030057575757
                 }
               }
-            },
-            "group": "c918f3a16491e16b"
+            }
           }
         ]
       },
       {
-        "id": "767ae190cf1ebf32",
-        "type": "split",
+        "id": "35cb2dd2c5b67190",
+        "type": "tabs",
+        "dimension": 60.694822888283376,
         "children": [
           {
-            "id": "d64313f1da3d1091",
+            "id": "1578639d01e7b273",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters and Items.canvas",
+                "viewState": {
+                  "x": -246.34353938269172,
+                  "y": 1464.1291397482619,
+                  "zoom": -2.850448639935864
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0dc6510e41c9e8f2",
+        "type": "split",
+        "dimension": 19.07356948228883,
+        "children": [
+          {
+            "id": "6d410ec4e8ab0095",
             "type": "tabs",
-            "dimension": 55.29100529100529,
+            "dimension": 42.38900634249471,
             "children": [
               {
-                "id": "33b28b9eed38afc9",
+                "id": "b51e408189210621",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "localgraph",
                   "state": {
-                    "file": "Characters and Items.canvas",
-                    "viewState": {
-                      "x": -1702.779612447815,
-                      "y": 4077.15716798943,
-                      "zoom": -1.099392781558054
+                    "file": "Story.canvas",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#dead ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        },
+                        {
+                          "query": "tag:#missing",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.7,
+                      "nodeSizeMultiplier": 3.35011800130208,
+                      "lineSizeMultiplier": 4.30356038411458,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.8048743911955513,
+                      "close": true
                     }
                   }
-                },
-                "group": "c918f3a16491e16b"
+                }
               }
             ]
           },
           {
-            "id": "81d8d01145744ae2",
+            "id": "91bc90a5170f2d64",
             "type": "tabs",
-            "dimension": 44.70899470899471,
+            "dimension": 57.61099365750529,
             "children": [
               {
-                "id": "6b8474bb2746a057",
+                "id": "c64648ea60d73161",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "backlink",
                   "state": {
-                    "file": "Hidden/TODO.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3f92884d251ec41a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Hidden/NOTES.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f579062844d7a531",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Hidden/notes/Castle Ravenloft hooks.md",
-                    "mode": "preview",
-                    "source": false
+                    "file": "Story.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
                   }
                 }
               }
@@ -125,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,11 +180,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "911f895b57747a81",
@@ -162,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "Story.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "Story.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,12 +242,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters and Items.canvas"
+                "file": "Story.canvas"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,17 +257,19 @@
     "hiddenItems": {
       "publish:Publish changes...": true,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "templates:Insert template": false,
+      "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false
     }
   },
   "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
-    "Hidden/TODO.md",
+    "Hidden/Acts/Flee Vallaki.md",
+    "Story.canvas",
     "Characters and Items.canvas",
+    "Hidden/TODO.md",
     "Items/Sunsword.md",
     "Characters/PCs/Traits",
     "Characters/PCs/Traits/Werewolf Lycanthropy.md",
@@ -266,7 +307,6 @@
     "Hidden/notes/The den.md",
     "Characters/NPCs/Piddlewick.md",
     "Items/Ana's haversack.md",
-    "Story.canvas",
     "Characters/NPCs/Gertruda.md",
     "Hidden/Images/NPC/Emil.md",
     "Characters/NPCs/Ez.md",
