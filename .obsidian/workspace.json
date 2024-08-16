@@ -16,9 +16,9 @@
               "state": {
                 "file": "Story.canvas",
                 "viewState": {
-                  "x": -787.6006807038542,
-                  "y": 1732.5533050911758,
-                  "zoom": -0.6880030057575757
+                  "x": -796.5,
+                  "y": 1972,
+                  "zoom": -0.3225727307519257
                 }
               }
             }
@@ -38,8 +38,8 @@
               "state": {
                 "file": "Characters and Items.canvas",
                 "viewState": {
-                  "x": -246.34353938269172,
-                  "y": 1464.1291397482619,
+                  "x": -624.6402844938564,
+                  "y": 1246.809732982263,
                   "zoom": -2.850448639935864
                 }
               }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Story.canvas",
+                    "file": "Characters and Items.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Story.canvas",
+                    "file": "Characters and Items.canvas",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -180,8 +180,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story.canvas",
+                "file": "Characters and Items.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story.canvas",
+                "file": "Characters and Items.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story.canvas"
+                "file": "Characters and Items.canvas"
               }
             }
           }
@@ -264,56 +263,55 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9136f9d2401c56e",
+  "active": "1578639d01e7b273",
   "lastOpenFiles": [
-    "Hidden/Acts/Flee Vallaki.md",
     "Story.canvas",
+    "Items/icon of ravenloft.md",
+    "Hidden/Images/Items/Icon of Ravenloft.webp",
+    "Items/Volenta's Black Rose.md",
+    "Items/Ana's haversack.md",
+    "Items/Markovia's thighbone.md",
     "Characters and Items.canvas",
+    "README.md",
+    "Hidden/Acts/Departing Vallaki.md",
+    "Hidden/Acts/Arrival in Barovia.md",
+    "Hidden/Images/NPC/strahds armour.jpg",
+    "Hidden/Images/NPC/the abbot.jpg",
+    "Hidden/Images/NPC/the hut.jpg",
+    "Hidden/Images/NPC/undeadknight.jpg",
+    "Hidden/Images/NPC/vasalli.jpg",
+    "Hidden/Images/NPC/victor vallikovic.jpeg",
+    "Hidden/Images/NPC/volenta.jpeg",
+    "Hidden/Images/NPC/wereraven.jpg",
+    "Hidden/Images/NPC/werewolf.jpg",
+    "Hidden/Images/NPC/Lich Luvash.md",
+    "Hidden/Images/NPC/Strahd - Transcended.md",
+    "Hidden/Images/NPC/Emil.md",
+    "Hidden/Acts/Visit Vallaki.md",
+    "Hidden/Acts/The Festival.md",
+    "Hidden/Acts/Fortune Reading.md",
     "Hidden/TODO.md",
+    "Characters/PCs/Traits/death's contract.md",
+    "Hidden/Images/PC/images.jpeg.opdownload",
+    "Hidden/NOTES.md",
+    "Characters/PCs/Traits/Werewolf Lycanthropy.md",
+    "Characters/PCs/Elik Moon.md",
     "Items/Sunsword.md",
     "Characters/PCs/Traits",
-    "Characters/PCs/Traits/Werewolf Lycanthropy.md",
-    "Characters/PCs/Traits/death's contract.md",
     "Hidden/Images/NPC/Baba.md",
-    "Items/Markovia's thighbone.md",
-    "Hidden/Images/NPC/phantom.jpeg",
     "Untitled 1.md",
-    "Hidden/Images/NPC/Lich Luvash.md",
-    "Hidden/Images/NPC/mad mage.jpeg",
-    "Hidden/Images/NPC/mongrefolk.jpeg",
-    "Hidden/Images/NPC/neferon.jpeg",
-    "Hidden/Images/NPC/Strahd - Transcended.md",
-    "Hidden/characters/sunsword.jpeg",
-    "Hidden/Images/Items/blood spear.jpeg",
     "Images/Items Splash/blood spear.jpeg.opdownload",
-    "Hidden/Images/Items/Sunsword.jpg",
     "Images/Items Splash/Sunsword.jpg.opdownload",
-    "Hidden/Images/Items/Saint Markovia's Thighbone.webp",
     "Images/Items Splash/Saint Markovia's Thighbone.webp.opdownload",
     "Hidden/Images/Items",
     "Hidden/notes/Castle Ravenloft hooks.md",
-    "Hidden/NOTES.md",
     "dAIm.md",
     "Hidden/templates/traits.md",
     "Characters/PCs/Traits/Wildmagic.md",
-    "Items/icon of ravenloft.md",
-    "Items/Icon of Ravenloft.webp",
-    "Hidden/templates/Items.md",
-    "Hidden/templates/Character.md",
-    "Hidden/stuff/Strahd's Armour.md",
-    "Hidden/Images/NPC/banshee.jpg",
     "Hidden/stuff",
-    "Hidden/notes/Krezk.md",
-    "Hidden/notes/The den.md",
-    "Characters/NPCs/Piddlewick.md",
-    "Items/Ana's haversack.md",
-    "Characters/NPCs/Gertruda.md",
-    "Hidden/Images/NPC/Emil.md",
-    "Characters/NPCs/Ez.md",
     "Hidden/characters/phantom.jpeg.opdownload",
     "Hidden/characters/maid.jpeg.opdownload",
     "Hidden/notes",
-    "Hidden/characters",
     "Untitled 1.canvas"
   ]
 }

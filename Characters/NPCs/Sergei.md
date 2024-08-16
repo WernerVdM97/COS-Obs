@@ -4,6 +4,7 @@
 ![[sergei.jpg]]
 ## Family
 Brother, [[Strahd]]
+Fiance, Tatyana
 ## Notes
 Killed by [[Strahd]]
 

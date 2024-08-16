@@ -1,4 +1,7 @@
 # Piddlewick II
+
+^8525c6
+
 ## AKA The Trickster
 #bard #rogue #construct
 

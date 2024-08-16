@@ -1,14 +1,25 @@
-- [ ] Volenta wildshape statblocks
-- [ ] sunsword + ravenkind symbol splashes
+## Statblocks
+
+- [ ] Volenta wildshape
+- [ ] ravenkind symbol
+
+## Resolutions
+
+- [ ] Luvash/Arrigal/Anabelle
+- [ ] Vallaki politics/economy
+
+## Hooks
+
+- [ ] Morgantha/Windmill 
 - [ ] Werewolves hooks + characters
 	- [ ] the initiation
-- [ ] NPC Sheet
-	- [ ] Gertruda
+	- [ ] eliks slavery
 
-- [ ] [[Castle Ravenloft hooks#nightmare]]
-- [ ] Patrina quest
+## Plot
+- [ ] Patrina
+	- [ ] Kasmir
 	- [ ] spellbook
-	- [ ] ressurection
 	- [ ] baba lysaga
+	- [ ] ressurection
 	- [ ] amber temple
 

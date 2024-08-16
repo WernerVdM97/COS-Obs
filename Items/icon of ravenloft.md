@@ -7,7 +7,7 @@ The _Icon of Ravenloft_ is a 12-inch-tall statuette made of the purest silver,
 
 ![[Icon of Ravenloft.webp]]
 
-## Stats
+# Stats
 
 While within 30 feet of the icon, a creature is under the effect of a [Protection from Evil and Good](http://dnd5e.wikidot.com/spell:protection-from-evil-and-good) spell against fiends and undead. Only a creature attuned to the icon can use its other properties.
 

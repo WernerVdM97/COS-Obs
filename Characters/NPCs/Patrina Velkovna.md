@@ -1,4 +1,4 @@
-#undead #stoned #bride #duskelf
+#undead #stoned #bride #duskelf #sorcerer 
 
 ![[patrina.jpg]]
 

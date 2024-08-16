@@ -4,9 +4,9 @@
 
 Preparation:
 
-1. hide `hidden/` by going to
+1. hide `Hidden/` by going to
 	1. settings,
 	2. files and links,
 	3.  excluded files -> `manage`
 2.  load `storymode` workspace layout
-3. see [[Characters and Items.canvas|Characters and Items]]
+3. open [[Characters and Items.canvas|Characters and Items]]

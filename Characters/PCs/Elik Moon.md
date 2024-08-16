@@ -2,5 +2,3 @@
 #human #ranger #missing #werewolf
 
 ![[elik.jpeg]]
-
-![[werewolf.jpg]]

@@ -1,7 +1,12 @@
 # A deal with darkness
 
 > [!warning] soul traded for life
->  side effects unknown...
+> Darkest vision 
+> 
+> side effects unknown...
 
+![[darkestvision.jpeg]]
 # hidden
-character wakes up with black eyes, improved perception
+
+1. Character wakes up with black eyes, improved perception. Can see through magical darkness.
+2. Charm ability?

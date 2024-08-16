@@ -1,3 +1,0 @@
-#vampyr
-
-![[final form.jpg]]
