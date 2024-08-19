@@ -4,31 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "ef4133dd3ccac11f",
-        "type": "tabs",
-        "dimension": 20.231607629427792,
-        "children": [
-          {
-            "id": "b9136f9d2401c56e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Story.canvas",
-                "viewState": {
-                  "x": -796.5,
-                  "y": 1972,
-                  "zoom": -0.3225727307519257
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "35cb2dd2c5b67190",
         "type": "tabs",
-        "dimension": 60.694822888283376,
+        "dimension": 76.08881298035867,
         "children": [
           {
             "id": "1578639d01e7b273",
@@ -38,10 +16,22 @@
               "state": {
                 "file": "Characters and Items.canvas",
                 "viewState": {
-                  "x": -624.6402844938564,
-                  "y": 1246.809732982263,
-                  "zoom": -2.850448639935864
+                  "x": 2135.2398707688462,
+                  "y": 1671.2558939151695,
+                  "zoom": -1.946448618382825
                 }
+              }
+            }
+          },
+          {
+            "id": "6200c769a3f8d1f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Martikovs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -50,7 +40,7 @@
       {
         "id": "0dc6510e41c9e8f2",
         "type": "split",
-        "dimension": 19.07356948228883,
+        "dimension": 23.911187019641336,
         "children": [
           {
             "id": "6d410ec4e8ab0095",
@@ -184,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "911f895b57747a81",
@@ -265,13 +254,21 @@
   },
   "active": "1578639d01e7b273",
   "lastOpenFiles": [
+    "Hidden/Images/Locations/tsolenka pass.webp",
+    "Martikovs.md",
+    "Characters and Items.canvas",
+    "Hidden/Images/NPC/martikovs.jpeg.sb-719d1ca5-xRORPl",
+    "Hidden/Images/NPC/martikovs.jpeg",
+    "Hidden/Images/NPC/martikovs.tiff",
+    "Hidden/Images/NPC/martikovs.webp",
+    "Hidden/Images/NPC/martikovs.webp.opdownload",
+    "Characters/NPCs/Emil.md",
     "Story.canvas",
     "Items/icon of ravenloft.md",
     "Hidden/Images/Items/Icon of Ravenloft.webp",
     "Items/Volenta's Black Rose.md",
     "Items/Ana's haversack.md",
     "Items/Markovia's thighbone.md",
-    "Characters and Items.canvas",
     "README.md",
     "Hidden/Acts/Departing Vallaki.md",
     "Hidden/Acts/Arrival in Barovia.md",
@@ -282,8 +279,6 @@
     "Hidden/Images/NPC/vasalli.jpg",
     "Hidden/Images/NPC/victor vallikovic.jpeg",
     "Hidden/Images/NPC/volenta.jpeg",
-    "Hidden/Images/NPC/wereraven.jpg",
-    "Hidden/Images/NPC/werewolf.jpg",
     "Hidden/Images/NPC/Lich Luvash.md",
     "Hidden/Images/NPC/Strahd - Transcended.md",
     "Hidden/Images/NPC/Emil.md",
@@ -306,12 +301,7 @@
     "Hidden/Images/Items",
     "Hidden/notes/Castle Ravenloft hooks.md",
     "dAIm.md",
-    "Hidden/templates/traits.md",
-    "Characters/PCs/Traits/Wildmagic.md",
     "Hidden/stuff",
-    "Hidden/characters/phantom.jpeg.opdownload",
-    "Hidden/characters/maid.jpeg.opdownload",
-    "Hidden/notes",
     "Untitled 1.canvas"
   ]
 }
