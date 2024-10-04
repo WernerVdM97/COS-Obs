@@ -4,9 +4,31 @@
     "type": "split",
     "children": [
       {
+        "id": "ef4133dd3ccac11f",
+        "type": "tabs",
+        "dimension": 22.24731789949181,
+        "children": [
+          {
+            "id": "b9136f9d2401c56e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Story.canvas",
+                "viewState": {
+                  "x": -787.6006807038523,
+                  "y": 1927.0669982783693,
+                  "zoom": -0.18800300575757564
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "35cb2dd2c5b67190",
         "type": "tabs",
-        "dimension": 76.08881298035867,
+        "dimension": 58.66741953698475,
         "children": [
           {
             "id": "1578639d01e7b273",
@@ -16,22 +38,10 @@
               "state": {
                 "file": "Characters and Items.canvas",
                 "viewState": {
-                  "x": 2135.2398707688462,
-                  "y": 1671.2558939151695,
-                  "zoom": -1.946448618382825
+                  "x": -306.05435400444924,
+                  "y": 1456.2515072396234,
+                  "zoom": -3.114448646230117
                 }
-              }
-            }
-          },
-          {
-            "id": "6200c769a3f8d1f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Martikovs.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -40,7 +50,7 @@
       {
         "id": "0dc6510e41c9e8f2",
         "type": "split",
-        "dimension": 23.911187019641336,
+        "dimension": 19.085262563523433,
         "children": [
           {
             "id": "6d410ec4e8ab0095",
@@ -170,11 +180,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "911f895b57747a81",
@@ -254,53 +266,52 @@
   },
   "active": "1578639d01e7b273",
   "lastOpenFiles": [
-    "Hidden/Images/Locations/tsolenka pass.webp",
-    "Martikovs.md",
+    "Story.canvas",
+    "Hidden/notes/Bonegrinder.md",
+    "Hidden/Notes.md",
+    "Hidden/Hooks.md",
+    "Characters/NPCs/Ez.md",
+    "Characters/NPCs/Escher.md",
+    "Characters/NPCs/Ana.md",
+    "Characters/NPCs/Arabelle.md",
+    "Characters/NPCs/Arrigal.md",
+    "Characters/NPCs/Baronnet Victor.md",
+    "Characters/NPCs/Emil.md",
+    "Characters/NPCs/Lila - Rudolph's Tiger.md",
+    "Characters/NPCs/Stanimir.md",
+    "Characters/NPCs/Sir Godfry.md",
+    "Characters/NPCs/Strahd.md",
+    "Characters/NPCs/Vasilli Van Holtz.md",
+    "Characters/NPCs/Volenta.md",
     "Characters and Items.canvas",
+    "Hidden/templates/Items.md",
+    "Hidden/templates/Character.md",
+    "Hidden/NOTES.md",
+    "Hidden/notes/Krezk.md",
+    "Hidden/dAIm.md",
+    "Hidden/Acts/Fated allies.md",
+    "Characters/NPCs/Gertruda.md",
+    "Hidden/Acts/the heist.md",
+    "Hidden/Acts/road to the wedding.md",
+    "Hidden/Images/travel_map.png",
+    "Hidden/Images/Locations/tsolenka pass.webp",
     "Hidden/Images/NPC/martikovs.jpeg.sb-719d1ca5-xRORPl",
     "Hidden/Images/NPC/martikovs.jpeg",
     "Hidden/Images/NPC/martikovs.tiff",
     "Hidden/Images/NPC/martikovs.webp",
     "Hidden/Images/NPC/martikovs.webp.opdownload",
-    "Characters/NPCs/Emil.md",
-    "Story.canvas",
-    "Items/icon of ravenloft.md",
     "Hidden/Images/Items/Icon of Ravenloft.webp",
-    "Items/Volenta's Black Rose.md",
-    "Items/Ana's haversack.md",
-    "Items/Markovia's thighbone.md",
-    "README.md",
-    "Hidden/Acts/Departing Vallaki.md",
-    "Hidden/Acts/Arrival in Barovia.md",
     "Hidden/Images/NPC/strahds armour.jpg",
     "Hidden/Images/NPC/the abbot.jpg",
     "Hidden/Images/NPC/the hut.jpg",
     "Hidden/Images/NPC/undeadknight.jpg",
     "Hidden/Images/NPC/vasalli.jpg",
-    "Hidden/Images/NPC/victor vallikovic.jpeg",
-    "Hidden/Images/NPC/volenta.jpeg",
-    "Hidden/Images/NPC/Lich Luvash.md",
-    "Hidden/Images/NPC/Strahd - Transcended.md",
-    "Hidden/Images/NPC/Emil.md",
-    "Hidden/Acts/Visit Vallaki.md",
-    "Hidden/Acts/The Festival.md",
-    "Hidden/Acts/Fortune Reading.md",
-    "Hidden/TODO.md",
-    "Characters/PCs/Traits/death's contract.md",
     "Hidden/Images/PC/images.jpeg.opdownload",
-    "Hidden/NOTES.md",
-    "Characters/PCs/Traits/Werewolf Lycanthropy.md",
-    "Characters/PCs/Elik Moon.md",
-    "Items/Sunsword.md",
     "Characters/PCs/Traits",
-    "Hidden/Images/NPC/Baba.md",
-    "Untitled 1.md",
     "Images/Items Splash/blood spear.jpeg.opdownload",
     "Images/Items Splash/Sunsword.jpg.opdownload",
     "Images/Items Splash/Saint Markovia's Thighbone.webp.opdownload",
     "Hidden/Images/Items",
-    "Hidden/notes/Castle Ravenloft hooks.md",
-    "dAIm.md",
     "Hidden/stuff",
     "Untitled 1.canvas"
   ]

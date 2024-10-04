@@ -3,10 +3,13 @@
 		{"id":"912e82ec7e420096","type":"file","file":"Hidden/Acts/Arrival in Barovia.md","x":-1000,"y":-549,"width":407,"height":403,"color":"4"},
 		{"id":"cc88467b42e50fdb","type":"file","file":"Hidden/Acts/Visit Vallaki.md","x":-1000,"y":-47,"width":407,"height":403},
 		{"id":"f0652fb11868fbc8","type":"file","file":"Hidden/Acts/The Festival.md","x":-1000,"y":455,"width":407,"height":399},
-		{"id":"c736b39608a15312","type":"file","file":"Hidden/Acts/Departing Vallaki.md","x":-1000,"y":1421,"width":407,"height":1102,"color":"2"},
+		{"id":"c736b39608a15312","type":"file","file":"Hidden/Acts/dinner with the devil.md","x":-1000,"y":1421,"width":407,"height":319,"color":"2"},
 		{"id":"29cbca9f182a819f","type":"text","text":"# ACT II \n![[vallaki.png]]","x":-1000,"y":953,"width":407,"height":368,"color":"2"},
+		{"id":"6aa908a94707ee16","type":"text","text":"# ACT I\n![[gates of borovia.png]]","x":-1000,"y":-1000,"width":407,"height":352,"color":"4"},
+		{"id":"5055105ca14a27db","type":"file","file":"Hidden/Acts/road to the wedding.md","x":-996,"y":1840,"width":400,"height":520},
+		{"id":"2550b1629b253e02","type":"file","file":"Hidden/Acts/Fated allies.md","x":-520,"y":-1010,"width":400,"height":373,"color":"6"},
 		{"id":"b7c02c8f8b9bb2da","type":"file","file":"Hidden/Acts/Fortune Reading.md","x":-520,"y":-486,"width":400,"height":277,"color":"3"},
-		{"id":"6aa908a94707ee16","type":"text","text":"# ACT I\n![[gates of borovia.png]]","x":-1000,"y":-1000,"width":407,"height":352,"color":"4"}
+		{"id":"8f0f8aaae5de37a4","type":"file","file":"Hidden/Acts/the heist.md","x":-500,"y":1425,"width":400,"height":311,"color":"1"}
 	],
 	"edges":[
 		{"id":"71c64bdfebde9bae","fromNode":"6aa908a94707ee16","fromSide":"bottom","toNode":"912e82ec7e420096","toSide":"top","color":"4"},
@@ -14,6 +17,9 @@
 		{"id":"6e5f1ff4a85c3037","fromNode":"f0652fb11868fbc8","fromSide":"bottom","toNode":"29cbca9f182a819f","toSide":"top","color":"2"},
 		{"id":"0f440b4e78c63c1e","fromNode":"cc88467b42e50fdb","fromSide":"bottom","toNode":"f0652fb11868fbc8","toSide":"top","color":"4"},
 		{"id":"4f6e9292f376efba","fromNode":"912e82ec7e420096","fromSide":"bottom","toNode":"cc88467b42e50fdb","toSide":"top","color":"4"},
-		{"id":"ff4e2334c5d1bbfb","fromNode":"912e82ec7e420096","fromSide":"right","toNode":"b7c02c8f8b9bb2da","toSide":"left","color":"3"}
+		{"id":"ff4e2334c5d1bbfb","fromNode":"912e82ec7e420096","fromSide":"right","toNode":"b7c02c8f8b9bb2da","toSide":"left","color":"3"},
+		{"id":"b7c3df52e08ca377","fromNode":"c736b39608a15312","fromSide":"bottom","toNode":"5055105ca14a27db","toSide":"top"},
+		{"id":"d8e2465509c46e7a","fromNode":"c736b39608a15312","fromSide":"right","toNode":"8f0f8aaae5de37a4","toSide":"left"},
+		{"id":"629f60afe840f90d","fromNode":"6aa908a94707ee16","fromSide":"right","toNode":"2550b1629b253e02","toSide":"left"}
 	]
 }

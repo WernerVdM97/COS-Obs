@@ -2,3 +2,4 @@
 - [ ] Find the holy symbol of Ravenkind
 - [x] Find Ezemerelda
 - [ ] Find the Sunsword
+- [ ] Face the threat
