@@ -5,5 +5,4 @@
 - [ ] Find a cure x2
 
 `x`  ~~Fulfill a vow~~  
-
 - [ ] Seek redemption

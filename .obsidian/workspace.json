@@ -6,7 +6,7 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
-        "dimension": 22.24731789949181,
+        "dimension": 20.231607629427792,
         "children": [
           {
             "id": "b9136f9d2401c56e",
@@ -16,8 +16,8 @@
               "state": {
                 "file": "Story.canvas",
                 "viewState": {
-                  "x": -787.6006807038523,
-                  "y": 1927.0669982783693,
+                  "x": -792.6860060159369,
+                  "y": 2286.8537641082607,
                   "zoom": -0.18800300575757564
                 }
               }
@@ -28,7 +28,7 @@
       {
         "id": "35cb2dd2c5b67190",
         "type": "tabs",
-        "dimension": 58.66741953698475,
+        "dimension": 60.694822888283376,
         "children": [
           {
             "id": "1578639d01e7b273",
@@ -38,9 +38,9 @@
               "state": {
                 "file": "Characters and Items.canvas",
                 "viewState": {
-                  "x": -306.05435400444924,
-                  "y": 1456.2515072396234,
-                  "zoom": -3.114448646230117
+                  "x": -1827.2303992794566,
+                  "y": -363.25964420658715,
+                  "zoom": -1.1464485993093387
                 }
               }
             }
@@ -50,7 +50,7 @@
       {
         "id": "0dc6510e41c9e8f2",
         "type": "split",
-        "dimension": 19.085262563523433,
+        "dimension": 19.07356948228883,
         "children": [
           {
             "id": "6d410ec4e8ab0095",
@@ -180,8 +180,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,12 +263,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1578639d01e7b273",
+  "active": "0a9320c8c5bd0652",
   "lastOpenFiles": [
     "Story.canvas",
+    "Characters and Items.canvas",
+    "Characters/NPCs/Baba Lysaga.md",
+    "Items/icon of ravenloft.md",
+    "Items/Markovia's thighbone.md",
+    "Hidden/Hooks.md",
     "Hidden/notes/Bonegrinder.md",
     "Hidden/Notes.md",
-    "Hidden/Hooks.md",
     "Characters/NPCs/Ez.md",
     "Characters/NPCs/Escher.md",
     "Characters/NPCs/Ana.md",
@@ -283,16 +286,12 @@
     "Characters/NPCs/Strahd.md",
     "Characters/NPCs/Vasilli Van Holtz.md",
     "Characters/NPCs/Volenta.md",
-    "Characters and Items.canvas",
     "Hidden/templates/Items.md",
     "Hidden/templates/Character.md",
     "Hidden/NOTES.md",
     "Hidden/notes/Krezk.md",
     "Hidden/dAIm.md",
     "Hidden/Acts/Fated allies.md",
-    "Characters/NPCs/Gertruda.md",
-    "Hidden/Acts/the heist.md",
-    "Hidden/Acts/road to the wedding.md",
     "Hidden/Images/travel_map.png",
     "Hidden/Images/Locations/tsolenka pass.webp",
     "Hidden/Images/NPC/martikovs.jpeg.sb-719d1ca5-xRORPl",
