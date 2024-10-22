@@ -2,6 +2,7 @@
 ## [Statblocks](https://www.monstershuffler.com/monsters/editor.php) 
 
 - [ ] Werewolves statblocks
+- [ ] morganthas loot
 - [ ] abbot statblock
 
 ## Plot
@@ -16,5 +17,5 @@ Village -> Vallaki -> Proposal -> Wedding -> Death
 
 ### Ez
 
-Castle -> Tower -> Carnival
+Castle -> Tower -> den -> Carnival
 

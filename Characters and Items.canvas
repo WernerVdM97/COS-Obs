@@ -41,7 +41,7 @@
 		{"id":"f1fddc9047fbec00","type":"file","file":"Characters/NPCs/Ismark.md","x":-3493,"y":427,"width":400,"height":733},
 		{"id":"d625df1fe596bd59","type":"file","file":"Characters/NPCs/Morgantha.md","x":-594,"y":-1452,"width":400,"height":515,"color":"1"},
 		{"id":"0f2c41d3ae061d0b","type":"file","file":"Characters/PCs/Flikk.md","x":3074,"y":1569,"width":400,"height":1071},
-		{"id":"1be3fa7b645d75c1","type":"file","file":"Characters/PCs/Lucian.md","x":3514,"y":1569,"width":399,"height":684},
+		{"id":"1be3fa7b645d75c1","type":"file","file":"Characters/PCs/Lucian.md","x":3514,"y":1569,"width":399,"height":684,"color":"2"},
 		{"id":"601fe4ac3ab7c42f","type":"file","file":"Items/icon of ravenloft.md","subpath":"#Holy Symbol","x":2634,"y":2040,"width":399,"height":643},
 		{"id":"148fc69b0898b10b","type":"file","file":"Characters/PCs/Traits/Wildmagic.md","subpath":"#Arcanic corruption","x":3514,"y":2320,"width":400,"height":391,"color":"1"},
 		{"id":"95c3f0344a72b91d","type":"file","file":"Items/Markovia's thighbone.md","subpath":"#Blunt mace","x":2634,"y":2793,"width":399,"height":977},

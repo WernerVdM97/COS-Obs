@@ -6,128 +6,60 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
-        "dimension": 20.231607629427792,
         "children": [
           {
             "id": "b9136f9d2401c56e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Story.canvas",
-                "viewState": {
-                  "x": -792.6860060159369,
-                  "y": 2286.8537641082607,
-                  "zoom": -0.18800300575757564
-                }
+                "file": "Hidden/notes/the trial.md",
+                "mode": "source",
+                "source": false
               }
-            }
+            },
+            "group": "c918f3a16491e16b"
           }
         ]
       },
       {
-        "id": "35cb2dd2c5b67190",
-        "type": "tabs",
-        "dimension": 60.694822888283376,
-        "children": [
-          {
-            "id": "1578639d01e7b273",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters and Items.canvas",
-                "viewState": {
-                  "x": -1827.2303992794566,
-                  "y": -363.25964420658715,
-                  "zoom": -1.1464485993093387
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0dc6510e41c9e8f2",
+        "id": "767ae190cf1ebf32",
         "type": "split",
-        "dimension": 19.07356948228883,
         "children": [
           {
-            "id": "6d410ec4e8ab0095",
+            "id": "d64313f1da3d1091",
             "type": "tabs",
-            "dimension": 42.38900634249471,
+            "dimension": 51.23456790123457,
             "children": [
               {
-                "id": "b51e408189210621",
+                "id": "33b28b9eed38afc9",
                 "type": "leaf",
                 "state": {
-                  "type": "localgraph",
+                  "type": "markdown",
                   "state": {
-                    "file": "Characters and Items.canvas",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#dead ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        },
-                        {
-                          "query": "tag:#missing",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14069084
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -2.7,
-                      "nodeSizeMultiplier": 3.35011800130208,
-                      "lineSizeMultiplier": 4.30356038411458,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.8048743911955513,
-                      "close": true
-                    }
+                    "file": "Hidden/notes/the trial.md",
+                    "mode": "preview",
+                    "source": false
                   }
-                }
+                },
+                "group": "c918f3a16491e16b"
               }
             ]
           },
           {
-            "id": "91bc90a5170f2d64",
+            "id": "81d8d01145744ae2",
             "type": "tabs",
-            "dimension": 57.61099365750529,
+            "dimension": 48.76543209876543,
             "children": [
               {
-                "id": "c64648ea60d73161",
+                "id": "b107682c9bb28ae1",
                 "type": "leaf",
                 "state": {
-                  "type": "backlink",
+                  "type": "markdown",
                   "state": {
-                    "file": "Characters and Items.canvas",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
+                    "file": "Hidden/Notes.md",
+                    "mode": "preview",
+                    "source": false
                   }
                 }
               }
@@ -163,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dead",
+                "query": "tag:#werewolve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "911f895b57747a81",
@@ -201,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "Hidden/notes/the trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "Hidden/notes/the trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,11 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters and Items.canvas"
+                "file": "Hidden/notes/the trial.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -258,40 +190,43 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "templates:Insert template": true,
+      "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a9320c8c5bd0652",
+  "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
+    "Hidden/Hooks.md",
+    "README.md",
     "Story.canvas",
+    "Hidden/Images/NPC/kiril.jpeg",
+    "Hidden/notes/the trial.md",
+    "Hidden/Notes.md",
+    "Characters/PCs/Traits/death's contract.md",
+    "Characters/NPCs/Stanimir.md",
+    "Items/The Wagon.md",
+    "Characters/NPCs/Escher.md",
+    "Hidden/Images/NPC/khazan.jpeg",
+    "Characters/NPCs/kiril.md",
+    "Hidden/notes/finding Ez.md",
+    "Hidden/Images/NPC/lady fiona watcher.jpeg",
+    "Hidden/notes/Castle Ravenloft hooks.md",
+    "Hidden/dAIm.md",
+    "Hidden/notes/Bonegrinder.md",
+    "Characters/PCs/Elik Moon.md",
+    "Characters/NPCs/Emil.md",
     "Characters and Items.canvas",
     "Characters/NPCs/Baba Lysaga.md",
     "Items/icon of ravenloft.md",
     "Items/Markovia's thighbone.md",
-    "Hidden/Hooks.md",
-    "Hidden/notes/Bonegrinder.md",
-    "Hidden/Notes.md",
     "Characters/NPCs/Ez.md",
-    "Characters/NPCs/Escher.md",
     "Characters/NPCs/Ana.md",
     "Characters/NPCs/Arabelle.md",
     "Characters/NPCs/Arrigal.md",
     "Characters/NPCs/Baronnet Victor.md",
-    "Characters/NPCs/Emil.md",
     "Characters/NPCs/Lila - Rudolph's Tiger.md",
-    "Characters/NPCs/Stanimir.md",
     "Characters/NPCs/Sir Godfry.md",
-    "Characters/NPCs/Strahd.md",
-    "Characters/NPCs/Vasilli Van Holtz.md",
-    "Characters/NPCs/Volenta.md",
-    "Hidden/templates/Items.md",
-    "Hidden/templates/Character.md",
-    "Hidden/NOTES.md",
-    "Hidden/notes/Krezk.md",
-    "Hidden/dAIm.md",
-    "Hidden/Acts/Fated allies.md",
     "Hidden/Images/travel_map.png",
     "Hidden/Images/Locations/tsolenka pass.webp",
     "Hidden/Images/NPC/martikovs.jpeg.sb-719d1ca5-xRORPl",
@@ -302,9 +237,6 @@
     "Hidden/Images/Items/Icon of Ravenloft.webp",
     "Hidden/Images/NPC/strahds armour.jpg",
     "Hidden/Images/NPC/the abbot.jpg",
-    "Hidden/Images/NPC/the hut.jpg",
-    "Hidden/Images/NPC/undeadknight.jpg",
-    "Hidden/Images/NPC/vasalli.jpg",
     "Hidden/Images/PC/images.jpeg.opdownload",
     "Characters/PCs/Traits",
     "Images/Items Splash/blood spear.jpeg.opdownload",
