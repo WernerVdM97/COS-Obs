@@ -1,20 +1,12 @@
-# Fullname
+# The Abbot
 
-## AKA Nickname
+#cleric #highpriest
 
-#tags
-
-
-![[Curse of Strahd.png]]
-
-## Relationships
-
-Type, Person
+![[the abbot.jpg]]
 
 # Hidden
 
 ## Unique Items
-
 **Equipment**
 
 | Item | Description | Gold |
@@ -22,7 +14,6 @@ Type, Person
 | **Name** | Statblock | value |
 
 ## Statblock
-
 _Size, race, alignment_
 
 **AC** 14 (natural armor)  
@@ -63,5 +54,5 @@ _Size, race, alignment_
 ## Motives
 
 | **Motive** | **Description** |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Title** | Description|
+| ---------- | --------------- |
+| **Title**  | Description     |

@@ -1,20 +1,15 @@
-# Fullname
+# Dimitri Krezkov
 
-## AKA Nickname
+#Burgomaster 
 
-#tags
-
-
-![[Curse of Strahd.png]]
-
+![[dimitri.webp]]
 ## Relationships
 
-Type, Person
+Wife, ?
 
 # Hidden
 
 ## Unique Items
-
 **Equipment**
 
 | Item | Description | Gold |
@@ -22,7 +17,6 @@ Type, Person
 | **Name** | Statblock | value |
 
 ## Statblock
-
 _Size, race, alignment_
 
 **AC** 14 (natural armor)  
@@ -63,5 +57,5 @@ _Size, race, alignment_
 ## Motives
 
 | **Motive** | **Description** |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Title** | Description|
+| ---------- | --------------- |
+| **Title**  | Description     |

@@ -18,7 +18,9 @@
                     "file": "README.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
                 },
                 "group": "c918f3a16491e16b"
               }
@@ -42,7 +44,9 @@
                         "file": "README.md",
                         "mode": "preview",
                         "source": false
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "README"
                     },
                     "group": "c918f3a16491e16b"
                   }
@@ -56,13 +60,17 @@
                   {
                     "id": "24a58a7982da4b42",
                     "type": "leaf",
+                    "pinned": true,
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Hidden/TODO.md",
+                        "file": "Hidden/Notes.md",
                         "mode": "source",
                         "source": false
-                      }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Notes"
                     }
                   }
                 ]
@@ -88,7 +96,9 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
                 }
               },
               {
@@ -103,7 +113,9 @@
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
                 }
               },
               {
@@ -111,7 +123,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
                 }
               }
             ]
@@ -142,7 +156,9 @@
                     "searchQuery": "",
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": false
-                  }
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for README"
                 }
               },
               {
@@ -154,7 +170,9 @@
                     "file": "README.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from README"
                 }
               },
               {
@@ -165,7 +183,9 @@
                   "state": {
                     "sortOrder": "alphabetical",
                     "useHierarchy": true
-                  }
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
                 }
               },
               {
@@ -175,7 +195,9 @@
                   "type": "outline",
                   "state": {
                     "file": "README.md"
-                  }
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of README"
                 }
               }
             ],
@@ -198,7 +220,7 @@
         }
       },
       "active": "b9136f9d2401c56e",
-      "mtime": "2024-07-13T16:50:52+02:00"
+      "mtime": "2024-10-27T08:02:11+02:00"
     },
     "story": {
       "main": {
@@ -218,11 +240,13 @@
                   "state": {
                     "file": "Story.canvas",
                     "viewState": {
-                      "x": -796.4999999999993,
-                      "y": 1274.8740270036853,
+                      "x": -796.4999999999992,
+                      "y": 2819.541590549,
                       "zoom": -0.18800300575757564
                     }
-                  }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Story"
                 }
               }
             ]
@@ -240,11 +264,13 @@
                   "state": {
                     "file": "Characters and Items.canvas",
                     "viewState": {
-                      "x": -415.36974464512696,
-                      "y": 1778.034949521355,
-                      "zoom": -2.850448639935864
+                      "x": -500.9033566608913,
+                      "y": 687.6725780595467,
+                      "zoom": -1.4744486071294671
                     }
-                  }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Characters and Items"
                 }
               }
             ]
@@ -306,7 +332,9 @@
                           "scale": 0.8048743911955513,
                           "close": true
                         }
-                      }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of The party"
                     }
                   }
                 ]
@@ -330,7 +358,9 @@
                         "searchQuery": "",
                         "backlinkCollapsed": false,
                         "unlinkedCollapsed": false
-                      }
+                      },
+                      "icon": "links-coming-in",
+                      "title": "Backlinks for The party"
                     }
                   }
                 ]
@@ -356,7 +386,9 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
                 }
               },
               {
@@ -371,7 +403,9 @@
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
                 }
               },
               {
@@ -379,7 +413,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
                 }
               }
             ],
@@ -412,7 +448,9 @@
                     "searchQuery": "",
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": false
-                  }
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for The party"
                 }
               },
               {
@@ -424,7 +462,9 @@
                     "file": "Characters/PCs/The party.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from The party"
                 }
               },
               {
@@ -435,7 +475,9 @@
                   "state": {
                     "sortOrder": "alphabetical",
                     "useHierarchy": true
-                  }
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
                 }
               },
               {
@@ -445,7 +487,9 @@
                   "type": "outline",
                   "state": {
                     "file": "Characters/PCs/The party.md"
-                  }
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of The party"
                 }
               }
             ]
@@ -466,9 +510,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "b51e408189210621",
-      "mtime": "2024-07-14T19:26:32+02:00"
+      "active": "1578639d01e7b273",
+      "mtime": "2024-10-27T08:31:13+02:00"
     }
   },
-  "active": "dev"
+  "active": "story"
 }

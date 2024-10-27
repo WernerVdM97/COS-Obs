@@ -1,6 +1,17 @@
 [[kiril]] and co
 
 https://www.strahdreloaded.com/Act+III+-+The+Broken+Land/Arc+Q+-+A+Shining+Beacon#Q5.+Pack+Attack
+
+# Fated intervention
+
+DC: 20, -1 each round. 
+Ez intervenes.
+
+# Lair actions
+
+- fear howl
+- bardic inspiration howl
+- ..?
 # **Initiating Combat: Ambush**
 
 - **Stealth Check (DC 14)**: Wolves try to ambush the party from the surrounding woods.

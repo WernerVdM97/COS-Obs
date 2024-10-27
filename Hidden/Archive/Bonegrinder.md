@@ -41,8 +41,6 @@
 
 **Covenstone (Wondrous Item, Rare):** A small, smooth stone that glows faintly. When held, it grants advantage on Arcana checks related to dark magic. Additionally, it can store one spell of up to 3rd level once per long rest.
 
-**Cursebreaker Amulet (Wondrous Item)**: Once per day, this amulet can cast Remove Curse on the wearer or an ally.
-
 **Witch’s Grimoire (Spellbook):** Contains spells written in an ancient language. Includes **Witch Bolt**, **Bestow Curse**, and **Phantasmal Force** (can be used by wizards, requires translation).
 
 **Ring of Ghostly Step (Ring, Rare):** Once per day, the wearer can cast **Etherealness** (lasts 1 minute) on themselves. When they return to the Material Plane, they gain advantage on the next attack roll.
@@ -50,6 +48,8 @@
 **Soulshard (Wondrous Item, Very Rare):** A black crystal that holds the essence of a captured soul. Can be consumed to gain an extra spell slot (3rd level or lower), but carries a curse that increases the chance of becoming haunted by the soul’s whispers (1% per use).
 
 **Feystone Ring (Ring, Cursed):** A beautifully ornate ring that grants the wearer advantage on Charisma (Persuasion) checks, but slowly corrupts their mind, giving them disadvantage on Wisdom saving throws after 24 hours of attunement.
+
+**Cursebreaker Amulet (Wondrous Item)**: Once per day, this amulet can cast Remove Curse on the wearer or an ally.
 
 ## Morgantha, Hag Matron
 

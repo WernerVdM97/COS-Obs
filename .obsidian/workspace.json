@@ -6,61 +6,137 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
+        "dimension": 20.231607629427792,
         "children": [
           {
             "id": "b9136f9d2401c56e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Hidden/notes/the trial.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "c918f3a16491e16b"
+                "file": "Story.canvas",
+                "viewState": {
+                  "x": -796.4999999999992,
+                  "y": 2819.541590549,
+                  "zoom": -0.18800300575757564
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Story"
+            }
           }
         ]
       },
       {
-        "id": "767ae190cf1ebf32",
-        "type": "split",
+        "id": "35cb2dd2c5b67190",
+        "type": "tabs",
+        "dimension": 60.694822888283376,
         "children": [
           {
-            "id": "d64313f1da3d1091",
+            "id": "1578639d01e7b273",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters and Items.canvas",
+                "viewState": {
+                  "x": -500.9033566608913,
+                  "y": 687.6725780595467,
+                  "zoom": -1.4744486071294671
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Characters and Items"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0dc6510e41c9e8f2",
+        "type": "split",
+        "dimension": 19.07356948228883,
+        "children": [
+          {
+            "id": "6d410ec4e8ab0095",
             "type": "tabs",
-            "dimension": 51.23456790123457,
+            "dimension": 42.38900634249471,
             "children": [
               {
-                "id": "33b28b9eed38afc9",
+                "id": "b51e408189210621",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "localgraph",
                   "state": {
-                    "file": "Hidden/notes/the trial.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                },
-                "group": "c918f3a16491e16b"
+                    "file": "Characters/PCs/The party.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#dead ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        },
+                        {
+                          "query": "tag:#missing",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2.7,
+                      "nodeSizeMultiplier": 3.35011800130208,
+                      "lineSizeMultiplier": 4.30356038411458,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.8048743911955513,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of The party"
+                }
               }
             ]
           },
           {
-            "id": "81d8d01145744ae2",
+            "id": "91bc90a5170f2d64",
             "type": "tabs",
-            "dimension": 48.76543209876543,
+            "dimension": 57.61099365750529,
             "children": [
               {
-                "id": "b107682c9bb28ae1",
+                "id": "c64648ea60d73161",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "backlink",
                   "state": {
-                    "file": "Hidden/Notes.md",
-                    "mode": "preview",
-                    "source": false
-                  }
+                    "file": "Characters/PCs/The party.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for The party"
                 }
               }
             ]
@@ -86,7 +162,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -95,13 +173,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#werewolve",
+                "query": "tag:#dead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -109,14 +189,18 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "911f895b57747a81",
@@ -132,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hidden/notes/the trial.md",
+                "file": "Characters/PCs/The party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +224,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The party"
             }
           },
           {
@@ -149,10 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hidden/notes/the trial.md",
+                "file": "Characters/PCs/The party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The party"
             }
           },
           {
@@ -163,7 +251,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -172,12 +262,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/notes/the trial.md"
-              }
+                "file": "Characters/PCs/The party.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The party"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,60 +281,60 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "templates:Insert template": false,
+      "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9136f9d2401c56e",
+  "active": "1578639d01e7b273",
   "lastOpenFiles": [
-    "Hidden/Hooks.md",
-    "README.md",
     "Story.canvas",
-    "Hidden/Images/NPC/kiril.jpeg",
-    "Hidden/notes/the trial.md",
-    "Hidden/Notes.md",
-    "Characters/PCs/Traits/death's contract.md",
-    "Characters/NPCs/Stanimir.md",
-    "Items/The Wagon.md",
-    "Characters/NPCs/Escher.md",
-    "Hidden/Images/NPC/khazan.jpeg",
-    "Characters/NPCs/kiril.md",
-    "Hidden/notes/finding Ez.md",
-    "Hidden/Images/NPC/lady fiona watcher.jpeg",
-    "Hidden/notes/Castle Ravenloft hooks.md",
-    "Hidden/dAIm.md",
-    "Hidden/notes/Bonegrinder.md",
-    "Characters/PCs/Elik Moon.md",
-    "Characters/NPCs/Emil.md",
     "Characters and Items.canvas",
-    "Characters/NPCs/Baba Lysaga.md",
-    "Items/icon of ravenloft.md",
-    "Items/Markovia's thighbone.md",
-    "Characters/NPCs/Ez.md",
-    "Characters/NPCs/Ana.md",
-    "Characters/NPCs/Arabelle.md",
-    "Characters/NPCs/Arrigal.md",
-    "Characters/NPCs/Baronnet Victor.md",
-    "Characters/NPCs/Lila - Rudolph's Tiger.md",
-    "Characters/NPCs/Sir Godfry.md",
-    "Hidden/Images/travel_map.png",
+    "Hidden/Images/Locations/Krezk-Night-Thumbnail.jpg",
+    "Hidden/Images/Locations/Krezk-Night-Thumbnail.jpg.opdownload",
+    "Hidden/Images/Locations/village of barovia.jpeg",
+    "Hidden/Acts/Fated allies.md",
+    "Hidden/Acts/3.1 at crossroads.md",
+    "Hidden/Acts/2.2 road to the wedding.md",
+    "Hidden/Acts/2.1 dinner with the devil.md",
+    "Hidden/Acts/1.3 The Festival.md",
+    "Hidden/Acts/1.2 Visit Vallaki.md",
+    "Hidden/Acts/1.1 Arrival in Barovia.md",
     "Hidden/Images/Locations/tsolenka pass.webp",
+    "Hidden/Images/PC/darkestvision.jpeg",
+    "Hidden/Images/Locations/krezk.png",
+    "Hidden/Images/Locations/vallaki-gate.png",
+    "Hidden/Images/Locations/vallaki.png",
+    "Hidden/Images/Curse of Strahd.png",
+    "Hidden/Images/Addemire Institute By Nini Gombart.png",
+    "Hidden/Images/NPC/kiril large.jpeg",
+    "Hidden/Lich Luvash.md",
+    "Hidden/Images/NPC/Baba.md",
+    "Characters/NPCs/Patrina Velkovna.md",
+    "Hidden/notes/Abby of Saint Markova.md",
+    "Hidden/templates/traits.md",
+    "Hidden/templates/Items.md",
+    "Hidden/templates/Character.md",
+    "Hidden/notes/Ez's story.md",
+    "Hidden/notes/the den.md",
+    "Hidden/notes/Ez's reading.md",
+    "Hidden/Archive/the trial.md",
+    "README.md",
+    "Hidden/Notes.md",
+    "Hidden/notes/Castle Ravenloft hooks.md",
+    "Hidden/Archive",
+    "Characters/NPCs/dimitri.md",
+    "Characters/NPCs/Emil.md",
+    "Characters/NPCs/abbot.md",
+    "Characters/NPCs/kiril.md",
     "Hidden/Images/NPC/martikovs.jpeg.sb-719d1ca5-xRORPl",
-    "Hidden/Images/NPC/martikovs.jpeg",
     "Hidden/Images/NPC/martikovs.tiff",
-    "Hidden/Images/NPC/martikovs.webp",
     "Hidden/Images/NPC/martikovs.webp.opdownload",
-    "Hidden/Images/Items/Icon of Ravenloft.webp",
-    "Hidden/Images/NPC/strahds armour.jpg",
-    "Hidden/Images/NPC/the abbot.jpg",
     "Hidden/Images/PC/images.jpeg.opdownload",
     "Characters/PCs/Traits",
     "Images/Items Splash/blood spear.jpeg.opdownload",
     "Images/Items Splash/Sunsword.jpg.opdownload",
     "Images/Items Splash/Saint Markovia's Thighbone.webp.opdownload",
-    "Hidden/Images/Items",
-    "Hidden/stuff",
     "Untitled 1.canvas"
   ]
 }

@@ -12,7 +12,7 @@ cssclasses:
 	- dusk elves are torching arrigal & arabelle,
 	- lich luvash summoned by Rahadin.
 - [ ] **Tower** 
-	- [[finding Ez]]
+	- [[Ez's story]]
 	- Werewolf ambush. [[the trial]].
 	- Ez's card reading
 - [ ] **Den** 

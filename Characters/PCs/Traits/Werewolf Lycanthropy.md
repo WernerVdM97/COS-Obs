@@ -8,7 +8,7 @@
 
 **Remedy:** moonflower potion.
 
-**Cure?** Unkown...
+**Cure?** The [[amulet.jpg]]
 
 # hidden
 

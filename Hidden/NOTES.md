@@ -1,21 +1,21 @@
 
 ## [Statblocks](https://www.monstershuffler.com/monsters/editor.php) 
 
-- [ ] Werewolves statblocks
-- [ ] morganthas loot
+- [ ] Krezk villagers
+- [ ] Prep the [[Abby of Saint Markova]]
 - [ ] abbot statblock
 
 ## Plot
 
 ### Patrina
 
-Kasmir -> Baba -> ressurection -> Amber Temple -> Strahd
+Kasmir -> resurrection -> Amber Temple -> Strahd
 
 ### Ireena
 
-Village -> Vallaki -> Proposal -> Wedding -> Death
+~~Village -> Vallaki -> Proposal~~ -> Wedding -> Death
 
 ### Ez
 
-Castle -> Tower -> den -> Carnival
+~~Castle -> Tower~~ -> [[Ez's reading]] -> den -> Carnival
 
