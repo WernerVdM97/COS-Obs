@@ -4,8 +4,6 @@
 		{"id":"6d6764ed1db9272c","type":"text","text":"# Krezk","x":1537,"y":-28,"width":158,"height":80,"color":"6"},
 		{"id":"22f5ac05a738ec2a","type":"file","file":"Characters/NPCs/Emil.md","subpath":"#Emil","x":2800,"y":720,"width":400,"height":120},
 		{"id":"7e82f00b41d78832","type":"file","file":"Characters/NPCs/kiril.md","subpath":"#?","x":2800,"y":-28,"width":400,"height":557},
-		{"id":"c3e4c8c9a8605b89","type":"file","file":"Characters/NPCs/dimitri.md","subpath":"#Dimitri Krezkov","x":1831,"y":-1010,"width":400,"height":786},
-		{"id":"74a06bf277065593","type":"file","file":"Characters/NPCs/abbot.md","subpath":"#The Abbot","x":1295,"y":-994,"width":400,"height":114},
 		{"id":"c0c83a545e2fa72e","type":"file","file":"Characters/NPCs/Baba Lysaga.md","subpath":"#Baba Lysaga","x":359,"y":2654,"width":400,"height":640},
 		{"id":"8cd8f6b05c031e08","type":"file","file":"Characters/NPCs/Ana.md","x":-595,"y":3287,"width":400,"height":699,"color":"1"},
 		{"id":"bb7c50ec8ba130a0","type":"file","file":"Items/Reaping Greatsword.md","x":-595,"y":4091,"width":400,"height":279},
@@ -68,7 +66,13 @@
 		{"id":"c503ab8d1c4becc4","type":"file","file":"Characters/NPCs/Lila - Rudolph's Tiger.md","subpath":"#Lila","x":-3889,"y":-416,"width":400,"height":639,"color":"1"},
 		{"id":"4ac8558efd03069d","type":"file","file":"Characters/NPCs/Rudolph.md","subpath":"#Rudolph Van Richten","x":-3442,"y":-1475,"width":400,"height":1698,"color":"1"},
 		{"id":"b42a5ebd7db9525b","type":"file","file":"Characters/NPCs/Sir Godfry.md","x":-2962,"y":-507,"width":400,"height":669},
-		{"id":"5b75f745a85cd4e5","type":"file","file":"Characters/NPCs/Ez.md","x":-2502,"y":-592,"width":400,"height":709}
+		{"id":"5b75f745a85cd4e5","type":"file","file":"Characters/NPCs/Ez.md","x":-2502,"y":-592,"width":400,"height":709},
+		{"id":"5343a86878dfa2af","type":"file","file":"Characters/NPCs/vasilka.md","subpath":"#Vasilka","x":1537,"y":-1274,"width":400,"height":656},
+		{"id":"74a06bf277065593","type":"file","file":"Characters/NPCs/abbot.md","subpath":"#The Abbot","x":1080,"y":-1274,"width":400,"height":514,"color":"3"},
+		{"id":"0aef86618dbfd407","type":"text","text":"# [Indefinite madness](https://roll20.net/compendium/dnd5e/Madness#content)","x":1875,"y":160,"width":378,"height":91,"color":"1"},
+		{"id":"c3e4c8c9a8605b89","type":"file","file":"Characters/NPCs/dimitri.md","subpath":"#Dimitri Krezkov","x":926,"y":-653,"width":309,"height":665},
+		{"id":"5c069b0b082f5d5d","type":"file","file":"Characters/NPCs/Clovin.md","subpath":"#Clovin Belview","x":2440,"y":-1125,"width":400,"height":635},
+		{"id":"b4a0206bee5ac25e","type":"file","file":"Characters/NPCs/Otto & Zygfrek.md","subpath":"#Otto & Zygfrek Belview","x":1976,"y":-1217,"width":400,"height":819}
 	],
 	"edges":[
 		{"id":"611ae39435f1862e","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"8cd8f6b05c031e08","toSide":"top","color":"1"},
@@ -135,8 +139,12 @@
 		{"id":"b2e14149c15c2ee4","fromNode":"8d2bd015a8e5aa59","fromSide":"bottom","toNode":"5dc9c31f33a2abfa","toSide":"top"},
 		{"id":"bc2fa4c3d644b435","fromNode":"02e7ea52a9407a5d","fromSide":"bottom","toNode":"ae0edd3816714b0c","toSide":"top"},
 		{"id":"5a8eecb0f2502a56","fromNode":"41a91ed9b09c6937","fromSide":"right","toNode":"7e82f00b41d78832","toSide":"left"},
-		{"id":"ea9898587265ab37","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"c3e4c8c9a8605b89","toSide":"bottom"},
-		{"id":"7493e289aab18fdc","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"74a06bf277065593","toSide":"bottom"},
-		{"id":"0ec09faf116a14d9","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"37b82394230d4390","toSide":"top","color":"1"}
+		{"id":"ea9898587265ab37","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"c3e4c8c9a8605b89","toSide":"bottom","color":"2"},
+		{"id":"7493e289aab18fdc","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"74a06bf277065593","toSide":"bottom","color":"3"},
+		{"id":"0ec09faf116a14d9","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"37b82394230d4390","toSide":"top","color":"1"},
+		{"id":"790ac900bdf84484","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"5343a86878dfa2af","toSide":"bottom","color":"2"},
+		{"id":"611e2599f2364575","fromNode":"6d6764ed1db9272c","fromSide":"right","toNode":"0aef86618dbfd407","toSide":"top"},
+		{"id":"0bded9de3168fc82","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"5c069b0b082f5d5d","toSide":"bottom"},
+		{"id":"0d89469d4344ac7a","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"b4a0206bee5ac25e","toSide":"bottom"}
 	]
 }

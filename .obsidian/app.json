@@ -6,5 +6,6 @@
     "hidden/"
   ],
   "useMarkdownLinks": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "tabSize": 2
 }

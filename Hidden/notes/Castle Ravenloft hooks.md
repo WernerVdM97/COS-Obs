@@ -28,6 +28,7 @@ past the windmill, lit candle in the window
 	- spellbooks
 	- 
 ## dinner
+
 > [!error] dominates someone when they are difficult
 
 Attendees:
@@ -57,9 +58,9 @@ orrel solo
 > Strahd asks the party how intimately felt when killing someone.
 
 > [!quote] Imagine that you are the liege and master of a vassal lord. When you descend to collect this year’s taxes from your vassal’s village, your accountant reports that the year’s taxes are woefully short. When asked to explain, the lord explains that the harvests have been lean and sickness has plagued the village. You notice, however, that the lord wears a fine gold chain around his neck and a new wool cloak with buttons crafted of pure silver. What do you do?
-		
+
 > [!quote]  Imagine that you are the monarch of a realm. One day, a fearsome archmage raises an army of the undead in rebellion against you. As he approaches your keep, you have an opportunity to parlay with him upon the drawbridge of your castle. What do you do?
-		
+
 > [!quote] Imagine again that you are the monarch of a realm. As you sleep in your bed, an assassin slips into your chambers, but is frightened away by your guards’ timely arrival before your throat can be slit. What do you do?
 
 - dinner served by mongerfolk
@@ -98,6 +99,7 @@ wounded, from an encounter with some witches in the crypt.
 can optionally encounter her in the crypts
 
 ### nightmare
+
 > [!quote] After falling asleep
 > Something heavy thumps against the closet door. Moments later, the clock on the wall strikes ten. With each sonorous chime, the miniature castle’s front gates swing open, unveiling an intricate ironwrought bat whose tiny wings repeatedly unfurl and collapse.
 > 

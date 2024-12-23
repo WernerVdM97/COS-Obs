@@ -4,6 +4,7 @@
 ![[Cyrus Belview.webp]]
 ## Relationships
 Master, [[Strahd]]
+Brothers, [[Clovin]], [[Otto & Zygfrek]]
 
 # Hidden
 

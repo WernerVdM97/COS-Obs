@@ -1,9 +1,7 @@
 
-## [Statblocks](https://www.monstershuffler.com/monsters/editor.php) 
+## Statblocks 
 
-- [ ] Krezk villagers
-- [ ] Prep the [[Abby of Saint Markova]]
-- [ ] abbot statblock
+- [ ] Krezk loot
 
 ## Plot
 

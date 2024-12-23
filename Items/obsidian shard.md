@@ -8,6 +8,8 @@
 
 **Soulshard (Wondrous Item, Very Rare):** A black crystal that holds the essence of a captured soul. Can be consumed to gain an extra spell slot (3rd level or lower), 
 
+Charged with lightning bolt
+
 # Hidden
 
 **Soulshard (Wondrous Item, Very Rare):** A black crystal that holds the essence of a captured soul. Can be consumed to gain an extra spell slot (3rd level or lower), 

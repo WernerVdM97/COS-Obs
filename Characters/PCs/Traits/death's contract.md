@@ -1,6 +1,6 @@
 # A deal with darkness
 
-> [!warning] soul traded for life
+> [!hint] soul traded for life
 > Darkest vision 
 > 
 > side effects unknown...

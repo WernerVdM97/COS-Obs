@@ -3,59 +3,35 @@
 #Burgomaster 
 
 ![[dimitri.webp]]
-## Relationships
-
-Wife, ?
+## Family
+ 
+ Two children, Ilya (13) and Kala (8)
+ Wife, Anna
 
 # Hidden
+
+Sister, Zuleika
+
+Every two weeks, on the night of the full moon, Baroness Krezkova harvests a wolfsbane flower from the shores of Krezk’s blessed pool and brews a _potion of wolfsbane_, which she gives to Baron Krezkov to suppress the curse’s aggression. She then locks the Baron in silver shackles in the hidden basement beneath their cottage, where he transforms into a docile wolf at moonrise. Until recently, both Ilya and Kala were ignorant as to their family’s true nature, which their parents have kept a careful secret from both the village and their children.
 
 ## Unique Items
 **Equipment**
 
-| Item | Description | Gold |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| **Name** | Statblock | value |
+---
+## RP
 
-## Statblock
-_Size, race, alignment_
+**_Resonance._** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
 
-**AC** 14 (natural armor)  
-**HP** 76 (9d12 + 18)  
-**Speed** 30 ft.
+**_Emotions._** Dmitri most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
 
-### Ability Scores:
+**_Motivations._** Dmitri wants to protect his village and keep his family together.
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|00|00|00|00|00|00|
-|+0|-0|+0|+0|-0|-0|
+**_Inspirations._** When playing Dmitri, channel Eddard Stark (_Game of Thrones_), King Théoden (_Lord of the Rings_) and Stoick the Vast (_How to Train Your Dragon_).
 
-**Saving Throws** 
-**Skills**  
-**Senses** 
-**Languages** 
-**Challenge** 
+**_Persona._** To the world, Dmitri is a grim, but warm leader. To those he trusts, Dmitri is a warm and loving father, husband, and friend. Only Dmitri knows the extent of his grief, anxiety, and guilt regarding his family's curse and the fate of his children and wife.
+
+**_Morale._** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
+
+**_Relationships._** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
 
 ---
-
-### Traits
-
-*Name**, description
-
----
-
-### Actions
-
-**type.** statblock
-
----
-
- ### Reactions
-
-**Type** description.
-
-## Motives
-
-| **Motive** | **Description** |
-| ---------- | --------------- |
-| **Title**  | Description     |
