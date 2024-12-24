@@ -12,6 +12,8 @@ Charged with lightning bolt
 
 # Hidden
 
+>[!hint] To regen, sacrifice hit die or HP into the gem.
+
 **Soulshard (Wondrous Item, Very Rare):** A black crystal that holds the essence of a captured soul. Can be consumed to gain an extra spell slot (3rd level or lower), 
 
 but carries a curse that increases the chance of becoming haunted by the soul’s whispers (1% per use).

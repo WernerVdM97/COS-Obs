@@ -1,19 +1,13 @@
 # The Abbot
 
+## AKA Ithuriel
+
 #cleric #highpriest
 
 ![[the abbot.jpg]]
 
+Spirit lives fourth in the [[icon of ravenloft]]
 # Hidden
-
-Angelic name, Ithuriel
-
-## Unique Items
-**Equipment**
-
-| Item | Description | Gold |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| **Name** | Statblock | value |
 
 ## Statblock
 

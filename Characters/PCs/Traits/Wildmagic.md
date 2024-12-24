@@ -1,6 +1,6 @@
 # Arcanic corruption
 
-> [!error] Mana (equal to character level)
+> [!warning] Mana (equal to character level)
 > Each time a spell is cast, roll a constitution saving throw.
 > On a fail, deduct the spell level from your current mana. 
 > 
