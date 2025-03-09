@@ -1,10 +1,15 @@
 ## TODO
 
-- [ ] Krezk loot?
-	- [ ] ring of regen
-- [ ] Ez's message
-- [ ] Wedding planning
-- [ ] Ireena plot
+- [ ] Krezk loot, ring of regen? gloves, drapes.
+- [ ] Ez's arrival
+- [ ] ambiance of carnival, greater illusion
+- [ ] Assassin's contract
+- [ ] bachelor's gambling games
+- [ ] Vasillis reveal
+- [ ] Wedding venue
+- [ ] Ireena werewolves
+- [ ] Lucian, Elik
+- [ ] Monks Demon
 
 ## Plots
 
