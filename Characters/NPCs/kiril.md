@@ -1,20 +1,15 @@
-# ?
-## big dawg
+# Kiril, the Alpha
 
 #werewolf 
 
 ![[kiril large.jpeg]]
 
-## Relationships
 
+![[kiril human.webp]]
 
 # Hidden
 
 Partner, Bianca
-
-## large form
-
-![[kiril human.webp]]
 
 https://www.strahdreloaded.com/Act+III+-+The+Broken+Land/Arc+Q+-+A+Shining+Beacon#Q5.+Pack+Attack
 
@@ -53,7 +48,8 @@ _Large Monstrosity (Shapechanger), Chaotic Evil_
 
 **_Keen Hearing and Smell._** Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-**_Second Phase._** When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.
+> [!error] **_Second Phase._** 
+> When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.
 
 ### Actions
 

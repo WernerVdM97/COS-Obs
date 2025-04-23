@@ -4,3 +4,6 @@
 
 ![[vasalli.jpg]]
 
+# Hidden
+
+Casts, Mislead + Nystul’s Magic Aura

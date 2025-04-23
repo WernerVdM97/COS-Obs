@@ -7,8 +7,6 @@ cssclasses:
 
 # Vallaki
 
-## dusk elves are torching arrigal & arabelle
-
 ## lich luvash summoned by Rahadin.
 
 # Tower
@@ -25,8 +23,6 @@ cssclasses:
 
 ## the lost wizard
 
-## Ireena
-
 # Krezk
 
 ## [Baron's homestead](https://www.strahdreloaded.com/Act+III+-+The+Broken+Land/Arc+K+-+The+Fallen+Abbey)
@@ -39,13 +35,11 @@ cssclasses:
 
 # Winery
 
-## Martikovs, Victor, and Izek's refuge
-
-Vasilli joins to help usher party to yester hill
+## Baba/Werewolve's assault?
 
 # Yester hill 
 
-## Strahd's reveal and channel
+## Strahd's hailmary
 
 # Berez
 

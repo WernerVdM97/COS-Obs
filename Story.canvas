@@ -11,7 +11,9 @@
 		{"id":"8f0f8aaae5de37a4","type":"file","file":"Hidden/Acts/the heist.md","x":-500,"y":1364,"width":400,"height":311,"color":"1"},
 		{"id":"5055105ca14a27db","type":"file","file":"Hidden/Acts/2.2 road to the wedding.md","subpath":"#road to the wedding","x":-996,"y":1794,"width":400,"height":365,"color":"3"},
 		{"id":"5ace04c5ef447fe0","type":"text","text":"# ACT III\n![[Krezk-Night-Thumbnail.jpg]]","x":-996,"y":2260,"width":400,"height":314,"color":"2"},
-		{"id":"8244465231ef9859","type":"file","file":"Hidden/Acts/3.1 at crossroads.md","subpath":"#at crossroads","x":-996,"y":2660,"width":400,"height":704,"color":"2"}
+		{"id":"8244465231ef9859","type":"file","file":"Hidden/Acts/3.1 at crossroads.md","subpath":"#at crossroads","x":-996,"y":2660,"width":400,"height":579,"color":"2"},
+		{"id":"8f93215d5877d02b","type":"text","text":"# ACT IV\n\n![[winery.jpg]]","x":-996,"y":3340,"width":400,"height":471,"color":"2"},
+		{"id":"27267fc025958209","type":"file","file":"Hidden/Acts/4.1 New friends.md","subpath":"#New Friends","x":-996,"y":3920,"width":400,"height":858,"color":"2"}
 	],
 	"edges":[
 		{"id":"71c64bdfebde9bae","fromNode":"6aa908a94707ee16","fromSide":"bottom","toNode":"912e82ec7e420096","toSide":"top","color":"4"},
@@ -24,6 +26,8 @@
 		{"id":"d8e2465509c46e7a","fromNode":"c736b39608a15312","fromSide":"right","toNode":"8f0f8aaae5de37a4","toSide":"left"},
 		{"id":"629f60afe840f90d","fromNode":"6aa908a94707ee16","fromSide":"right","toNode":"2550b1629b253e02","toSide":"left"},
 		{"id":"a2fce7cadcb381be","fromNode":"5055105ca14a27db","fromSide":"bottom","toNode":"5ace04c5ef447fe0","toSide":"top"},
-		{"id":"b7dec8483bbf9005","fromNode":"5ace04c5ef447fe0","fromSide":"bottom","toNode":"8244465231ef9859","toSide":"top"}
+		{"id":"b7dec8483bbf9005","fromNode":"5ace04c5ef447fe0","fromSide":"bottom","toNode":"8244465231ef9859","toSide":"top"},
+		{"id":"c061f6881330c436","fromNode":"8244465231ef9859","fromSide":"bottom","toNode":"8f93215d5877d02b","toSide":"top"},
+		{"id":"199a6a8253278091","fromNode":"8f93215d5877d02b","fromSide":"bottom","toNode":"27267fc025958209","toSide":"top"}
 	]
 }
