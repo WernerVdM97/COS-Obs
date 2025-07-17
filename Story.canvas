@@ -13,7 +13,7 @@
 		{"id":"5ace04c5ef447fe0","type":"text","text":"# ACT III\n![[Krezk-Night-Thumbnail.jpg]]","x":-996,"y":2260,"width":400,"height":314,"color":"2"},
 		{"id":"8244465231ef9859","type":"file","file":"Hidden/Acts/3.1 at crossroads.md","subpath":"#at crossroads","x":-996,"y":2660,"width":400,"height":579,"color":"2"},
 		{"id":"8f93215d5877d02b","type":"text","text":"# ACT IV\n\n![[winery.jpg]]","x":-996,"y":3340,"width":400,"height":471,"color":"2"},
-		{"id":"27267fc025958209","type":"file","file":"Hidden/Acts/4.1 New friends.md","subpath":"#New Friends","x":-996,"y":3920,"width":400,"height":858,"color":"2"}
+		{"id":"27267fc025958209","type":"file","file":"Hidden/Acts/4.1 New friends.md","subpath":"#New Friends","x":-996,"y":3920,"width":400,"height":891,"color":"2"}
 	],
 	"edges":[
 		{"id":"71c64bdfebde9bae","fromNode":"6aa908a94707ee16","fromSide":"bottom","toNode":"912e82ec7e420096","toSide":"top","color":"4"},

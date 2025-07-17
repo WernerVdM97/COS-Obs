@@ -2,22 +2,18 @@
 	"nodes":[
 		{"id":"6d6764ed1db9272c","type":"text","text":"# Krezk","x":1537,"y":-28,"width":158,"height":80,"color":"6"},
 		{"id":"8cd8f6b05c031e08","type":"file","file":"Characters/NPCs/Ana.md","x":-595,"y":3287,"width":400,"height":699,"color":"1"},
-		{"id":"bb7c50ec8ba130a0","type":"file","file":"Items/Reaping Greatsword.md","x":-595,"y":4091,"width":400,"height":279},
-		{"id":"b253908d23b626c1","type":"file","file":"Items/Ana's haversack.md","subpath":"#Misty Haversack","x":-595,"y":4451,"width":400,"height":150},
-		{"id":"b9f71a0aa8f8962d","type":"file","file":"Items/Ana's armour.md","subpath":"#Bloody Full-Plate","x":-595,"y":4651,"width":400,"height":112},
 		{"id":"57f34e0dd87cc948","type":"file","file":"Characters/NPCs/Escher.md","x":-145,"y":3288,"width":400,"height":729,"color":"1"},
 		{"id":"d9d01e0627e92184","type":"file","file":"Characters/NPCs/Ludmilla.md","x":-595,"y":2646,"width":400,"height":545},
 		{"id":"1737eb180e06538c","type":"file","file":"Characters/NPCs/Patrina Velkovna.md","x":-121,"y":2654,"width":400,"height":545,"color":"1"},
 		{"id":"bfb4ee5bf82b5c20","type":"file","file":"Characters/NPCs/Cyrus.md","subpath":"#Cyrus Belview","x":-1498,"y":3287,"width":400,"height":738},
 		{"id":"d1622779794cbb57","type":"file","file":"Items/Volenta's Black Rose.md","x":-1041,"y":3287,"width":400,"height":149},
 		{"id":"b48331913bf292cf","type":"file","file":"Characters/NPCs/Gertruda.md","subpath":"#Gertruda","x":-1041,"y":3531,"width":400,"height":640},
-		{"id":"34b2a19dc344ecf7","type":"file","file":"Characters/NPCs/Sergei.md","subpath":"#Sergei Von Zarovich","x":-1961,"y":3903,"width":400,"height":919,"color":"3"},
+		{"id":"34b2a19dc344ecf7","type":"file","file":"Characters/NPCs/Sergei.md","subpath":"#Sergei Von Zarovich","x":-1961,"y":3903,"width":400,"height":957,"color":"3"},
 		{"id":"b46f87958c6b6275","type":"file","file":"Characters/NPCs/Piddlewick.md","subpath":"#^8525c6","x":-1498,"y":4111,"width":400,"height":120},
-		{"id":"0918256897402f1f","type":"file","file":"Items/Sunsword.md","x":-1961,"y":4891,"width":400,"height":200},
 		{"id":"f82c2f361c6197cb","type":"file","file":"Characters/NPCs/Rahadin.md","x":-1498,"y":2654,"width":400,"height":545},
 		{"id":"37b82394230d4390","type":"file","file":"Characters/NPCs/Strahd.md","subpath":"#Strahd Von Zarovich","x":-1961,"y":2743,"width":400,"height":508,"color":"3"},
 		{"id":"342f9bf81df78a9d","type":"file","file":"Characters/NPCs/Beucephalus.md","x":-1961,"y":3287,"width":400,"height":515},
-		{"id":"6cf6b709dfd3632f","type":"file","file":"Characters/NPCs/Volenta.md","x":-1041,"y":2654,"width":400,"height":545},
+		{"id":"6cf6b709dfd3632f","type":"file","file":"Characters/NPCs/Volenta.md","x":-1041,"y":2654,"width":400,"height":545,"color":"1"},
 		{"id":"0b53b1718a16e327","type":"text","text":"# Ravenloft","x":-1013,"y":2027,"width":220,"height":81,"color":"1"},
 		{"id":"ddf0203dc3e6374e","type":"file","file":"Characters/NPCs/Kasimir.md","subpath":"#Kasimir","x":-2662,"y":1906,"width":400,"height":670},
 		{"id":"bdb36b252d6ee27e","type":"text","text":"# Vistani Camp","x":-2882,"y":1700,"width":165,"height":123,"color":"3"},
@@ -72,7 +68,12 @@
 		{"id":"22f5ac05a738ec2a","type":"file","file":"Characters/NPCs/Emil.md","subpath":"#Emil","x":1776,"y":805,"width":400,"height":120},
 		{"id":"7e82f00b41d78832","type":"file","file":"Characters/NPCs/kiril.md","subpath":"#Kiril, the Alpha","x":2289,"y":-148,"width":400,"height":953,"color":"1"},
 		{"id":"c0c83a545e2fa72e","type":"file","file":"Characters/NPCs/Baba Lysaga.md","subpath":"#Baba Lysaga","x":3301,"y":485,"width":400,"height":640},
-		{"id":"f95bcd434902efc2","type":"file","file":"Characters/NPCs/keshgar.md","subpath":"#Keshgar","x":3301,"y":-599,"width":400,"height":903}
+		{"id":"f95bcd434902efc2","type":"file","file":"Characters/NPCs/keshgar.md","subpath":"#Keshgar","x":3301,"y":-599,"width":400,"height":903},
+		{"id":"0918256897402f1f","type":"file","file":"Items/Sunsword.md","x":-1961,"y":4920,"width":400,"height":200},
+		{"id":"a07a244d218a59ef","type":"file","file":"items/volenta's dagger.md","subpath":"#Dagger of Thirsting Shadows","x":2617,"y":3493,"width":400,"height":1188,"color":"3"},
+		{"id":"b253908d23b626c1","type":"file","file":"Items/Ana's haversack.md","subpath":"#Misty Haversack","x":-595,"y":4081,"width":400,"height":150},
+		{"id":"b9f71a0aa8f8962d","type":"file","file":"Items/Ana's armour.md","subpath":"#Bloody Full-Plate","x":-595,"y":4281,"width":400,"height":112},
+		{"id":"bb7c50ec8ba130a0","type":"file","file":"Items/Reaping Greatsword.md","subpath":"#Crimson Echo","x":3501,"y":3025,"width":400,"height":741,"color":"3"}
 	],
 	"edges":[
 		{"id":"611ae39435f1862e","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"8cd8f6b05c031e08","toSide":"top","color":"1"},
@@ -87,7 +88,6 @@
 		{"id":"eb0ec2a756b99e0d","fromNode":"038b02466011eca9","fromSide":"bottom","toNode":"2ede98802caef941","toSide":"top","color":"#2a40a7"},
 		{"id":"131415052fb23942","fromNode":"4e8c2fa82b023a15","fromSide":"top","toNode":"4b6d7c3a38304d97","toSide":"bottom","color":"2"},
 		{"id":"dd91bd61865c5757","fromNode":"4e8c2fa82b023a15","fromSide":"top","toNode":"f2694610707ed9a1","toSide":"bottom","color":"2"},
-		{"id":"bdff513425c139de","fromNode":"8cd8f6b05c031e08","fromSide":"bottom","toNode":"bb7c50ec8ba130a0","toSide":"top"},
 		{"id":"d46f3d77976eb2ae","fromNode":"038b02466011eca9","fromSide":"bottom","toNode":"02e7ea52a9407a5d","toSide":"top","color":"#2a40a7"},
 		{"id":"a435c4d82c9e0828","fromNode":"a0480f5ab7f90f24","fromSide":"left","toNode":"f1fddc9047fbec00","toSide":"top","color":"4"},
 		{"id":"212d12725d1ac7c3","fromNode":"0b53b1718a16e327","fromSide":"bottom","toNode":"1737eb180e06538c","toSide":"top","color":"1"},
@@ -142,6 +142,8 @@
 		{"id":"0ec09faf116a14d9","fromNode":"0b53b1718a16e327","fromSide":"left","toNode":"37b82394230d4390","toSide":"top","color":"1"},
 		{"id":"790ac900bdf84484","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"5343a86878dfa2af","toSide":"bottom","color":"2"},
 		{"id":"0bded9de3168fc82","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"5c069b0b082f5d5d","toSide":"bottom"},
-		{"id":"0d89469d4344ac7a","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"b4a0206bee5ac25e","toSide":"bottom"}
+		{"id":"0d89469d4344ac7a","fromNode":"6d6764ed1db9272c","fromSide":"top","toNode":"b4a0206bee5ac25e","toSide":"bottom"},
+		{"id":"d4af7c4f3c1eeb82","fromNode":"02e7ea52a9407a5d","fromSide":"bottom","toNode":"a07a244d218a59ef","toSide":"top"},
+		{"id":"c30c3555f7f47311","fromNode":"0f2c41d3ae061d0b","fromSide":"bottom","toNode":"bb7c50ec8ba130a0","toSide":"top"}
 	]
 }

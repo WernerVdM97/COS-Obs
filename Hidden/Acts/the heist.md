@@ -1,6 +1,6 @@
 - [x] Find [[Patrina Velkovna]]
 - [x] Stole [[Patrina Velkovna]]
-- [ ] Find the skull of Arganvost
+- [x] Find the skull of Arganvost
 - [ ] Interrogate [[Emil]]
 - [ ] Find [[PiddleWick]]
 - [ ] Rescue [[Gertruda]]?
