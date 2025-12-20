@@ -238,9 +238,9 @@
                   "state": {
                     "file": "Story.canvas",
                     "viewState": {
-                      "x": -796.4999999999992,
-                      "y": 2819.541590549,
-                      "zoom": -0.18800300575757564
+                      "x": -764.2680513435172,
+                      "y": 4105.279077710431,
+                      "zoom": -0.604003015675789
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -262,9 +262,9 @@
                   "state": {
                     "file": "Characters and Items.canvas",
                     "viewState": {
-                      "x": -500.9033566608913,
-                      "y": 687.6725780595467,
-                      "zoom": -1.4744486071294671
+                      "x": 40.56932342442565,
+                      "y": 1278.2946896769508,
+                      "zoom": -2.522448632115734
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -300,7 +300,7 @@
                           "showTags": false,
                           "showAttachments": false,
                           "hideUnresolved": false,
-                          "collapse-color-groups": true,
+                          "collapse-color-groups": false,
                           "colorGroups": [
                             {
                               "query": "tag:#dead ",
@@ -314,6 +314,20 @@
                               "color": {
                                 "a": 1,
                                 "rgb": 14069084
+                              }
+                            },
+                            {
+                              "query": "tag:#ally",
+                              "color": {
+                                "a": 1,
+                                "rgb": 5562450
+                              }
+                            },
+                            {
+                              "query": "tag:#item",
+                              "color": {
+                                "a": 1,
+                                "rgb": 5007053
                               }
                             }
                           ],
@@ -349,7 +363,7 @@
                       "type": "backlink",
                       "state": {
                         "file": "Characters/PCs/The party.md",
-                        "collapseAll": false,
+                        "collapseAll": true,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
                         "showSearch": false,
@@ -438,7 +452,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Characters/PCs/The party.md",
+                    "file": "Characters and Items.canvas",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -499,6 +513,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "bases:Create new base": false,
           "publish:Publish changes...": true,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
@@ -508,9 +523,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "1578639d01e7b273",
-      "mtime": "2024-10-27T08:31:13+02:00"
+      "active": "b51e408189210621",
+      "mtime": "2025-12-17T23:04:27+02:00"
     }
   },
-  "active": "dev"
+  "active": "story"
 }
