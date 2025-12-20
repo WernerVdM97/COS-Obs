@@ -1,5 +1,5 @@
 # Urwin Martikov & co
-#wereraven
+#wereraven #ally 
 
 ![[martikovs.jpeg]]
 
@@ -7,7 +7,8 @@ Urwin Martikov, Father.
 Danika Martikov, Mother.
 Brom and Bray, Sons.
 
-# Hidden
+# Keepers of the feather
+Allies of [[The party]]# Hidden
 
 ## Unique Items
 **Equipment**

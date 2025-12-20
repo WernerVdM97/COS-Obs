@@ -1,3 +1,3 @@
-#cleric #half-orc
+#cleric #half-orc #ally 
 
 ![[tuush.jpeg]]

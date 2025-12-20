@@ -5,3 +5,6 @@
 ![[ismark.png]]
 ## Family
 Half-sister [[Ireena]]
+
+# Death
+sepuku at the wedding

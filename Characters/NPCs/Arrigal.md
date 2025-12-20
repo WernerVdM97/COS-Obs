@@ -1,10 +1,13 @@
 # Arrigal
-#vistani #rogue 
+#vistani #rogue #dead
 
 ![[arrigal.jpeg]]
 ## Family
 Brother, [[Luvash]]
 Niece, [[Arabelle]]
+
+# Death
+killed by [[The party]] with Luvash
 
 # Statblock
 ### Arrigal - Vistani Rogue

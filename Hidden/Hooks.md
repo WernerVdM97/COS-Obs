@@ -7,44 +7,21 @@ cssclasses:
 
 # Vallaki
 
-## lich luvash summoned by Rahadin.
+- lich luvash summoned by Rahadin.
 
 # Tower
 
-## [[Ez's story]]
-
-## Werewolf ambush, [[the trial]].
+- [[Ez's story]]
 
 # Den
 
-## Elik's fight pit
-
-# Woods
-
-## the lost wizard
-
-# Krezk
-
-## [Baron's homestead](https://www.strahdreloaded.com/Act+III+-+The+Broken+Land/Arc+K+-+The+Fallen+Abbey)
-	
-## The [[Abby of Saint Markova]]
-
-## The wedding...
-
-## Ez's card reading
-
-# Winery
-
-## Baba/Werewolve's assault?
-
-# Yester hill 
-
-## Strahd's hailmary
-
-# Berez
-
-## Baba bossfight, resurrection scroll
+- Elik's fight pit
 
 # Amber Temple
 
-## A date with death
+- [[the-temple-notes]]
+
+# A date with death
+- [[Castle Ravenloft hooks]]
+- the duel
+

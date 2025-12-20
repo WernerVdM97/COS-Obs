@@ -1,4 +1,4 @@
 ## Unkown name
-#rogue
+#rogue #ally 
 
 ![[lamb.jpeg]]

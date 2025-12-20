@@ -1,4 +1,4 @@
-#dragonborn #gold-dragon #paladin
+#dragonborn #gold-dragon #paladin #ally 
 
 ![[flick.webp]]
  

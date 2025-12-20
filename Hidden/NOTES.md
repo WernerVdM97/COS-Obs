@@ -1,59 +1,25 @@
 ## TODO
 
 - [ ] Loot
-	- [ ] flaming fists, 1d4 fire. Charges?
-	- [ ] Robe of levitaiton, 10f flying speed
-- [ ] Wedding planning
-	- [ ] Cannapes... wives smalltalk? Introduce Lucian?
-	- [ ] vows, Strahd 
-	- [ ] objections, ismark challenges strahd, Izek volunteers as champion
-	- [ ] Ez invis tries to kill Ireena
-- [ ] Ireena plot
-	- [ ] If turned, curse turn her into ash and kills strahd for 3 days.
+	- [x] flaming fists, 1d4 fire. Charges?
+	- [x] Robe of levitaiton, 10f flying speed
+- [x] Wedding planning
+- [ ] Ireena newplot
+- [ ] NPC hunt
+	- [ ] ireena?
+	- [ ] ez?
+	- [ ] 
 
 ## Plots
 
 ### Patrina
 
-Kasmir -> resurrection -> Amber Temple -> Strahd
+~~Kasmir -> Amber Temple~~ -> resurrection -> Strahd
 
 ### Ireena
 
-~~Village -> Vallaki -> Proposal~~ -> Missing -> Wedding -> Death
+~~Village -> Vallaki -> Proposal~~ -> ~~Missing -> Wedding -> Death~~ -> revice -> ..?
 
 ### Ez
 
-~~Castle -> Tower~~ -> Carnival -> Wedding -> [[Ez's reading]] -> den -> ...
-
-# Wedding
-
-Baba + Keshgar
-
-Wives
-
-Keepers of the feather
-
-Werewolves
-
-Vistani
- Madam Eva
- Arrigal
- Lucas
-
-Dusk elvs
-  Kasimir
-
-Bestmen
-  The party
-
-Peeps
-  Vasilli
-  Victor
-  Laslo
-  Father odu
-
-Mongrefolk
-  Cyrus
-
-Krezkas
-  Dimitri
+~~Castle -> Tower~~ -> ~~Carnival -> Wedding~~ -> [[Ez's reading]] -> den -> ...

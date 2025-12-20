@@ -1,12 +1,17 @@
 # Ireena
-#fighter #human
+#fighter #human #ally
 
 ![[ireena.webp]]
 ## Family
 Half-brother [[Ismark]]
 
-# Statblock
+# Death
+Turned to ash at the Wedding
+
+# Resurrection
+Saved by [[Lamb]] a twist in fate# Statblock
 Sure, here's the statblock for Ireena Kolyana as a level 5 Battle Master in markdown format, with the ability scores tabularized:
+Ally of [[The party]]
 
 ### Ireena Kolyana - Level 5 Battle Master
 

@@ -1,3 +1,3 @@
-#human #wizard #werewolf 
+#human #wizard #werewolf #missing #vampire #ally 
 
 ![[lucian.jpeg]]

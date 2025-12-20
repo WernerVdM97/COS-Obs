@@ -1,6 +1,6 @@
 # Keshgar
 
-#druid
+#druid #dead
 
 ![[keshgar.webp]]
 
@@ -8,6 +8,9 @@
 
 ..?
 
+# Death
+
+Killed by [[The party]] on Yester hill
 # Hidden
 
 ## Motives

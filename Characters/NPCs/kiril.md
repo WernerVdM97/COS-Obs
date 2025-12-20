@@ -1,12 +1,13 @@
 # Kiril, the Alpha
 
-#werewolf 
+#werewolf #dead 
 
 ![[kiril large.jpeg]]
 
 
 ![[kiril human.webp]]
-
+# Death
+Killed by [[The party]] at the Bachelors
 # Hidden
 
 Partner, Bianca

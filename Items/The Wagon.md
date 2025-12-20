@@ -1,4 +1,4 @@
-#wood #wagon #mount
+#wood #wagon #mount #item
 
 ![[the-wagon.png]]
 ## Statblock

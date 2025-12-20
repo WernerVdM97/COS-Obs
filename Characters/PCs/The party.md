@@ -1,6 +1,6 @@
 # The Party
 
-^a64b56
+# The Party
 
 ## Members
 - [[Lucian]]
