@@ -1,6 +1,6 @@
 # Vasilka
 
-#golem
+#golem #destroyed
 
 ![[Vasilka.png]]
 

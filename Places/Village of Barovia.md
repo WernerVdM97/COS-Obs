@@ -1,0 +1,1 @@
+Closest residence to the gates of Barovia

@@ -6,7 +6,7 @@
 Brother, [[Luvash]]
 Niece, [[Arabelle]]
 
-# Death
+## Death
 killed by [[The party]] with Luvash
 
 # Statblock

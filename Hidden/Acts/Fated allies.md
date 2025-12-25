@@ -1,12 +1,19 @@
-- [ ] Avenge Flokk
+- [[Flikk]]
+	- [ ] Avenge Flokk & Fukk
+
 - [[Lamb]]
 	- [x] find the twins
-	- [ ] free them
-- [ ] Honour the morning lord
-- [x] Track down your allies
-- Your allies
-	- [ ] set [[Lucian]] to rest
-	- [ ] find [[Elik Moon]]
+	- [x] free them
+	- [ ] protect them
+
+- [[Tuush]]
+	- [ ] Honour the morning lord
+
 - [[Monk]]
+	- [x] Accept resurrection
 	- [ ] Seek redemption, or
 	- [ ] embrace it
+
+- Your allies
+	- [ ] Set [[Lucian]] to rest
+	- [ ] Find [[Elik Moon]]

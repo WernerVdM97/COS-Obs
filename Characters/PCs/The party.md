@@ -1,6 +1,6 @@
-# The Party
+#ally 
 
-# The Party
+# The party
 
 ## Members
 - [[Lucian]]

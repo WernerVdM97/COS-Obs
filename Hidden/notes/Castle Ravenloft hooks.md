@@ -13,6 +13,7 @@ past the windmill, lit candle in the window
 
  
 ## welcoming
+
 > [!quote] Foyer and Hallway
 > You pass through the ornate outer doors into the castle's vaulted entry foyer, your footsteps echoing on the dark stone floor. Overhead, four statues of dragons glare down, their lifelike eyes flickering in the torchlight.
 > 

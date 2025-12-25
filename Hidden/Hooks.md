@@ -5,23 +5,29 @@ cssclasses:
 
 ![[travel_map.png]]
 
-# Vallaki
+# [[Village of Barovia]]
 
-- lich luvash summoned by Rahadin.
+- Ismark's return
 
-# Tower
+# [[Vallaki]]
+
+- The corrupted 3, time for a new burgomaster?
+
+# [[Lake Barovia]]
 
 - [[Ez's story]]
 
-# Den
+# [[The Den of Wolves]]
 
 - Elik's fight pit
+- Kiril?
+- The holy symbol of Ravenkind
 
-# Amber Temple
+# [[Amber Temple]]
 
 - [[the-temple-notes]]
 
-# A date with death
+# [[Castle Ravenloft]]
 - [[Castle Ravenloft hooks]]
 - the duel
 

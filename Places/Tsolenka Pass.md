@@ -1,0 +1,1 @@
+Checkpoint to the Amber temple

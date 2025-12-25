@@ -1,5 +1,6 @@
 # Amulet
-#rare
+
+#rare #used
 
 ![[amulet.jpg]]
 

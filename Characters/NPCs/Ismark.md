@@ -1,4 +1,4 @@
-#fighter #human 
+#fighter #human #ally 
 
 #Burgomaster of the Village of Barovia
 
@@ -7,4 +7,5 @@
 Half-sister [[Ireena]]
 
 # Death
-sepuku at the wedding
+~~sepuku at the wedding~~
+Undone by a twist of fate from [[Lamb]]

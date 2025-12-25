@@ -6,9 +6,13 @@
 Urwin Martikov, Father.
 Danika Martikov, Mother.
 Brom and Bray, Sons.
+Grandfather, Damian
 
 # Keepers of the feather
-Allies of [[The party]]# Hidden
+
+Allies of [[The party]]
+
+# Hidden
 
 ## Unique Items
 **Equipment**
@@ -17,43 +21,6 @@ Allies of [[The party]]# Hidden
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | **Name** | Statblock | value |
 
-## Statblock
-_Size, race, alignment_
-
-**AC** 14 (natural armor)  
-**HP** 76 (9d12 + 18)  
-**Speed** 30 ft.
-
-### Ability Scores:
-
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|00|00|00|00|00|00|
-|+0|-0|+0|+0|-0|-0|
-
-**Saving Throws** 
-**Skills**  
-**Senses** 
-**Languages** 
-**Challenge** 
-
----
-
-### Traits
-
-*Name**, description
-
----
-
-### Actions
-
-**type.** statblock
-
----
-
- ### Reactions
-
-**Type** description.
 
 ## Motives
 

@@ -1,5 +1,5 @@
 # Kasimir
-#duskelf #fighter #wizard 
+#duskelf #fighter #wizard #ally 
 
 ![[kasimir.webp]]
 ## Family

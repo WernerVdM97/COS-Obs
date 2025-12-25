@@ -2,11 +2,11 @@
 
 ## AKA Ithuriel
 
-#cleric #highpriest
+#cleric #highpriest #angel
 
 ![[the abbot.jpg]]
 
-Spirit lives fourth in the [[icon of ravenloft]]
+Mortal body killed by [[The party]] but his spirit lives forth in the [[icon of ravenloft]]
 # Hidden
 
 ## Statblock
