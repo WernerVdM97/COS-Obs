@@ -12,6 +12,7 @@ git clone --recurse-submodules https://github.com/WernerVdM97/COS-Obs.git
 cd COS-Obs/quartz
 rm -rf content
 ln -s ../vault content
+cp ../Hidden/quartz.config.ts ./
 npm install
 npx quartz build --serve
 ```

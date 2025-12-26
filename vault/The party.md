@@ -3,6 +3,7 @@
 # The party
 
 ## Members
+
 - [[Lucian]]
 - [[Elik Moon]]
 - [[Monk]]
@@ -10,6 +11,7 @@
 - [[Lamb]]
 - [[Flikk]]
 ## Items
+
 - [[The Wagon]]
 - [[The Winery]]
 

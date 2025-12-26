@@ -10,4 +10,4 @@ Quickstart
 
 Map
 
-![[map.webp]]
+![[map-barovia.webp]]
