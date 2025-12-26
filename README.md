@@ -10,6 +10,7 @@ When cloning this repo, remember to garb Quartz if you plan on hosting locally:
 git clone --recurse-submodules https://github.com/WernerVdM97/COS-Obs.git
 
 cd COS-Obs/quartz
+rm -rf content
 ln -s ../vault content
 npm install
 npx quartz build --serve

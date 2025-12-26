@@ -41,7 +41,7 @@
 		{"id":"5c069b0b082f5d5d","type":"file","file":"vault/Characters/NPCs/Clovin.md","subpath":"#Clovin Belview","x":1718,"y":-1325,"width":400,"height":658},
 		{"id":"5343a86878dfa2af","type":"file","file":"vault/Characters/NPCs/vasilka.md","subpath":"#Vasilka","x":1274,"y":-1284,"width":400,"height":659,"color":"1"},
 		{"id":"c3e4c8c9a8605b89","type":"file","file":"vault/Characters/NPCs/dimitri.md","subpath":"#Dimitri Krezkov","x":1564,"y":-508,"width":309,"height":665},
-		{"id":"038b02466011eca9","type":"file","file":"vault/Characters/PCs/The party.md","subpath":"#The party","x":969,"y":440,"width":595,"height":344,"color":"#2a40a7"},
+		{"id":"038b02466011eca9","type":"file","file":"vault/The party.md","subpath":"#The party","x":969,"y":440,"width":595,"height":344,"color":"#2a40a7"},
 		{"id":"51a183776112e772","type":"file","file":"vault/Characters/NPCs/Madam Eva.md","x":-3983,"y":-1281,"width":400,"height":678,"color":"4"},
 		{"id":"58a59bd471e35503","type":"file","file":"vault/Characters/NPCs/Stanimir.md","subpath":"#Stanimir","x":-3983,"y":-536,"width":400,"height":515,"color":"4"},
 		{"id":"b42a5ebd7db9525b","type":"file","file":"vault/Characters/NPCs/Sir Godfry.md","x":-4078,"y":200,"width":400,"height":669,"color":"4"},

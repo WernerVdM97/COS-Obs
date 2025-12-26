@@ -10,4 +10,4 @@ Quickstart
 
 Travel times
 
-![[vault/Hidden/Images/Locations/travel_map.png]]
+![[travel_map.png]]
