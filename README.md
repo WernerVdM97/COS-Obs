@@ -15,6 +15,13 @@ npm install
 npx quartz build --serve
 ```
 
+To reset quarts folders
+
+```bash
+cd quartz/ && rm -rf .quartz .cache public node_modules content
+ln -s ../vault content
+```
+
 In Obsidian:
 1. hide `Hidden/` for spoilers and `quarts/` for noise by going to
 	1. settings,
