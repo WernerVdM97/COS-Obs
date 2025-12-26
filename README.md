@@ -4,7 +4,19 @@
 
 Preparation:
 
-1. hide `Hidden/` by going to
+When cloning this repo, remember to garb Quartz if you plan on hosting locally:
+
+```bash
+git clone --recurse-submodules https://github.com/WernerVdM97/COS-Obs.git
+
+cd COS-Obs/quartz
+ln -s ../vault content
+npm install
+npx quartz build --serve
+```
+
+In Obsidian:
+1. hide `Hidden/` for spoilers and `quarts/` for noise by going to
 	1. settings,
 	2. files and links,
 	3.  excluded files -> `manage`

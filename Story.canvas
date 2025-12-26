@@ -1,20 +1,20 @@
 {
 	"nodes":[
-		{"id":"912e82ec7e420096","type":"file","file":"Hidden/Acts/1.1 Arrival in Barovia.md","subpath":"#Arrival in Barovia","x":-1000,"y":-549,"width":407,"height":365,"color":"4"},
+		{"id":"912e82ec7e420096","type":"file","file":"vault/Acts/1.1 Arrival in Barovia.md","subpath":"#Arrival in Barovia","x":-1000,"y":-549,"width":407,"height":365,"color":"4"},
 		{"id":"6aa908a94707ee16","type":"text","text":"# ACT I\n![[gates of borovia.png]]","x":-1000,"y":-1000,"width":407,"height":352,"color":"4"},
-		{"id":"b7c02c8f8b9bb2da","type":"file","file":"Hidden/Acts/B. Fortune Reading.md","x":-520,"y":-538,"width":400,"height":344,"color":"6"},
-		{"id":"cc88467b42e50fdb","type":"file","file":"Hidden/Acts/1.2 Visit Vallaki.md","subpath":"#Visit Vallaki","x":-1000,"y":-100,"width":407,"height":340,"color":"4"},
-		{"id":"f0652fb11868fbc8","type":"file","file":"Hidden/Acts/1.3 The Festival.md","subpath":"#The Festival","x":-1000,"y":400,"width":407,"height":399,"color":"4"},
-		{"id":"29cbca9f182a819f","type":"text","text":"# ACT II \n![[Hidden/Images/Locations/vallaki.png]]","x":-1000,"y":900,"width":407,"height":368,"color":"3"},
-		{"id":"c736b39608a15312","type":"file","file":"Hidden/Acts/2.1 dinner with the devil.md","subpath":"#dinner with the devil","x":-1000,"y":1360,"width":407,"height":319,"color":"3"},
-		{"id":"8f0f8aaae5de37a4","type":"file","file":"Hidden/Acts/C. The heist.md","x":-500,"y":1364,"width":400,"height":311,"color":"1"},
-		{"id":"5055105ca14a27db","type":"file","file":"Hidden/Acts/2.2 road to the wedding.md","subpath":"#road to the wedding","x":-996,"y":1794,"width":400,"height":365,"color":"3"},
+		{"id":"b7c02c8f8b9bb2da","type":"file","file":"vault/Acts/B. Fortune Reading.md","x":-520,"y":-538,"width":400,"height":344,"color":"6"},
+		{"id":"cc88467b42e50fdb","type":"file","file":"vault/Acts/1.2 Visit Vallaki.md","subpath":"#Visit Vallaki","x":-1000,"y":-100,"width":407,"height":340,"color":"4"},
+		{"id":"f0652fb11868fbc8","type":"file","file":"vault/Acts/1.3 The Festival.md","subpath":"#The Festival","x":-1000,"y":400,"width":407,"height":399,"color":"4"},
+		{"id":"29cbca9f182a819f","type":"text","text":"# ACT II \n![[vallaki.png]]","x":-1000,"y":900,"width":407,"height":368,"color":"3"},
+		{"id":"c736b39608a15312","type":"file","file":"vault/Acts/2.1 dinner with the devil.md","subpath":"#dinner with the devil","x":-1000,"y":1360,"width":407,"height":319,"color":"3"},
+		{"id":"8f0f8aaae5de37a4","type":"file","file":"vault/Acts/C. The heist.md","x":-500,"y":1364,"width":400,"height":311,"color":"1"},
+		{"id":"5055105ca14a27db","type":"file","file":"vault/Acts/2.2 road to the wedding.md","subpath":"#road to the wedding","x":-996,"y":1794,"width":400,"height":365,"color":"3"},
 		{"id":"5ace04c5ef447fe0","type":"text","text":"# ACT III\n![[Krezk-Night-Thumbnail.jpg]]","x":-996,"y":2260,"width":400,"height":314,"color":"2"},
-		{"id":"8244465231ef9859","type":"file","file":"Hidden/Acts/3.1 at crossroads.md","subpath":"#at crossroads","x":-996,"y":2660,"width":400,"height":579,"color":"2"},
+		{"id":"8244465231ef9859","type":"file","file":"vault/Acts/3.1 at crossroads.md","subpath":"#at crossroads","x":-996,"y":2660,"width":400,"height":579,"color":"2"},
 		{"id":"8f93215d5877d02b","type":"text","text":"# ACT IV\n\n![[winery.jpg]]","x":-996,"y":3340,"width":400,"height":471,"color":"2"},
-		{"id":"27267fc025958209","type":"file","file":"Hidden/Acts/4.1 New friends.md","subpath":"#New Friends","x":-996,"y":3920,"width":400,"height":851,"color":"2"},
+		{"id":"27267fc025958209","type":"file","file":"vault/Acts/4.1 New friends.md","subpath":"#New Friends","x":-996,"y":3920,"width":400,"height":851,"color":"2"},
 		{"id":"b6072a913f9600ea","type":"text","text":"","x":-694,"y":-723,"width":250,"height":60},
-		{"id":"2550b1629b253e02","type":"file","file":"Hidden/Acts/A. Fated allies.md","x":-520,"y":-1160,"width":400,"height":583,"color":"5"}
+		{"id":"2550b1629b253e02","type":"file","file":"vault/Acts/A. Fated allies.md","x":-520,"y":-1160,"width":400,"height":583,"color":"5"}
 	],
 	"edges":[
 		{"id":"71c64bdfebde9bae","fromNode":"6aa908a94707ee16","fromSide":"bottom","toNode":"912e82ec7e420096","toSide":"top","color":"4"},
