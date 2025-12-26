@@ -8,6 +8,6 @@ Quickstart
 - [[Log]]
 - [[The party]]
 
-Travel times
+Map
 
-![[travel_map.png]]
+![[map.webp]]
