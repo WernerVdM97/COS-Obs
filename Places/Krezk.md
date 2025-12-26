@@ -1,6 +1,6 @@
 #town #neutral #Stronghold 
 
-![[travel_map.png]]
+![[Krezk-Night-Thumbnail.jpg]]
 
 ## Key interests
 
@@ -18,7 +18,7 @@
 
 ## Adjacent locations
 
- - 12h; [[Lake Barovia]]
+ - 12h; [[Wizard Tower]]
  - 12h; [[Yester Hill]]
  - 12h; [[The Winery]]
  - 24h; [[Vallaki]]

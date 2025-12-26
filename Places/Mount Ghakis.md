@@ -1,9 +1,7 @@
 
-
 #extreme #cold #dangerous
 
-![[travel_map.png]]
-
+![[mount-ghakis-pic.png]]
 ## Key interests
 
 - The [[Tsolenka Pass]]

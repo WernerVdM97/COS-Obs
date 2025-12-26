@@ -1,10 +1,9 @@
 #hostile
 
-![[travel_map.png]]
-
+![[ruins-berez.png]]
 ## Key interests
 
-- [[Baba]]'s creeping hut
+- [[Baba Lysaga]]'s creeping hut
 
 ## Factions
 

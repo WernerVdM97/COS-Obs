@@ -23,16 +23,16 @@ Brother, [[Kasimir]]
 ## Statblock
 _Medium, dusk elf, neutral evil_
 
-**AC** 19 (Robe of the Archmagi)  
-**HP** 70 (10d6 + 30)  
+**AC**  12 (15 with mage armour; 19 with robe of the Archmagic)  
+**HP** 99 (10d6 + 30)  
 **Speed** 30 ft.
 
 ### Ability Scores:
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|10|14|16|20|14|18|
-|+0|+2|+3|+5|+2|+4|
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 10  | 14  | 12  | 20  | 14  | 18  |
+| +0  | +2  | +1  | +5  | +2  | +4  |
 
 **Saving Throws** Intelligence +9, Wisdom +6  
 **Skills** Arcana +9, History +9, Insight +6, Persuasion +8  
@@ -43,6 +43,16 @@ _Medium, dusk elf, neutral evil_
 ---
 
 ### Traits
+
+**Corpselike Appearance.** Having been restored by the power of Zhudun, Patrina has a shrivelled, undead-like appearance.
+
+**Fey Ancestry.** Patrina has advantage on saving throws against being charmed, and magic cannot put her to sleep.
+
+**Resurrection Madness.** Because she has been dead for centuries, Patrina returns with a random form of indefinite madness.
+
+**Spellcasting (Incomplete).** Patrina is an 18th-level spellcaster, but upon her initial resurrection, she has **no spells prepared**. She must recover her spellbook from Crypt 21 to relearn her abilities.
+
+---
 
 **Spellcasting.** Patrina is a 10th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). She has the following spells prepared:
 
@@ -93,3 +103,33 @@ _Medium, dusk elf, neutral evil_
 |**Redemption**|Despite her dark past, Patrina seeks redemption and hopes to make amends for her previous misdeeds.|
 |**Protection of Kasimir**|Patrina feels a strong bond with her brother Kasimir and is driven to protect him at all costs.|
 |**Restoration of Dusk Elf Community**|She aims to restore her people's former glory and secure a safe and prosperous future for the dusk elves.|
+If Patrina Velikovna is resurrected within the Amber Temple, she will immediately begin a calculated performance of **deception and power-acquisition**. Despite the dreams of repentance she has sent to her brother, Kasimir, her true nature remains **Neutral Evil**, and she is far from redeemed.
+
+The following steps outline her likely course of action:
+
+### **1. Feigning Repentance**
+
+Upon returning to life, Patrina will **feign repentance** for her past sins to maintain the trust of Kasimir and the party. She has spent centuries manipulating Kasimir through his dreams to believe her soul has been cleansed of evil, and she will play this role to ensure the party continues to protect her while she is vulnerable.
+
+### **2. Reclaiming Her Power**
+
+Patrina returns to life as an **archmage**, but she initially has **no spells prepared**. Her primary immediate goal will be to recover her **spellbook**, which was buried with her in Crypt 21 of Castle Ravenloft.
+
+- If the party already has the spellbook, she will "kindly" ask for its return, claiming she needs it to help them destroy Strahd.
+- She will use this time to **study the party**, learning their strengths and weaknesses while she regains her magical potency.
+
+### **3. Orchestrating Vengeance against Rahadin**
+
+Patrina harbours a deep resentment toward **Rahadin**, Strahd’s chamberlain, who has long opposed her marriage to the Count and was the one who personally mutilated Kasimir. She will likely attempt to **manipulate the party into killing Rahadin**, portraying it as a necessary step for their quest or as justice for the dusk elves, while her true motive is to remove a rival for Strahd’s favour.
+
+### **4. Returning to Castle Ravenloft**
+
+Once she has regained her spells and strength, Patrina will abandon her facade and head for **Castle Ravenloft**. Her ultimate ambition has not changed: she seeks to **become Strahd’s bride** and increase her own arcane power. She does not view herself as a submissive consort; she is "no one's plaything" and intends to eventually become the **new master of Barovia**.
+
+### **5. Conflict with Strahd**
+
+Crucially, Patrina may find her goals at odds with the Count himself. While she seeks to join him, **Strahd has lost interest in her** as a consort. If she approaches him, he is likely to treat her as he does his other "playthings," potentially turning her into a **vampire spawn** and returning her to her crypt—a fate she will use every ounce of her power to avoid.
+
+---
+
+**Analogy:** Patrina is like a **frozen viper brought into a warm house.** While she may appear stiff and harmless at first, she is merely waiting for the "warmth" of her recovered magic to return. Once her strength is restored, she will inevitably strike at those who helped her if they stand between her and the power she craves.

@@ -11,3 +11,8 @@
 - [[Flikk]]
 ## Items
 - [[The Wagon]]
+- [[The Winery]]
+
+## Lore
+
+Lured into Barovia by the traveling Vistani

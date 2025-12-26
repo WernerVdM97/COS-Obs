@@ -1,15 +1,17 @@
-#Stronghold #farm
+#Stronghold #farm #ally #owned
 
-![[travel_map.png]]
+![[winery.jpg]]
 
 ## Key interests
 
- - the two gems are planted in the land
- - the keepers of the feather's headquarters
+ - Bought by the party for 16k (8 gems)
+ - The two gems are planted in the land
+ - The keepers of the feather's headquarters
+ - Under a Hallow spell
 
 ## Factions
 
- - wereravens
+ - Wereravens
 
 ## Adjacent locations
 

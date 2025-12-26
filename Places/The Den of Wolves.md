@@ -1,7 +1,6 @@
 #hostile #dungeon
 
-![[travel_map.png]]
-
+![[werewolf-den.png]]
 ## Key interests
 
 - The holy symbol of Ravenkind
@@ -12,6 +11,6 @@
 
 ## Adjacent locations
 
- - 6h; [[Lake Barovia]]
+ - 6h; [[Wizard Tower]]
  - 12h; [[Krezk]]
 

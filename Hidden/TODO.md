@@ -8,4 +8,14 @@
 - [ ] NPC hunt
 	- [ ] ireena?
 	- [ ] ez?
-	- [ ] 
+
+
+![[strahd's-armour-statblock.png]]
+
+
+![[rahadin-statblock.png]]
+
+![[ez-statblock.png]]
+
+![[shield-guardian-statblock.png]]
+

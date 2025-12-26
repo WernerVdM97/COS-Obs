@@ -1,7 +1,6 @@
 #town #Stronghold 
 
-![[travel_map.png]]
-
+![[vallaki 1.png]]
 ## Key interests
 
 - the church

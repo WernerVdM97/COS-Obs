@@ -1,7 +1,6 @@
 #hostile #dungeon #Stronghold  
 
-![[travel_map.png]]
-
+![[castle-ravenloft.png]]
 ## Key interests
 
 - The crypts, where

@@ -6,4 +6,4 @@
 
 # Hidden
 
-Casts, Mislead + Nystul’s Magic Aura
+[[Strahd]]'s heroic alter ego.

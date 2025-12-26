@@ -5,8 +5,7 @@
 ![[rudolph van richten.jpeg]]
 ### Rictavio
 ![[rictavio.jpeg]]
-### Yan
-![[jan.jpg]]
+
 ## Death 
 Killed by [[Kasimir]] during the trifecta at the vistani camp
 # Notes

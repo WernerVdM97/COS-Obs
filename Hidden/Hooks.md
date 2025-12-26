@@ -13,7 +13,7 @@ cssclasses:
 
 - The corrupted 3, time for a new burgomaster?
 
-# [[Lake Barovia]]
+# [[Wizard Tower]]
 
 - [[Ez's story]]
 

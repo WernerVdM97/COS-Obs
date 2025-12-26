@@ -3,6 +3,8 @@
 #witch
 
 ![[baba lysaga.jpg]]
+
+![[babas-hut.png]]
 ## Relationships
 
 Mother, [[Strahd]]

@@ -8,5 +8,4 @@
 ![[darkestvision.jpeg]]
 # hidden
 
-1. Character wakes up with black eyes, improved perception. Can see through magical darkness.
-2. Charm ability?
+Character wakes up with black eyes, improved perception. Can see through magical darkness.

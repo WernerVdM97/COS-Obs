@@ -1,4 +1,5 @@
 # Strahd Von Zarovich
+
 #vampire #undead #wizard #elf 
 
 ![[strahd casual.jpg]]
@@ -15,6 +16,7 @@
 # Hidden
 
 ## Traits
+
 Strahd prioritizes targets in the following order: 
 	1. the PCs’ foretold ally; 
 	2. the holder of the Tome of Strahd (if known); 

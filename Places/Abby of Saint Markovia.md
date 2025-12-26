@@ -1,7 +1,6 @@
 #church #neutral 
 
-![[travel_map.png]]
-
+![[the-abby-pic.png]]
 ## Key interests
 
 - The [[Abbot]] reconstructs people into mongrefolk here

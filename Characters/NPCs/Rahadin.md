@@ -2,3 +2,6 @@
 
 ![[rahidin.jpg]]
 
+# hidden
+
+![[rahadin-statblock.png]]
