@@ -8,5 +8,5 @@ Preparation:
 	1. settings,
 	2. files and links,
 	3.  excluded files -> `manage`
-2.  load `storymode` workspace layout
-3. open [[Characters and Items.canvas|Characters and Items]]
+2.  load `storymode` workspace layout,
+3. Ensure you are on [[Characters and Items.canvas|Characters and Items]] and selected [[The party]]

@@ -86,9 +86,9 @@
 		{"id":"37b82394230d4390","type":"file","file":"Characters/NPCs/Strahd.md","subpath":"#Strahd Von Zarovich","x":-1823,"y":1635,"width":400,"height":508,"color":"3"},
 		{"id":"342f9bf81df78a9d","type":"file","file":"Characters/NPCs/Beucephalus.md","x":-1823,"y":2179,"width":400,"height":515},
 		{"id":"53eeecca94d0ad2f","type":"file","file":"Characters/PCs/Traits/Werewolf Lycanthropy.md","subpath":"#Beastly curse","x":104,"y":4145,"width":400,"height":780,"color":"1"},
-		{"id":"d002d753757b7253","x":1896,"y":5261,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d002d753757b7253","type":"text","text":"","x":1896,"y":5261,"width":250,"height":60},
 		{"id":"2ede98802caef941","type":"file","file":"Characters/PCs/Elik Moon.md","x":597,"y":3765,"width":401,"height":1160,"color":"2"},
-		{"id":"d7e603b8b3ba16ed","x":-2383,"y":12,"width":484,"height":400,"type":"file","file":"Places/The woods.md"}
+		{"id":"d7e603b8b3ba16ed","type":"file","file":"Places/The woods.md","x":-2383,"y":12,"width":484,"height":400}
 	],
 	"edges":[
 		{"id":"611ae39435f1862e","fromNode":"1fa4d0a743b2ce78","fromSide":"bottom","toNode":"8cd8f6b05c031e08","toSide":"top","color":"1"},
