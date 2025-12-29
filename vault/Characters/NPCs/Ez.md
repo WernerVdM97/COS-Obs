@@ -1,5 +1,6 @@
 # Ezmerelda d'Avenir
-#vistani #artificer #missing 
+
+#vistani #artificer 
 
 ![[ezmerelda.jpeg]]
 

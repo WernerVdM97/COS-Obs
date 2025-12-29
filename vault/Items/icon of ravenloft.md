@@ -1,7 +1,8 @@
-# Holy Symbol
+# Relic
 
 ## Icon of Ravenloft
-#legendary #attunement
+
+#wondrous  #attunement
 
 The _Icon of Ravenloft_ is a 12-inch-tall statuette made of the purest silver, weighing 10 pounds
 

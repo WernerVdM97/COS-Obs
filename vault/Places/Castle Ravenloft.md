@@ -15,6 +15,9 @@
 	- The giant portrait of Strahd is located
 - The church, where
 	- The [[icon of ravenloft]] was stolen by [[Tuush]]
+
+![[the-heart-of-ravenloft.png]]
+
 ## Factions
 
 - Vampires

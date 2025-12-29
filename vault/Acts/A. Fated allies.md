@@ -15,5 +15,5 @@
 	- [ ] embrace it
 
 - Your allies
-	- [ ] Set [[Lucian]] to rest
-	- [ ] Find [[Elik Moon]]
+	- [x] Set [[Lucian]] to rest
+	- [x] Find [[Elik Moon]]

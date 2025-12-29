@@ -10,6 +10,11 @@ Succumbed to the temptations to satiate [[Reaping Greatsword]], temporarily turn
 
 Reunited with his family sword, Flametong, in a gift from [[Sir Godfry]] for lighting the beacon of Argonvostholt.
 
+[[Flikk]] takes _Zantras, the Kingmaker's_ gift. 
+
+> [!error] _"I won't take no for an anwer."_
+
+Drew three cards from the deck of many things at once, loosing all magic items as they disintegrate...
 ## Lore
 
 Fought alongside the order of the silver dragon in the war against Strahd (before he turned) where his brother and were killed in battle 600 years ago.

@@ -6,7 +6,16 @@
 
 ## Events
 
-Pulled 'The twist of fate' from the deck of many things, rewriting Ireena's past.
+Pulled 'The Fates' from [[the deck of many things]], rewriting [[Ireena]]'s past.
+
+Found, [[The Lost Shield Guardian]]'s amulet.
+
+Accepted the darg gift of _Norganas, the Finger of_ _Oblivion._
+
+> [!warning] _blood pitch blackand viscid, like tar._
+
+
+Pulled 'Idiot' and 'Star' from [[the deck of many things]]
 
 ## Lore
 

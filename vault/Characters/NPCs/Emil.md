@@ -1,11 +1,9 @@
 # Emil 
 
-^25d81e
-
-#werewolf 
+#werewolf #ally
 
 ![[emil.jpeg]]
 
 ## Relationships
 
-?
+Wife, [[Zuleika]]

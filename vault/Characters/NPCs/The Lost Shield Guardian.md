@@ -5,9 +5,9 @@
 ![[shield-guradian-pic.png]]
 ## Relationships
 
-Type, Person
+Loyal to its master, wearer of its amulet
 
-# Hidden
+## Defect
 
 Its right arm is broken off and missing, preventing it from using any attacks.
 ## Statblock

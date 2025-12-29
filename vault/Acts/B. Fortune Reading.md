@@ -1,7 +1,7 @@
 - [x] Find the Tomb of Strahd
-- [ ] Find the holy symbol of Ravenkind
-- [ ] The destined ally
+- [x] Find the holy symbol of Ravenkind
+- [x] The destined ally
 	- [x] Find Ezemerelda
-	- [ ] compelete the reading
-- [ ] Find the Sunsword
+	- [x] compelete the reading
+- [x] Find the Sunsword
 - [ ] Face the threat

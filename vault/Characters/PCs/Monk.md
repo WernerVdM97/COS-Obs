@@ -12,8 +12,17 @@
 
 > [!error] Near death experience
 > If not for the intervention of Lamb, Monk would have fell to his death above the Castle roof...
+
+- Oath of silence until death
+- Took the Staff of Frost from _Jakarion_'s dead body, obtaining 
+
+> [!error] _"I crave power above all else, and will do anything to obtain more of it."_
+
+- Accepted _Vaund the Evasive_'s dark gift
+
+> [!error] _"I can't give a straight answer to any question put to me."_
+
+- 
 ## Lore
 
 Seeking vengeance for his slayn tribe, presumably by werewolves.
-
-Oath of silence until death

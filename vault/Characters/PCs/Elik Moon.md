@@ -1,6 +1,6 @@
 ## AKA Fang
 
-#human #ranger #missing #werewolf
+#human #fighter #eldricht-knight #werewolf
 
 ![[elik.jpeg]]
 

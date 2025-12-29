@@ -4,6 +4,7 @@
 ## Key interests
 
 - The holy symbol of Ravenkind
+- [[Izek]], [[Baronnet Victor]], and [[Ez]] saved [[Emil]] from Ravenloft and resinstaed him as Alpha over [[kiril]].
 
 ## Factions
 

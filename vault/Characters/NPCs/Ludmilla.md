@@ -1,5 +1,6 @@
-#vampire #bride #human #undead #sorcerer
+#vampire #bride #human #undead #sorcerer #dead
 
 ![[ludmilla.jpg]]
 
 
+[[ludmilla-notes]]

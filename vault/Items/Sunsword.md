@@ -1,6 +1,11 @@
+
+#legendary 
+
 Brought to Barovia by [[Sergei]], dismantled by Khazan.
 
 "Locked behind an amber set of door " - [[Madam Eva]] 
+
+![[vault/Hidden/Images/Items/Sunsword.jpg]]
 
 SUNSWORD
 **Weapon (longsword), legendary (requires attunement)**

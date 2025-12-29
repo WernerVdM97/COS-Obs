@@ -1,12 +1,24 @@
 
-![[temple-map.png]]
+
 
 
 ![[dark-gits-cipher.png]]
 
 ![[the-heart-of-ravenloft.png]]
 
+![[amber-golem.png]]
+
 ## Dark gifts
+
+### Vault doors
+
+> [!warning] "Etherna"
+> 25 STR 
+> AC 15
+> HP 60
+> 30 ft 4d10 necrotic, dust on kill
+> 
+
 ### **Vaults of the Upper Level**
 
 **Vault of Shalx (Area X33a):**
