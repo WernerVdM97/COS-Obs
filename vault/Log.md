@@ -72,6 +72,8 @@ The party explores a bit. If not for [[Lamb]], [[Monk]] would have fallen to dea
 
 [[Tuush]] steals the icon of Ravenloft with some slight of hand and runs into [[Ez]] for the first time. Se give him a magical messanger to use and contact her again before drinking an invisibilty poition and leaving.
 
+Lamb, steals [[the deck of many things]] from [[Cyrus]].
+
 The party leaves [[Lucian]] in the hands of [[Ludmilla]] who promises to take care of him and cure his lycanthropy.
 
 ### Back past the Windmill
@@ -138,4 +140,53 @@ The party hikes up the frozen waterfall and takes refuge in a nearby owlbear cav
 
 ### [[Amber Temple]]
 
-TBDs
+([[Ludmilla]] asks [[Rahadin]] how long its been since he performed the ritual)
+Party ascend stairs
+(Rahadin swallows toad)
+Party warned by the statue.
+
+running away from the amber golems and flame skulls, Finds [[vilnius]] 
+Find Vilnius' Masters staff, [[Monk]] snatches it, obtaining his new flaw.
+(Ludmilla lead Lucian to Exethanter then Tenebrous)
+
+Find circophicgi, [[Monk]] can't resist the dark urge, gains _Vaund the Evasive_'s gift, second flaw.
+Lamb finds [[The Lost Shield Guardian]], after poaching [[vilnius]]' amulet.
+
+Find Ludmilla and Rahadin, fight them + statue + golem
+Kills ludmilla, destroys golem, abjures and kills [[neferon]], turn undead and forces rahadin to run away
+
+[[Flikk]] takes _Zantras, the Kingmaker's_ gift. new flaw.
+pockets mitril and the sunsword
+[[Lamb]], _Norganas, the Finger of_ _Oblivion._ new flaw.
+[[Kasimir]] resurrects [[Patrina Velkovna]], [[Tuush]] casts greater restoration
+[[Tuush]], _Savnok the Inscrutible._ empty eye sockets
+
+[[Lucian]], both:
+Tenebrous, the Corpse Star (gives flaw) and 
+_Khirad, the Star of Secrets._ (gives evil trait)
+
+Lucian takes [[the deck of many things]] and pulls the 'Skull' card summoning Exethanter,
+[[The party]] kills Exethanter and his **phylactery**
+
+### [[The Den of Wolves]]
+
+On the hills outside, the ritual is stopped, [[Elik Moon]] denied the chance turn, [[Ez]] restoring his madness. After being locked away Elik has learned wizardry from notes stolen of survivers/victims in the prison and turned into an Eldricth Knight.
+
+Elik pulls 'The Key' from [[the deck of many things]], earning the [[Sunsword]].
+
+Holy symbol of Ravenkind handed over by [[Zuleika]], and [[Emil]], after [[Izek]], [[Baronnet Victor]], and [[Ez]] helped free Emil
+
+## Week 4
+### The final dawn
+
+Preparing at the winery, Kasimir and Patrina ask to join the final fight.
+
+The party goes bezerk and draws 6 cards from [[the deck of many things]]
+
+- [[Monk]] draws 'Knight'
+- [[Flikk]]: 'Jester', 'Talons' (loosing ALL magical items on his person as they disintegrate), and 'Throne'.
+- [[Lamb]]: 'Idiot', and 'Star'
+
+### The fated duel of [[Castle Ravenloft]]
+
+TBD
