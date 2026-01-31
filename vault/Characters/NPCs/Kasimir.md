@@ -1,8 +1,12 @@
 # Kasimir
 
-#duskelf #fighter #wizard #ally 
+#duskelf #fighter #wizard #ally #dead
 
 ![[kasimir.webp]]
+
+## Death
+
+Killed by [[Lamb]] with a finger of death during the final battle of Ravenloft.
 
 ## Family
 

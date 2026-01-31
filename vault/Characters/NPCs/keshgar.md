@@ -10,7 +10,7 @@ Allies with [[Strahd]] and [[Baba Lysaga]]
 
 ## Death
 
-Killed by [[The party]] on Yester hill
+Killed by [[The Party]] on Yester hill
 
 ## Motives
 

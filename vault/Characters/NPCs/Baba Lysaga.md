@@ -1,6 +1,6 @@
 # Baba Lysaga
 
-#witch
+#witch #dead
 
 ![[baba lysaga.jpg]]
 
@@ -11,7 +11,7 @@ Mother, [[Strahd]]
 
 ## Death
 
-Killed by [[The party]] in Berez
+Killed by [[The Party]] in Berez
 
 ---
 

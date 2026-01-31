@@ -6,6 +6,6 @@
 
 ## Relationships
 
-Ally, [[The party]]
+Ally, [[The Party]]
 
 [[ez-dm-notes]]

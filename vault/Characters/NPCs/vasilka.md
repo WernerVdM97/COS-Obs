@@ -5,4 +5,4 @@
 ![[Vasilka.png]]
 # Death
 
-destroyed by [[The party]].
+destroyed by [[The Party]].

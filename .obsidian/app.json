@@ -2,10 +2,10 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "userIgnoreFilters": [
-    "Acts/",
-    "hidden/"
+    "Hidden/",
+    "quartz/",
+    "vault/Hidden/"
   ],
   "useMarkdownLinks": false,
-  "showRibbon": true,
   "tabSize": 2
 }

@@ -1,7 +1,7 @@
-#vampire #bride #undead #druid
+#vampire #bride #undead #druid #dead
 
 ![[volenta.jpeg]]
 
 ## Death
 
-Killed by [[The party]] on their second quest into the Castle
+Killed by [[The Party]] on their second quest into the Castle

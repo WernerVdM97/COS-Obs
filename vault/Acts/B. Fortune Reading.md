@@ -4,4 +4,4 @@
 	- [x] Find Ezemerelda
 	- [x] compelete the reading
 - [x] Find the Sunsword
-- [ ] Face the threat
+- [x] Face the threat

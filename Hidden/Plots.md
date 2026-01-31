@@ -4,8 +4,8 @@
 
 - [x] Find 
 - [x] Travel to Amber Temple
-- [ ] Unlock the power of Resurrection
-- [ ] Learn Strahd's weakness
+- [x] Unlock the power of Resurrection
+- [x] Learn Strahd's weakness
 
 ### Ireena
 
@@ -16,14 +16,14 @@
 - [x] Death at the wedding
 - [x] Revived through a twist of fate
 - [x] Shelter in [[The Winery]]
-- [ ] Reunite with [[Sergei]]
+- [x] Reunite with [[Sergei]]
 
 ### Ez
 
-- [ ] Castle
-- [ ] Tower
+- [x] Castle
+- [x] Tower
 - [ ] Carnival
 - [ ] Wedding
-- [ ] [[Ez's reading]]
+- [x] [[Ez's reading]]
 - [ ] Den of wolves
-- [ ] Face Strahd
+- [x] Face Strahd

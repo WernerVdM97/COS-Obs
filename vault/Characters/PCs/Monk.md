@@ -1,9 +1,8 @@
 ## AKA Leafwhisperer, Tacet Autum, Eldur Grove
 
-#woodelf #monk #ally 
+#woodelf #monk #ally #dead 
 
-![[monk.jpeg]]
-
+![[monk-statue.png]]
 ## Events
 
 - Oath of silence broken after death at the festival of the sun.
@@ -22,7 +21,8 @@
 
 > [!error] _"I can't give a straight answer to any question put to me."_
 
-- 
+- Killed by [[Strahd]]
+
 ## Lore
 
-Seeking vengeance for his slayn tribe, presumably by werewolves.
+Seeking vengeance for his slain tribe, presumably by werewolves.

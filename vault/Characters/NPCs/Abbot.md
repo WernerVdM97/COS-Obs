@@ -6,7 +6,7 @@
 
 ![[the abbot.jpg]]
 
-Mortal body killed by [[The party]] but his spirit lives forth in the [[icon of ravenloft]]
+Mortal body killed by [[The Party]] but his spirit lives forth in the [[icon of ravenloft]]
 # Hidden
 
 ## Statblock

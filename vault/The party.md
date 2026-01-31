@@ -17,4 +17,6 @@
 
 ## Lore
 
-Lured into Barovia by the traveling Vistani
+Lured into Barovia by the traveling Vistani, the rest is written in the [[Log]].
+
+See [[Epilogue]] for how the party ended their days.

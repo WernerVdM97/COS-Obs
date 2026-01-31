@@ -10,4 +10,4 @@ Undead resurrection of Luvash by Strahd
 
 # Death
 
-Slayn by [[The party]] in direct confrontation
+Slayn by [[The Party]] in direct confrontation

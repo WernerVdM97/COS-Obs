@@ -1,5 +1,7 @@
 ## Lamb
 
+### Sylus Blackwater
+
 #rogue #ally 
 
 ![[lamb.jpeg]]

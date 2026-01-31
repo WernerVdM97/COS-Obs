@@ -4,7 +4,7 @@
 
 ## Key interests
 
-- The beacon of Argonvostholt has been relit by returning the dragon skull here by [[The party]], offering bonus resistance against Strahd.
+- The beacon of Argonvostholt has been relit by returning the dragon skull here by [[The Party]], offering bonus resistance against Strahd.
 - A stockpile of silver weapons and armour.
 ## Factions
 

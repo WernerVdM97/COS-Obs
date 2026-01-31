@@ -4,9 +4,7 @@
 
 ## Events
 
-Lycanthropy cured by [[Ludmilla]] but turned by [[Strahd]] into a vampire. 
-
-Was inflicted with [[vampirism]]
+Lycanthropy cured by [[Ludmilla]] but turned by [[Strahd]]  inflicting him with [[vampirism]].
 
 ## Lore
 

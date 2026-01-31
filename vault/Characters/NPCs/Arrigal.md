@@ -7,7 +7,7 @@ Brother, [[Luvash]]
 Niece, [[Arabelle]]
 
 ## Death
-killed by [[The party]] with Luvash
+killed by [[The Party]] with Luvash
 
 # notes
 

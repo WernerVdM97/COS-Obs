@@ -1,4 +1,4 @@
-[[kiril]] and co
+[[Kiril]] and co
 
 https://www.strahdreloaded.com/Act+III+-+The+Broken+Land/Arc+Q+-+A+Shining+Beacon#Q5.+Pack+Attack
 

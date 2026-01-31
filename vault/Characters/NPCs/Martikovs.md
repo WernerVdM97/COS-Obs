@@ -10,4 +10,4 @@ Grandfather, Damian
 
 # Keepers of the feather
 
-Allies of [[The party]]
+Allies of [[The Party]]

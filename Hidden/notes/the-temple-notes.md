@@ -74,8 +74,8 @@ The Amber Temple is a cold, dark repository of forbidden knowledge and malevolen
 The primary residents and visitors include:
 
 - [[Lucian]], [[Ludmilla]], and [[Rahadin]] (wearing [[Strahd's Armour]]), performing a ritual to Strahd
-- **[[exethanter]] the Lich:** An ancient archmage who discovered the secret of lichdom within the temple. He currently resides in area X27, though he has become **weak and forgetful**, failing to remember his name or his spells unless restored by a _greater restoration_ spell.
-- **[[neferon]] the Arcanaloth:** This creature guards the Temple of Lost Secrets from within the **hollow head of a forty-foot-tall faceless statue**. He often uses _alter self_ to appear as an old human wizard named Heinrich Stolt.
+- **[[Exethanter]] the Lich:** An ancient archmage who discovered the secret of lichdom within the temple. He currently resides in area X27, though he has become **weak and forgetful**, failing to remember his name or his spells unless restored by a _greater restoration_ spell.
+- **[[Neferon]] the Arcanaloth:** This creature guards the Temple of Lost Secrets from within the **hollow head of a forty-foot-tall faceless statue**. He often uses _alter self_ to appear as an old human wizard named Heinrich Stolt.
 - **[[vilnius]] and his Quasit:** A cowardly and greedy human **mage** who is currently hiding behind a lectern in the lecture hall (area X9). He is the apprentice of the now-dead wizard Jakarion and is accompanied by an **invisible quasit familiar**.
 - **Mountain Folk and Scouts:** A **gladiator named Helwa**, five **berserkers**, and a **dire wolf** (a servant of Strahd) currently use the southwest annex as a hunting shelter.
 - **Magical and Undead Guardians:** The temple is heavily fortified with **[[flameskulls]]** created from the remains of the temple's previous defenders. It is also patrolled by **amber golems** shaped like jackal-headed or hawk-headed warriors. Other spectral threats include **poltergeists** and **spectres** that manifest when certain items are disturbed.

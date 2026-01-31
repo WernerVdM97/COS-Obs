@@ -1,5 +1,5 @@
 
-*The story so far*
+*The story as it happened*
 
 ## Week 1
 
@@ -17,9 +17,9 @@ The party meets Strahd's first wife, [[Ludmilla]] and right hand, [[Rahadin]], h
 
 ## [[The Windmill]]
 
-Enroute to the windmill, in Strahd's carriage, the party jumps and kills Escher in broad daylight.
+Enroute to the windmill, in Strahd's carriage, the party jumps and kills [[Escher]] in broad daylight.
 
-Arriving at the windmill the party first encounters [[Morgantha]]'s and her two sisters. The sisters are killed, but Morgantha escapes to the ephereal plane.[[Lucian]] is briefly trapped with her, but saved by Strahd's intervention (Strahd uses the opportunity to sow chaos). Upon reappearring from the ephereal plane, [[The party]] mistakes Lucian for a werewolf demon, and downs him. During this fight [[Elik Moon]] is also infected with lycanthropy. The party learns abouts Lucian curse here for the first time.
+Arriving at the windmill the party first encounters [[Morgantha]]'s and her two sisters. The sisters are killed, but Morgantha escapes to the ephereal plane.[[Lucian]] is briefly trapped with her, but saved by Strahd's intervention (Strahd uses the opportunity to sow chaos). Upon reappearring from the ephereal plane, [[The Party]] mistakes Lucian for a werewolf demon, and downs him. During this fight [[Elik Moon]] is also infected with lycanthropy. The party learns abouts Lucian curse here for the first time.
 
 Finally, the party also finds Franz (son of [[Lady Fiona Wacther]]) and the scrying mirror.
 
@@ -54,7 +54,7 @@ The party de-escelates the situation instating Vasilli, [[Father Odu]], and the 
 
 ### Back at the carnival
 
-The party learns of [[Luvash]]'s evil elegance with Strahd and starts a doomed fight amidst many Vistani, here Rudolph and his tiger fight to the death taking Luvash with them, whilst the party flees with Anabelle and a tied up [[Arrigal]]. Rudolph disclosed the location of his stash at the [[Wizard Tower]]'s tower.
+The party learns of [[Luvash]]'s evil pact with Strahd and starts a doomed fight amidst many Vistani, here Rudolph and his tiger fight to the death taking Luvash with them, whilst the party flees with Anabelle and a tied up [[Arrigal]]. Rudolph disclosed the location of his stash at the [[Wizard Tower]]'s tower.
 
 ### [[Wizard Tower]]
 
@@ -82,7 +82,7 @@ Whilst travelling past the windmill, the party notices a light coming from it an
 
 ### [[Krezk]]
 
-Enroute, the party is jumped by a group of werewolves, narrowly escaping...(unknowingly, this would be their first encounter with [[kiril]]). Arrival in [[Krezk]] is met with a gloomy atmosphere. Rahadin and Ludmilla unloading the brides extravagant jewelry and clothes and preparing her resting place with black roses.
+Enroute, the party is jumped by a group of werewolves, narrowly escaping...(unknowingly, this would be their first encounter with [[Kiril]]). Arrival in [[Krezk]] is met with a gloomy atmosphere. Rahadin and Ludmilla unloading the brides extravagant jewelry and clothes and preparing her resting place with black roses.
 
 Later that night, the party helps [[Ireena]] flee to an unknown location (which they would later scry and find to be [[The woods]]). The werewolves would save her and bring her back safely in time for the wedding.
 
@@ -94,7 +94,7 @@ Searching for help, the party travels to the Church atop Krezk in search for the
 > The following has been retconned but will forever be known by Strahd and Lamb:
 > 
 > Outside Krezk in large tents:
->  - The party attends the bachelours where they gambled their life essence and face [[kiril]] in a duel to the death.
+>  - The party attends the bachelours where they gambled their life essence and face [[Kiril]] in a duel to the death.
 >  - At the wedding of Strahd, Izek would die in objection to the wedding, Ismark give up on his life, and Lamb free his daughters from by Baba
 >  - The party would realise Lucian is now a vampire, see [[Elik Moon]] with a werewolf looking woman, as well as meet [[keshgar]] the druid.
 >  - Ez attempts to kill Ireena to prevent Strahd from turning her, knowing of the prophecy. Strahd would emerge from his disguised [[Vasilli Van Holtz]], and stop time to ensure his ability to wed Ireena, but during fate's kiss, would burn to ash together with Ireena by the curse of Vampyr. 
@@ -108,7 +108,7 @@ However, since Lamb  invoked the twist of fate, the following
 - Not learn of Elik or Lucians fate
 
 ## Week 3
-### Either way; the party escapes to [[The Winery]]
+### [[Yester hill]] seige of [[The Winery]]
 
 Travelling to [[The Winery]]; the party hopes to find the last bit of goodness in Barovia. The keepers of the feather. Here the martikovs would allow them to join their ranks against evil in return for finding their lost gems.
 
@@ -118,13 +118,19 @@ The first gem is retrieved at [[Yester Hill]] where the party kills [[keshgar]] 
 
 Before persuing the second gem, the party learns of the magical portal between [[Ana's haversack]] and her crypt in the castle and uses this to sneak in at night. Here they loot more crypts and finally rob the skull of Argonvostholt back. While escaping, [[Volenta]] appears in her giant spider form and narrowly attempts to kill the party before being killed herself.
 
+The haversack is destroyed to prevent the evil from following.
+
 ### [[Ruins of Berez]]
 
-Enroute to the Ruins of Berez, the party first stops at Vallaki where Flikk summons Strahd from the deck of many things who downs him and reminds him of his dominance over him. Next, they pass by the [[Argonvostholt Manor]] again to relight the beacon and accept the family heirloom sword of [[Flikk]], Flame Tongue. 
+Enroute to the Ruins of Berez, the party first stops at Vallaki where Flikk summons Strahd from the deck of many things who downs him and reminds him of his dominance over him. 
+
+### Lighting the Beacon
+
+Next, they pass by the [[Argonvostholt Manor]] again to relight the beacon and accept the family heirloom sword of [[Flikk]], Flame Tongue. 
 
 The second gem is retreived (pryed form the living hut) together with Lamb's children in the [[Ruins of Berez]] after slaying [[Baba Lysaga]]. At this point in time, [[Tuush]] almost TPK'd the party after throwing [[Baba Lysaga]] guilded chest with a glyph of warding at the ground...
 
-### Back at the winery
+### Restoring the farmlands
 
 They party returns the second and last gem to plant in the ground and recucitate the life force of the vineyards. Here they barter with Damian Martikov to buy the Winery and establish a hollow spell over it to protect their dearest allies. They also send aid to the nearby villages in the form of money.
 
@@ -138,45 +144,52 @@ The first big step would be crossing the firewall of Tsolenka Pass. The party un
 
 The party hikes up the frozen waterfall and takes refuge in a nearby owlbear cave before they head into the temple
 
+## Week 4
 ### [[Amber Temple]]
 
-([[Ludmilla]] asks [[Rahadin]] how long its been since he performed the ritual)
-Party ascend stairs
-(Rahadin swallows toad)
-Party warned by the statue.
+*At Castle Raventloft, [[Ludmilla]] asks [[Rahadin]] how long its been since he performed the ritual and suggests they bring Strahd's new plaything, [[Lucian]], along. Ludmidlla shows Lucian how to activate the teleport and the three of them dissappear*
 
-running away from the amber golems and flame skulls, Finds [[vilnius]] 
-Find Vilnius' Masters staff, [[Monk]] snatches it, obtaining his new flaw.
-(Ludmilla lead Lucian to Exethanter then Tenebrous)
+[[The Party]] descends down the neverending stairs at the temple's entrance.
+While the party walks for what feels like over an hour, Rahadin swallows a toad on the templer floor while Ludmilla shows Lucian the library.
 
-Find circophicgi, [[Monk]] can't resist the dark urge, gains _Vaund the Evasive_'s gift, second flaw.
+Once the party reaches the temple floor, there are no vampires to be found. They are warned by the statue not to disturb the evil vestiges locked away in amber.
+
+Ludmilla, leads Rahadin and Lucian to [[Exethanter]] to discuss Lucian's interest in Tenebrous (God of Lichdom). Exethanter leads them to the main vault.
+
+Running away from the amber golems and flame skulls, the party finds [[vilnius]] and keeps him safe with them while looking for his master's staff.
+Upon finding it, [[Monk]] snatches it first, locking it to him and obtaining his new flaw.
+
+The party find the first of many circophicgi which isn't in the main vault. [[Monk]] can't resist the dark urge, gains _Vaund the Evasive_'s gift, second flaw.
 Lamb finds [[The Lost Shield Guardian]], after poaching [[vilnius]]' amulet.
 
-Find Ludmilla and Rahadin, fight them + statue + golem
-Kills ludmilla, destroys golem, abjures and kills [[neferon]], turn undead and forces rahadin to run away
+Lucian accepts the dark gift of Tenebrous and is turned into the first phase of a lich, wiping away his vampirism. He starts preparing his phylactery. 
 
-[[Flikk]] takes _Zantras, the Kingmaker's_ gift. new flaw.
-pockets mitril and the sunsword
-[[Lamb]], _Norganas, the Finger of_ _Oblivion._ new flaw.
-[[Kasimir]] resurrects [[Patrina Velkovna]], [[Tuush]] casts greater restoration
-[[Tuush]], _Savnok the Inscrutible._ empty eye sockets
+The party finally finds Ludmilla and Rahadin, fights them + statue + golem
+Kills ludmilla, destroys golem, abjures and kills [[Neferon]], uses turn undead and forces Rahadin to run away.
 
-[[Lucian]], both:
+The party continues raiding the Amber temple:
+- [[Flikk]] takes _Zantras, the Kingmaker's_ gift. new flaw.
+- pockets mitril and the sunsword
+- [[Lamb]], _Norganas, the Finger of_ _Oblivion._ new flaw.
+- [[Kasimir]] resurrects [[Patrina Velkovna]], [[Tuush]] casts greater restoration
+- [[Tuush]], _Savnok the Inscrutible._ empty eye sockets
+
+[[Lucian]], takes both:
 Tenebrous, the Corpse Star (gives flaw) and 
 _Khirad, the Star of Secrets._ (gives evil trait)
 
-Lucian takes [[the deck of many things]] and pulls the 'Skull' card summoning Exethanter,
-[[The party]] kills Exethanter and his **phylactery**
+Finally, Lucian takes [[the deck of many things]] and pulls the 'Skull' card summoning Exethanter, [[The Party]] kills Exethanter and his **phylactery**.
 
+## Week 5
 ### [[The Den of Wolves]]
 
-On the hills outside, the ritual is stopped, [[Elik Moon]] denied the chance turn, [[Ez]] restoring his madness. After being locked away Elik has learned wizardry from notes stolen of survivers/victims in the prison and turned into an Eldricth Knight.
+After hiking back for several days, the party speaks with [[Ez]] who informs them of the developments at the Wolf Den. In a last ditch attempt, [[Kiril]], tries to turn [[Elik Moon]] into a werewolf demon.
 
-Elik pulls 'The Key' from [[the deck of many things]], earning the [[Sunsword]].
+On the hills outside the den, the ritual is stopped, [[Elik Moon]] denied the chance to fully turn with [[Ez]] restoring his madness. After being locked away Elik has learned wizardry from notes stolen of survivers/victims in the prison and turned into an Eldricth Knight.
 
-Holy symbol of Ravenkind handed over by [[Zuleika]], and [[Emil]], after [[Izek]], [[Baronnet Victor]], and [[Ez]] helped free Emil
+Elik pulls 'The Key' from [[the deck of many things]], earning the [[Sunsword]]. 
+[[Holy Symbol of Ravenkind]] handed over by [[Zuleika]], and [[Emil]], after [[Izek]], [[Baronnet Victor]], and [[Ez]] helped free Emil.
 
-## Week 4
 ### The final dawn
 
 Preparing at the winery, Kasimir and Patrina ask to join the final fight.
@@ -187,6 +200,46 @@ The party goes bezerk and draws 6 cards from [[the deck of many things]]
 - [[Flikk]]: 'Jester', 'Talons' (loosing ALL magical items on his person as they disintegrate), and 'Throne'.
 - [[Lamb]]: 'Idiot', and 'Star'
 
-### The fated duel of [[Castle Ravenloft]]
+### The fated duel at [[Castle Ravenloft]]
 
-TBD
+[[The Party]] prepares at the winery, analyzing the Ravenloft map and consulting Patrina’s knowledge of the scrolls recovered from the [[Amber Temple]].
+
+Flick consults [[Ez]] about curing his lycanthropy. With no moonflower remaining, she proposes amputation instead and offers [[Flikk]] a steampunk prosthetic similar to her own.
+
+The party is informed that the Keepers of the Feather are gathering to discuss siege plans at Krezk.  
+They meet with Damian [[Martikovs]], [[Baronnet Victor]], [[Izek]], [[Ireena]], and [[Ismark]].
+
+The plan is set:
+- The humans will siege the gate.
+- The werewolves will scale the walls.
+- The ravens will keep watch from the sky.
+- The party must sneak inside and confront [[Strahd]] directly.
+
+[[Madam Eva]] bids the party farewell and asks [[Tuush]] to come visit her at her grave when this is all over.
+
+Ireena, now restored to her memories as Tatyana, walks with the party one final time before reuniting with [[Sergei]] at the Blessed Pool by the Shrine of Mother Night.
+
+The party sets out with [[Kasimir]] and [[Patrina Velkovna]]. Patrina suggests that the party keep Strahd occupied while she performs a ritual she drafted the previous night, reverse-engineered from the [[Amber Temple]] scrolls. Unbeknownst to the party, she intends to harness its power for herself.
+
+The party breaches the outer wall to find [[Rahadin]] waiting to escort them to Strahd at the front gate, but he is instantly slain. As they step onto the castle grounds, [[Castle Ravenloft]] begins ascending into the heavens, surrounded by pure darkness.
+
+The party confronts Strahd in his soldier form, wielding his greatsword on the fated balcony of his tower. During the battle, Strahd charms [[Flikk]] into surrendering the [[Sunsword]], then retreats by phasing through the walls and floors, descending deeper into the castle.
+
+In the crypts, Strahd dons [[Strahd's Armour]] and assumes his mage form, wielding his amulet. He mocks the party for their ignorance of Patrina’s true intentions and attempts to convince them to join him one last time and kill her. The party refuses and continues the assault.
+
+After defeating his mage form, Strahd flees to his own crypt. The party navigates the infamous teleporting stair trap one final time. [[Lamb]] realizes he can walk behind the statues and witnesses Strahd draining the Sunsword’s energy into his amulet, transforming into his true vampyr form. [[Ez]] arrives, warning the party about Patrina.
+
+As the final battle reaches its climax—Tuush casting _hold vampire_, a [[Monk]] stunning Strahd, and Flick unleashing a full assault—Kasimir and Patrina arrive, intending to kill Strahd themselves and seal the pact for his power. The monk is caught in the line of fire by Patrina’s _finger of death_, and Strahd retaliates by killing both Patrina and Monk.
+
+*In one last vision from the Gods Monk sees the true fate of his kin killed by werewolves at the command of Strahd. He also sees what is to come, the free'd werewolves resurrect a temple and statue in honour of the monk at the sacred forest that once was his home.*
+
+In a final act, Tuush channels the [[Holy Symbol of Ravenkind]], reigniting the Sunsword and throwing it to Flick. Flick, alongside Lamb, strikes Strahd with everything they have, weakening him enough for Tuush to call upon divine intervention and smite Strahd down with Saint [[Markovia's thighbone]]
+
+The castle erupts as a beam of pure sunlight pierces it from above, and Ravenloft begins to plummet toward the ground. Ez expends all her holy water to burn an emergency exit through the bottom of the castle, casts _feather fall_ on the party, and leaps to safety. As they escape, Lamb finishes Kasimir with a final _finger of death_ charge.
+
+The party watches as Castle Ravenloft incinerates during its descent, crashing into the mountain below.
+
+The mists fade. The clouds part.  
+For the first time in 800 years, peace settles over the lands of Barovia.
+
+For more, see [[Epilogue]].

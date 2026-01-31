@@ -4,10 +4,11 @@
 	- [x] flaming fists, 1d4 fire. Charges?
 	- [x] Robe of levitaiton, 10f flying speed
 - [x] Wedding planning
-- [ ] Ireena newplot
-- [ ] NPC hunt
+- [x] Ireena newplot
+- [x] NPC hunt
 	- [ ] ireena?
 	- [ ] ez?
+	- [x] Patrina.
 
 
 ![[strahd's-armour-statblock.png]]

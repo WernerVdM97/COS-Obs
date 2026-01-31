@@ -1,18 +1,17 @@
 - [[Flikk]]
-	- [ ] Avenge Flokk & Fukk
+	- [x] Avenge Flokk & Fukk
 
 - [[Lamb]]
 	- [x] find the twins
 	- [x] free them
-	- [ ] protect them
+	- [x] protect them
 
 - [[Tuush]]
-	- [ ] Honour the morning lord
+	- [x] Honour the morning lord
 
 - [[Monk]]
 	- [x] Accept resurrection
-	- [ ] Seek redemption, or
-	- [ ] embrace it
+	- [x] Seek redemption
 
 - Your allies
 	- [x] Set [[Lucian]] to rest

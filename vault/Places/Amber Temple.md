@@ -2,7 +2,7 @@
 ![[amber-temple.png]]
 ## key events
 
-- [[The party]] killed [[vilnius]], [[Ludmilla]], [[neferon]], and [[exethanter]].
+- [[The Party]] killed [[vilnius]], [[Ludmilla]], [[Neferon]], and [[Exethanter]].
 - [[Sunsword]] was locked away here.
 - All wizard knowledge 
 
