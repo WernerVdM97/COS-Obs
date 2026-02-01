@@ -9,13 +9,13 @@ Emerging from the woods, the party is confronted by the death house, a cursed re
 
 The party is hired by [[Ismark]] on a quest to escort his half-sister, [[Ireena]] to safety in [[Vallaki]]. She has been targeted by [[Strahd]] to become his next wife. Ismark believes Vallaki to be the safest place for her. Before leaving they first burry her father and attend the funeral (where they encounter and slay their first vampire. Doru, son of the priest). 
 
-## [[Tsar Camp]]
+### [[Tsar Camp]]
 
 The party first stops at the Tsar pool to visit the old and wise [[Madam Eva]] for a fated [[B. Fortune Reading]] where they are foretold the prophecy of [[Strahd]]'s downfall at the hand of a group of adventurers who would go around and collect key artifacts to help them in their vendetta. 
 
 The party meets Strahd's first wife, [[Ludmilla]] and right hand, [[Rahadin]], here for the first time. Strahd acknowledges them as his "champions" here for the first time. He also reveals his current agenda, to find and kill [[Rudolph]] Van Richten. Strahd offers his carriage, driven by [[Escher]], for the party's travel.
 
-## [[The Windmill]]
+### [[The Windmill]]
 
 Enroute to the windmill, in Strahd's carriage, the party jumps and kills [[Escher]] in broad daylight.
 
@@ -23,7 +23,7 @@ Arriving at the windmill the party first encounters [[Morgantha]]'s and her two 
 
 Finally, the party also finds Franz (son of [[Lady Fiona Wacther]]) and the scrying mirror.
 
-## [[Vallaki]]
+### [[Vallaki]]
 
 Outside the doors of Vallaki, the party set up camp against the shore of [[Lake Barovia]] and first encounter [[Vasilli Van Holtz]] who appears to just be a silly nobleman.
 
@@ -42,7 +42,7 @@ Rictavio leads the party to their first meeting with [[Luvash]] who asks them to
 
 The party also stops by the headquarters of the order of the silver dragon, explaining the ghostly revenants they met on theyre journey. Here they meet [[Sir Godfry]] who tasks them with stealing back the skull of Argonvostholt to relight the beacon.
 
-## Back in Vallaki
+### Back in Vallaki
 
 The party uses the festival of the sun as an opportunity to fake poisoning the baron (who was [[Lamb]] in disguise) capturing him and giving him over to Strahd. Lady Fiona is also killed (by [[Izek]]) in this chaos as well as [[Ana]], but first she kills the [[Monk]] (allowing him to break his oath of silence after death). This leaves Vallaki without any leader and chaos ensues. This is the last time the party would see [[Izek]] and [[Baronnet Victor]] (until Strahd's wedding) who fleas fearing the cultists would kill them.
 
