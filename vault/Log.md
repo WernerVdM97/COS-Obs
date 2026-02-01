@@ -1,6 +1,7 @@
 
 *The story as it happened*
 
+([available in audiobook format](https://drive.google.com/file/d/1kR_8wCsmPDsyWf4emXX1KEcmYPpMQZMQ/view?usp=sharing))
 ## Week 1
 
 ### [[Village of Barovia]]
@@ -42,7 +43,7 @@ Rictavio leads the party to their first meeting with [[Luvash]] who asks them to
 
 The party also stops by the headquarters of the order of the silver dragon, explaining the ghostly revenants they met on theyre journey. Here they meet [[Sir Godfry]] who tasks them with stealing back the skull of Argonvostholt to relight the beacon.
 
-### Back in Vallaki
+### Back in [[Vallaki]]
 
 The party uses the festival of the sun as an opportunity to fake poisoning the baron (who was [[Lamb]] in disguise) capturing him and giving him over to Strahd. Lady Fiona is also killed (by [[Izek]]) in this chaos as well as [[Ana]], but first she kills the [[Monk]] (allowing him to break his oath of silence after death). This leaves Vallaki without any leader and chaos ensues. This is the last time the party would see [[Izek]] and [[Baronnet Victor]] (until Strahd's wedding) who fleas fearing the cultists would kill them.
 
@@ -52,7 +53,7 @@ The party de-escelates the situation instating Vasilli, [[Father Odu]], and the 
 
 ## Week 2
 
-### Back at the carnival
+### Back at [[The Carnival]]
 
 The party learns of [[Luvash]]'s evil pact with Strahd and starts a doomed fight amidst many Vistani, here Rudolph and his tiger fight to the death taking Luvash with them, whilst the party flees with Anabelle and a tied up [[Arrigal]]. Rudolph disclosed the location of his stash at the [[Wizard Tower]]'s tower.
 
@@ -76,7 +77,7 @@ Lamb, steals [[the deck of many things]] from [[Cyrus]].
 
 The party leaves [[Lucian]] in the hands of [[Ludmilla]] who promises to take care of him and cure his lycanthropy.
 
-### Back past the Windmill
+### Back past [[The Windmill]]
 
 Whilst travelling past the windmill, the party notices a light coming from it and decide to put Morgantha to rest, once and for all. Here they also load the scrying mirror into the wagon for future use.
 
@@ -114,7 +115,7 @@ Travelling to [[The Winery]]; the party hopes to find the last bit of goodness i
 
 The first gem is retrieved at [[Yester Hill]] where the party kills [[keshgar]] and prevents the massive wintersplinter golem from seiging the winery.
 
-### Return to the Castle
+### Return to [[Castle Ravenloft]]
 
 Before persuing the second gem, the party learns of the magical portal between [[Ana's haversack]] and her crypt in the castle and uses this to sneak in at night. Here they loot more crypts and finally rob the skull of Argonvostholt back. While escaping, [[Volenta]] appears in her giant spider form and narrowly attempts to kill the party before being killed herself.
 
@@ -130,7 +131,7 @@ Next, they pass by the [[Argonvostholt Manor]] again to relight the beacon and a
 
 The second gem is retreived (pryed form the living hut) together with Lamb's children in the [[Ruins of Berez]] after slaying [[Baba Lysaga]]. At this point in time, [[Tuush]] almost TPK'd the party after throwing [[Baba Lysaga]] guilded chest with a glyph of warding at the ground...
 
-### Restoring the farmlands
+### Restoring the [[The Winery]]
 
 They party returns the second and last gem to plant in the ground and recucitate the life force of the vineyards. Here they barter with Damian Martikov to buy the Winery and establish a hollow spell over it to protect their dearest allies. They also send aid to the nearby villages in the form of money.
 
@@ -190,7 +191,7 @@ On the hills outside the den, the ritual is stopped, [[Elik Moon]] denied the ch
 Elik pulls 'The Key' from [[the deck of many things]], earning the [[Sunsword]]. 
 [[Holy Symbol of Ravenkind]] handed over by [[Zuleika]], and [[Emil]], after [[Izek]], [[Baronnet Victor]], and [[Ez]] helped free Emil.
 
-### The final dawn
+### Recoup at [[The Winery]]
 
 Preparing at the winery, Kasimir and Patrina ask to join the final fight.
 
@@ -200,7 +201,7 @@ The party goes bezerk and draws 6 cards from [[the deck of many things]]
 - [[Flikk]]: 'Jester', 'Talons' (loosing ALL magical items on his person as they disintegrate), and 'Throne'.
 - [[Lamb]]: 'Idiot', and 'Star'
 
-### The fated duel at [[Castle Ravenloft]]
+### Fated duel at [[Castle Ravenloft]]
 
 [[The Party]] prepares at the winery, analyzing the Ravenloft map and consulting Patrina’s knowledge of the scrolls recovered from the [[Amber Temple]].
 

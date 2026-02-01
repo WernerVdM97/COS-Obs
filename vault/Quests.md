@@ -36,5 +36,4 @@
 
 ![[5.1 Epilogue]]
 
-![[shire.png]]
-
+![[epilouge-day-one.png]]

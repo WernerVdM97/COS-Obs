@@ -13,65 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Quests.md",
+                "file": "vault/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quests"
-            },
-            "group": "c918f3a16491e16b"
+              "title": "index"
+            }
           }
         ]
-      },
-      {
-        "id": "767ae190cf1ebf32",
-        "type": "split",
-        "children": [
-          {
-            "id": "d64313f1da3d1091",
-            "type": "tabs",
-            "dimension": 59.36395759717315,
-            "children": [
-              {
-                "id": "ef3386f1372d9235",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "vault/Quests.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of Quests"
-                },
-                "group": "c918f3a16491e16b"
-              }
-            ]
-          },
-          {
-            "id": "81d8d01145744ae2",
-            "type": "tabs",
-            "dimension": 40.63604240282685,
-            "children": [
-              {
-                "id": "24a58a7982da4b42",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -103,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vampire",
+                "query": "Ravenloft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,27 +168,36 @@
   },
   "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
-    "vault/Hidden/Images/Locations/gates of borovia.png",
-    "vault/Quests.md",
+    "vault/Epilogue.md",
     "vault/index.md",
+    "vault/Log.md",
+    "vault/Map.md",
+    "vault/Quests.md",
     "vault/The Party.md",
-    "Story.canvas",
-    "Hidden/Hooks.md",
+    "vault/Places/Castle Ravenloft.md",
+    "vault/Places/Vallaki.md",
     "Characters and Items.canvas",
+    "README.md",
+    "Story.canvas",
+    "vault/Items/The Wagon.md",
+    "vault/Hidden/Images/epilouge-day-one.png",
+    "vault/Hidden/Images/epilouge-day-one.png.sb-e9eb3455-PLEgP7",
+    "vault/Hidden/Images/bororiva flourishing.png",
+    "vault/Hidden/Images/Curse of Strahd.png",
+    "vault/Hidden/Images/about-strahd.png",
+    "vault/Hidden/Images/800-years-later.png",
+    "vault/Hidden/Images/PC/the-party.png",
+    "vault/Hidden/Images/Locations/gates of borovia.png",
+    "Hidden/Hooks.md",
     "vault/Characters/NPCs/Volenta.md",
     "vault/Characters/NPCs/Baba Lysaga.md",
     "vault/Characters/PCs/Lamb.md",
     "vault/Characters/NPCs/Kasimir.md",
     "vault/Characters/NPCs/Patrina Velkovna.md",
     "vault/Characters/NPCs/Strahd.md",
-    "vault/Log.md",
-    "vault/Epilogue.md",
-    "README.md",
     "Table.base",
     "vault/Characters/PCs/Monk.md",
-    "vault/Items/The Wagon.md",
     "vault/Places/Mount Ghakis.md",
-    "vault/Places/Vallaki.md",
     "vault/Places/The woods.md",
     "vault/Places/Krezk.md",
     "vault/Places/The Windmill.md",
@@ -246,17 +205,8 @@
     "vault/Places/Village of Barovia.md",
     "vault/Places/The Den of Wolves.md",
     "3..md",
-    "vault/Characters/PCs/Flikk.md",
     "vault/Hidden/Images/PC/monk-statue.png",
     "vault/Hidden/Images/Locations/shire.png",
-    "vault/Hidden/Images/Curse of Strahd.png",
-    "vault/Hidden/Images/the-heart-of-ravenloft.png",
-    "vault/Hidden/Images/Locations/seige-of-ravenloft.png",
-    "vault/Hidden/Images/NPC/strahd-true-form.png",
-    "vault/Hidden/Images/Items/holy-symbol-ravenkind.png",
-    "vault/Hidden/Images/Items/deck-knight.jpg",
-    "vault/Hidden/Images/Items/deck-jester.jpg",
-    "vault/Hidden/Images/Items/deck-key.jpg",
     "canvas-export.html",
     "Hidden/quartz.config.ts",
     "quartz/public/index.html",
@@ -265,7 +215,6 @@
     "quartz/public/tags/owned.html",
     "quartz/public/tags/farm.html",
     "quartz/public/Log.html",
-    "quartz/public/tags/dangerous.html",
     "Untitled 1.canvas"
   ]
 }
