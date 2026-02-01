@@ -242,4 +242,4 @@ The party watches as Castle Ravenloft incinerates during its descent, crashing i
 The mists fade. The clouds part.  
 For the first time in 800 years, peace settles over the lands of Barovia.
 
-For more, see [[Epilogue]].
+## [[Epilogue]]
