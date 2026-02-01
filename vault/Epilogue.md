@@ -1,4 +1,6 @@
 
+![[shire.png]]
+
 ## 1 year later in Swords Coast
 
 [[Tuush]] erects a monastery to safeguard the relics and continue spreading the hope of the Morning Lord. He never misses an opportunity to remind others of the brave party that set out to slay Vampyr’s chosen. Each year, he returns to Madam Eva’s grave to pray.
