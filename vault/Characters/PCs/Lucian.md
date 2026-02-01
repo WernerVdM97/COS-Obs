@@ -1,29 +1,24 @@
 #lich #human #wizard #ally
 
-![[lucian.jpeg]]
+![[lucian-lich.jpg]]
 
 ## Events
 
+Dug deep into the chaotic mind arcane-locked of [[Rudolph]], inflicting himself with [[Wildmagic]].
+
 Lycanthropy cured by [[Ludmilla]] but turned by [[Strahd]]  inflicting him with [[vampirism]].
 
-## Lore
-
-Stumbled into the mists of Barovia after being lured by Vistani. He was inflicted with the curse of lycanthropy and has been searching for a cure.
-
-Rid himself of his vamprism curse by accepted the dark gift of Tenebrous, the Corpse Star, to become a Lich, sealing his soul away and obtaining the following flaw
+Rid himself of his vamprism curse by accepted the dark gift of Tenebrous, the Corpse Star, acquiring [[Lichdom]], sealing his soul away and obtaining the following flaw
 
 > [!error] _"All I care about is acquiring new magic and arcane knowledge."_
 
 Accepted the dark gift of Khirad, the Star of Secrets, changing:
 
-> [!warning] _The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil._
+> [!error] _The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil._
 
-### Lichdom 
+## Lore
 
-your studies crossed a line most refuse to name.
+See [[lucian.jpeg]] for human form.
 
-- You understand the **path to lichdom**: phylacteries, soul binding, and undeath rituals.
-    
-- You can **identify necromantic workings** tied to liches or would-be liches.
-    
-- When facing lich lore, you can **summarise strengths, failings, and typical safeguards** without a roll.
+Stumbled into the mists of Barovia after being lured by Vistani. He was inflicted with the curse of [[Werewolf Lycanthropy]] and has been searching for a cure.
+

@@ -1,6 +1,6 @@
 # Ezmerelda d'Avenir
 
-#vistani #artificer 
+#vistani #artificer #ally 
 
 ![[ezmerelda.jpeg]]
 

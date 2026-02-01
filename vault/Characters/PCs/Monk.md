@@ -6,13 +6,12 @@
 ## Events
 
 - Oath of silence broken after death at the festival of the sun.
-- Resurrected in [[death's contract]]
- - Pulled 'Rogue' from the deck of many things, now hunted by an unknown NPC...
+- Sold his sould in [[death's contract]] for resurrection inside Castle Raven.
+ - Pulled 'Rogue' from [[the deck of many things]], now hunted by an unknown NPC...
 
-> [!error] Near death experience
-> If not for the intervention of Lamb, Monk would have fell to his death above the Castle roof...
+> [!warning] Near death experience
+> If not for the intervention of [[Lamb]], Monk would have fell to his death above the Castle roof...
 
-- Oath of silence until death
 - Took the Staff of Frost from _Jakarion_'s dead body, obtaining 
 
 > [!error] _"I crave power above all else, and will do anything to obtain more of it."_
@@ -25,4 +24,5 @@
 
 ## Lore
 
-Seeking vengeance for his slain tribe, presumably by werewolves.
+Seeking vengeance for his slain tribe, presumably by werewolves. 
+Took a vow of silence for his mortal life.

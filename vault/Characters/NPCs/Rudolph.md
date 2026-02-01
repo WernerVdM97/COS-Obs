@@ -5,7 +5,7 @@
 ### Rudolph
 
 ![[rudolph van richten.jpeg]]
-### Rictavio
+### AKA Rictavio
 
 ![[rictavio.jpeg]]
 

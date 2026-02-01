@@ -4,17 +4,17 @@
 
 ![[ireena.webp]]
 ## Family
+
 Half-brother [[Ismark]]
+Half-brother [[Izek]]
 
-# Death
-Turned to ash at the Wedding
+## Death & Resurrection
 
-# Resurrection
-Saved by [[Lamb]] a twist in fate# Statblock
-Sure, here's the statblock for Ireena Kolyana as a level 5 Battle Master in markdown format, with the ability scores tabularized:
-Ally of [[The Party]]
+Turned to ash at the Wedding (undone)
 
-### Ireena Kolyana - Level 5 Battle Master
+Saved by [[Lamb]] a twist in fate and reunited with Sergei, restoring her memories as Tatyana.
+
+## Level 5 Battle Master
 
 **Medium humanoid (human), lawful good**
 

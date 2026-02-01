@@ -4,6 +4,6 @@
 
 ## Death
 
-Slayn by the party at [[The woods]]
+Killed by the party at the gate of [[Castle Ravenloft]].
 
 [[rahadin-dm-notes]]

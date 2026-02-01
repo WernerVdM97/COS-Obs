@@ -7,8 +7,7 @@
 
 ![[neferon.jpeg]]
 
-Neferon the arcanaloth is the self-appointed guardian of the Temple of Lost Secrets, and his reaction to the party will be defined by **lethal aggression masked by layers of magical deception**.
-dmediate and Long-Range Hostility**
+Neferon the arcanaloth is the self-appointed guardian of the [[Amber Temple]], and his reaction to the party will be defined by **lethal aggression masked by layers of magical deception**.
 
 ## The "Heinrich Stolt" Deception**
 

@@ -1,4 +1,4 @@
-#stoned #duskelf #wizard #resurrected #dead
+#duskelf #wizard #resurrected #dead
 
 ![[patrina.jpg]]
 

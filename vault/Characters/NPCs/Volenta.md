@@ -4,4 +4,4 @@
 
 ## Death
 
-Killed by [[The Party]] on their second quest into the Castle
+Killed by [[The Party]] on their second quest into [[Castle Ravenloft]].

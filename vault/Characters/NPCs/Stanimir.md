@@ -1,6 +1,6 @@
 # Stanimir
 
-#vistani #bard 
+#vistani #bard #ally
 
 ![[stanimir.jpg]]
 

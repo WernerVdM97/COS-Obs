@@ -1,6 +1,6 @@
 # Kasimir
 
-#duskelf #fighter #wizard #ally #dead
+#duskelf #fighter #wizard #dead
 
 ![[kasimir.webp]]
 

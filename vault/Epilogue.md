@@ -13,6 +13,6 @@ In the days following the battle, [[Flikk]] establishes a small homestead in Bar
 
 ## 800 years later in Barovia
 
-![[800-years-later.png]]
-
 Long after the final party member draws their last breath, Barovia continues to thrive, free of the mists that once trapped all souls within. [[Lucian]], his phylactery sealed deep beneath the cellars of [[The Winery]], researches the history and origins of the Dark Gifts of Barovia. In doing so, he uncovers a small, pea-sized heart growing where Castle Ravenloft once stood…
+
+![[800-years-later.png]]

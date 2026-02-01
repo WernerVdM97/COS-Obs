@@ -5,7 +5,7 @@
 ![[shield-guradian-pic.png]]
 ## Relationships
 
-Loyal to its master, wearer of its amulet
+Loyal to its master, wearer of its amulet (currently [[Lamb]])
 
 ## Defect
 

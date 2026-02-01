@@ -1,3 +1,4 @@
+
 #undead #sorcerer #barbarian  #necromancer #dead 
 
 
@@ -5,9 +6,8 @@
 
 ## Notes
 
-Undead resurrection of Luvash by Strahd
-
+Undead resurrection of [[Luvash]] by [[Strahd]]
 
 # Death
 
-Slayn by [[The Party]] in direct confrontation
+Killed again by [[The Party]] in direct confrontation

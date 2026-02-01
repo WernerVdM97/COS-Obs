@@ -1,4 +1,4 @@
-#missing #warlock
+#warlock #ally 
 
 ![[izek.jpeg]]
 

@@ -1,4 +1,4 @@
-#human #wizard #missing
+#human #wizard
 
 ![[victor vallikovic.jpeg]]
 

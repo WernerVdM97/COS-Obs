@@ -1,4 +1,4 @@
-#undead #silver-dragon #dragonborn #fighter 
+#undead #silver-dragon #dragonborn #fighter #ally
 
 ![[godfree.webp]]
 

@@ -6,7 +6,7 @@
 ## Family
 
 Brother, [[Strahd]]
-Fiance, Tatyana
+Fiance, Tatyana ([[Ireena]])
 ## Death
 
 Killed by [[Strahd]]

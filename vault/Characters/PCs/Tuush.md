@@ -4,9 +4,10 @@
 
 ## Events
 
-> [!error] Almost TPK'd the party when he threw [[Baba Lysaga]]'s guilded chest with a glyph of warding at the ground.  
+> [!warning] Almost TPK'd the party 
+> Threw [[Baba Lysaga]]'s guilded chest with a glyph of warding at the ground.  
 
-> [!hint] Pulled 'Treasure' from the deck of many things, blessing the party with 25 Gems worth 2k each
+Pulled 'Treasure' from [[the deck of many things]], blessing the party with 25 Gems worth 2k each
 
 ## Lore
 

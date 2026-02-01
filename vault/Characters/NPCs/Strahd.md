@@ -12,10 +12,12 @@ Killed by [[The Party]] in a combined attack with the [[Sunsword]] and Saint [[M
 
 ## Relatives
 ### Wives
+
 - [[Ludmilla]]
 - [[Ana]]
 - [[Volenta]]
 - [[Escher]]
 
 # Mount
+
 - [[Beucephalus]]

@@ -7,7 +7,7 @@
 ## Family
 
 Owner, [[Rudolph]]
-# Statblock
+## Statblock
 
 ### Rudolph van Richten's Steampunk Tiger
 

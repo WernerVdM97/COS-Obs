@@ -7,4 +7,4 @@
 
 # Death
 
-Slayn by [[The Party]] at [[Tsolenka Pass]]
+Killed by [[The Party]] at [[Tsolenka Pass]]
