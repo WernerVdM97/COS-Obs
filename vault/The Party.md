@@ -2,6 +2,8 @@
 
 # The party
 
+![[the-party.png]]
+
 ## Members
 
 - [[Lucian]]
