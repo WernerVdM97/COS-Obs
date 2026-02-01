@@ -5,7 +5,7 @@ Brought to Barovia by [[Sergei]], dismantled by Khazan.
 
 "Locked behind an amber set of door " - [[Madam Eva]] 
 
-![[vault/Hidden/Images/Items/Sunsword.jpg]]
+![Sunsword.jpg]]
 
 SUNSWORD
 **Weapon (longsword), legendary (requires attunement)**
@@ -55,5 +55,3 @@ destroy Strahd, not so much because it wants to free the
 land of Barovia from evil but because it wants revenge
 for the loss of its crystal blade. The weapon secretly
 fears its own destruction.
-
-![[Sunsword.jpg]]
