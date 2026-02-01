@@ -201,16 +201,15 @@ The party goes bezerk and draws 6 cards from [[the deck of many things]]
 - [[Flikk]]: 'Jester', 'Talons' (loosing ALL magical items on his person as they disintegrate), and 'Throne'.
 - [[Lamb]]: 'Idiot', and 'Star'
 
-### Fated duel at [[Castle Ravenloft]]
-
 [[The Party]] prepares at the winery, analyzing the Ravenloft map and consulting Patrina’s knowledge of the scrolls recovered from the [[Amber Temple]].
 
 Flick consults [[Ez]] about curing his lycanthropy. With no moonflower remaining, she proposes amputation instead and offers [[Flikk]] a steampunk prosthetic similar to her own.
 
 The party is informed that the Keepers of the Feather are gathering to discuss siege plans at Krezk.  
-They meet with Damian [[Martikovs]], [[Baronnet Victor]], [[Izek]], [[Ireena]], and [[Ismark]].
 
-The plan is set:
+### Rendezvous at [[Krezk]]
+
+They meet with Damian [[Martikovs]], [[Baronnet Victor]], [[Izek]], [[Ireena]], and [[Ismark]]. The plan is set:
 - The humans will siege the gate.
 - The werewolves will scale the walls.
 - The ravens will keep watch from the sky.
@@ -219,6 +218,8 @@ The plan is set:
 [[Madam Eva]] bids the party farewell and asks [[Tuush]] to come visit her at her grave when this is all over.
 
 Ireena, now restored to her memories as Tatyana, walks with the party one final time before reuniting with [[Sergei]] at the Blessed Pool by the Shrine of Mother Night.
+
+### Fated duel at [[Castle Ravenloft]]
 
 The party sets out with [[Kasimir]] and [[Patrina Velkovna]]. Patrina suggests that the party keep Strahd occupied while she performs a ritual she drafted the previous night, reverse-engineered from the [[Amber Temple]] scrolls. Unbeknownst to the party, she intends to harness its power for herself.
 
