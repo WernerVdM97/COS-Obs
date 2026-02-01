@@ -16,17 +16,17 @@
 
 ![[1.3 The Festival]]
 
-![[vault/Hidden/Images/Locations/vallaki.png]]
+![[vallaki.png]]
 
 ![[2.1 dinner with the devil]]
 
 ![[2.2 road to the wedding]]
 
-![[vault/Hidden/Images/Locations/Krezk-Night-Thumbnail.jpg]]
+![[Krezk-Night-Thumbnail.jpg]]
 
 ![[3.1 at crossroads]]
 
-![[vault/Hidden/Images/Locations/winery.jpg]]
+![[winery.jpg]]
 
 ![[4.1 New friends]]
 

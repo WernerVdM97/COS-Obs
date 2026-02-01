@@ -6,151 +6,66 @@
       {
         "id": "ef4133dd3ccac11f",
         "type": "tabs",
-        "dimension": 20.231607629427792,
         "children": [
           {
             "id": "b9136f9d2401c56e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Story.canvas",
-                "viewState": {
-                  "x": -764.2680513435172,
-                  "y": 4105.279077710431,
-                  "zoom": -0.604003015675789
-                }
+                "file": "vault/Quests.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Story"
-            }
+              "icon": "lucide-file",
+              "title": "Quests"
+            },
+            "group": "c918f3a16491e16b"
           }
         ]
       },
       {
-        "id": "35cb2dd2c5b67190",
-        "type": "tabs",
-        "dimension": 60.694822888283376,
-        "children": [
-          {
-            "id": "1578639d01e7b273",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters and Items.canvas",
-                "viewState": {
-                  "x": -112.43997914326134,
-                  "y": 1156.463243558188,
-                  "zoom": -3.087240186631268
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Characters and Items"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0dc6510e41c9e8f2",
+        "id": "767ae190cf1ebf32",
         "type": "split",
-        "dimension": 19.07356948228883,
         "children": [
           {
-            "id": "6d410ec4e8ab0095",
+            "id": "d64313f1da3d1091",
             "type": "tabs",
-            "dimension": 42.38900634249471,
+            "dimension": 59.36395759717315,
             "children": [
               {
-                "id": "b51e408189210621",
+                "id": "ef3386f1372d9235",
                 "type": "leaf",
                 "state": {
-                  "type": "localgraph",
+                  "type": "outline",
                   "state": {
-                    "file": "Characters and Items.canvas",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#dead ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        },
-                        {
-                          "query": "tag:#missing",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14069084
-                          }
-                        },
-                        {
-                          "query": "tag:#ally",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5562450
-                          }
-                        },
-                        {
-                          "query": "tag:#item",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5007053
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -2.7,
-                      "nodeSizeMultiplier": 3.35011800130208,
-                      "lineSizeMultiplier": 4.30356038411458,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.8016175135107924,
-                      "close": true
-                    }
+                    "file": "vault/Quests.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of Characters and Items"
-                }
+                  "icon": "lucide-list",
+                  "title": "Outline of Quests"
+                },
+                "group": "c918f3a16491e16b"
               }
             ]
           },
           {
-            "id": "91bc90a5170f2d64",
+            "id": "81d8d01145744ae2",
             "type": "tabs",
-            "dimension": 57.61099365750529,
+            "dimension": 40.63604240282685,
             "children": [
               {
-                "id": "c64648ea60d73161",
+                "id": "24a58a7982da4b42",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Characters and Items.canvas",
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Characters and Items"
+                  "type": "empty",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               }
             ]
@@ -188,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dead",
+                "query": "tag:#vampire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "911f895b57747a81",
@@ -230,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters and Items.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The party"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -249,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PCs/The party.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The party"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -276,13 +190,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PCs/The party.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The party"
+              "title": "Outline of README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -294,32 +209,34 @@
       "bases:Create new base": false,
       "publish:Publish changes...": true,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "graph:Open graph view": true,
       "canvas:Create new canvas": true,
-      "templates:Insert template": true,
+      "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1578639d01e7b273",
+  "active": "b9136f9d2401c56e",
   "lastOpenFiles": [
-    "Story.canvas",
-    "vault/Characters/NPCs/Volenta.md",
+    "vault/Hidden/Images/Locations/gates of borovia.png",
+    "vault/Quests.md",
+    "vault/index.md",
     "vault/The Party.md",
+    "Story.canvas",
+    "Hidden/Hooks.md",
+    "Characters and Items.canvas",
+    "vault/Characters/NPCs/Volenta.md",
     "vault/Characters/NPCs/Baba Lysaga.md",
     "vault/Characters/PCs/Lamb.md",
     "vault/Characters/NPCs/Kasimir.md",
     "vault/Characters/NPCs/Patrina Velkovna.md",
     "vault/Characters/NPCs/Strahd.md",
-    "Characters and Items.canvas",
     "vault/Log.md",
     "vault/Epilogue.md",
-    "vault/Quests.md",
     "README.md",
     "Table.base",
     "vault/Characters/PCs/Monk.md",
     "vault/Items/The Wagon.md",
-    "vault/index.md",
     "vault/Places/Mount Ghakis.md",
     "vault/Places/Vallaki.md",
     "vault/Places/The woods.md",
@@ -330,7 +247,6 @@
     "vault/Places/The Den of Wolves.md",
     "3..md",
     "vault/Characters/PCs/Flikk.md",
-    "vault/Characters/PCs/Elik Moon.md",
     "vault/Hidden/Images/PC/monk-statue.png",
     "vault/Hidden/Images/Locations/shire.png",
     "vault/Hidden/Images/Curse of Strahd.png",
