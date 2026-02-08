@@ -45,7 +45,7 @@ The party also stops by the headquarters of the order of the silver dragon, expl
 
 ### Back in [[Vallaki]]
 
-The party uses the festival of the sun as an opportunity to fake poisoning the baron (who was [[Lamb]] in disguise) capturing him and giving him over to Strahd. Lady Fiona is also killed (by [[Izek]]) in this chaos as well as [[Ana]], but first she kills the [[Monk]] (allowing him to break his oath of silence after death). This leaves Vallaki without any leader and chaos ensues. This is the last time the party would see [[Izek]] and [[Baronnet Victor]] (until Strahd's wedding) who fleas fearing the cultists would kill them.
+The party uses the festival of the sun as an opportunity to fake poisoning the baron (who was [[Lamb]] in disguise) capturing him and giving him over to Strahd. Lady Fiona is also killed (by [[Izek]]) in this chaos as well as [[Ana]], but Ana first kills [[Monk]] (allowing him to break his oath of silence after death). Monk is ressurected by [[Tuush]]. The death of both Lady Fiona and the Barron leaves Vallaki without any leader and chaos ensues. This is the last time the party would see [[Izek]] and [[Baronnet Victor]] (until Strahd's wedding) who fleas fearing the cultists would kill them.
 
 After the chaos of the festival of the sun, the cultists start burning the barron's house and Vallaki's walls. The party also looses [[Elik Moon]] who has now succumbed to his lycanthropy. They tried locking him up in the jail cells to keep him safe but he shapeshifted under the full moon and escaped, killing all the guards in the process
 
